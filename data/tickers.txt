@@ -1,0 +1,102 @@
+# TRAPP2-1 Tracked Tickers
+# ========================
+# One ticker per line. Lines starting with # are comments.
+# This is your master list — the script fetches data for every ticker here.
+#
+# Pipelines that consume this file:
+#   - pipeline/fetch_data.py (live quotes)
+#   - pipeline/fetch_history.py (5y price history)
+#   - pipeline/fetch_company_facts.py (Wikidata company data — filters non-equities)
+#   - pipeline/fetch_ceo_tracker.py (leadership career history)
+#
+# Non-equity tickers (^IDX, =F futures, =X FX, -USD crypto, .PVT private, options)
+# are kept here for price/history pipelines but auto-skipped by the company-facts /
+# CEO-tracker pipelines (they have no Wikidata company entity).
+
+# ============================================================
+# YOUR ORIGINAL ENTRIES (preserved in original order, deduped)
+# ============================================================
+
+# US Equities
+AXL
+CTLT
+WBA
+CNHI
+K 
+HAYN
+SQ
+JNPR
+CFLT
+PARA
+NGNI
+IPG
+CYBR
+SPLK
+PFPT
+KNBE
+RIO
+SCCO
+CLF 
+X
+MT 
+PKX
+PCAR
+GOLD
+AEM
+FNV
+WPM
+KGC
+RGLD
+IAU
+SLV
+SIVR
+EQT 
+EXE
+AR 
+RGC
+LNG
+ET 
+EXPE
+RYAAY
+MAR 
+HLT
+ZIM
+MAERSK-N.CO 
+GSL
+SBLK
+GNK
+FRO 
+STNG 
+ADDYY
+VFC
+TPR 
+GPS
+NC.PA 
+RMS.PA 
+CFR.SW
+KER.PA 
+PRX.AS
+TPR 
+CPRI
+XYL
+PNR
+AWK
+WTRG
+PHO
+9983.T 
+009540.KS
+RDFN
+600438.SS
+NOVA
+005930.KS 
+L3HRS
+2317.TW
+005930.KS 
+043220.KS 
+000725.SZ
+2317.TW 
+1211.HK
+6753.T 
+1211.HK 
+BLNK
+4063.T 
