@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:05:48.303506Z",
+  "generatedAt": "2026-06-13T04:43:39.564576Z",
   "source": "wikidata",
   "tickers": {
     "AXL": {
@@ -393,9 +393,9 @@
       "fetchedAt": "2026-06-13T03:06:06.171895Z"
     },
     "AAP": {
-      "ok": false,
-      "msg": "empty facts for QID Q312",
-      "fetchedAt": "2026-06-13T03:36:53.933145Z"
+      "ok": true,
+      "msg": "QID=Q312, 2 execs, 6 board, 20 products",
+      "fetchedAt": "2026-06-13T04:43:38.064358Z"
     },
     "ABCB": {
       "ok": true,

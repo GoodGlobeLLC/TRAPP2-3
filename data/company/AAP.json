@@ -1,0 +1,128 @@
+{
+  "ticker": "AAP",
+  "qid": "Q312",
+  "fetchedAt": "2026-06-13T04:43:38.063890Z",
+  "source": "wikidata",
+  "name": "Apple Inc.",
+  "description": "American multinational technology company based in Cupertino, California",
+  "website": "https://apple.com/tw/",
+  "isin": "US0378331005",
+  "inception": "1976-04-01",
+  "employees": 164000,
+  "industry": "mobile phone industry",
+  "headquarters": "Cupertino",
+  "executives": [
+    {
+      "name": "Tim Cook",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [
+    {
+      "name": "Susan Wagner",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ronald Sugar",
+      "role": "Board Member"
+    },
+    {
+      "name": "James A. Bell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Arthur D. Levinson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Andrea Jung",
+      "role": "Board Member"
+    },
+    {
+      "name": "Al Gore",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Steve Wozniak"
+    },
+    {
+      "name": "Ronald Wayne"
+    },
+    {
+      "name": "Steve Jobs"
+    }
+  ],
+  "products": [
+    {
+      "name": "Apple Watch"
+    },
+    {
+      "name": "networking hardware"
+    },
+    {
+      "name": "AirPods"
+    },
+    {
+      "name": "Apple Pay"
+    },
+    {
+      "name": "HomePod"
+    },
+    {
+      "name": "Apple TV"
+    },
+    {
+      "name": "wearable computer"
+    },
+    {
+      "name": "consumer electronics"
+    },
+    {
+      "name": "personal digital assistant"
+    },
+    {
+      "name": "peripheral"
+    },
+    {
+      "name": "tablet computer"
+    },
+    {
+      "name": "Mac"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "personal computer"
+    },
+    {
+      "name": "iPod touch"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "iPhone"
+    },
+    {
+      "name": "iMac"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "iPod"
+    }
+  ],
+  "countries": [
+    {
+      "name": "worldwide"
+    }
+  ]
+}
