@@ -1,0 +1,23 @@
+{
+  "ticker": "JD",
+  "qid": "Q3598926",
+  "fetchedAt": "2026-06-13T03:48:51.871513Z",
+  "source": "wikidata",
+  "name": "JD.com",
+  "description": "Chinese\u00a0e-commerce company",
+  "website": "https://jd.com/",
+  "isin": "US47215P1066",
+  "inception": "2004-01-01",
+  "employees": 62000,
+  "industry": "e-commerce",
+  "headquarters": "Beijing",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Liu Qiangdong"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

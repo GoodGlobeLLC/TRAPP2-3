@@ -1,0 +1,30 @@
+{
+  "ticker": "RACE",
+  "qid": "Q22243729",
+  "fetchedAt": "2026-06-13T03:57:55.054386Z",
+  "source": "wikidata",
+  "name": "Q22243729",
+  "description": "Dutch holding company that controls Ferrari",
+  "website": "https://corporate.ferrari.com/",
+  "isin": "NL0011509302",
+  "inception": "2013-05-24",
+  "employees": null,
+  "industry": "automotive industry",
+  "headquarters": "Maranello",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Fiat S.p.A."
+    }
+  ],
+  "products": [
+    {
+      "name": "supercar"
+    },
+    {
+      "name": "sports car"
+    }
+  ],
+  "countries": []
+}

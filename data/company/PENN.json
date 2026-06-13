@@ -1,0 +1,23 @@
+{
+  "ticker": "PENN",
+  "qid": "Q7163201",
+  "fetchedAt": "2026-06-13T03:56:48.605781Z",
+  "source": "wikidata",
+  "name": "Penn Entertainment",
+  "description": "American entertainment company and operator of integrated entertainment, sports content, and casino gaming based in Pennsylvania.",
+  "website": "http://www.pngaming.com/",
+  "isin": "US7075691094",
+  "inception": "1972-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Wyomissing",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "casino"
+    }
+  ],
+  "countries": []
+}

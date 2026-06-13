@@ -1,0 +1,27 @@
+{
+  "ticker": "JACK",
+  "qid": "Q1538507",
+  "fetchedAt": "2026-06-13T03:48:41.376770Z",
+  "source": "wikidata",
+  "name": "Jack in the Box",
+  "description": "American fast-food restaurant chain",
+  "website": "https://www.jackinthebox.com",
+  "isin": "US4663671091",
+  "inception": "1951-01-01",
+  "employees": null,
+  "industry": "restaurant",
+  "headquarters": "San Diego",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Robert Oscar Peterson"
+    }
+  ],
+  "products": [
+    {
+      "name": "hamburger"
+    }
+  ],
+  "countries": []
+}

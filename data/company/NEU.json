@@ -1,0 +1,23 @@
+{
+  "ticker": "NEU",
+  "qid": "Q17562023",
+  "fetchedAt": "2026-06-13T03:53:49.571384Z",
+  "source": "wikidata",
+  "name": "NewMarket Corporation",
+  "description": "American chemical company",
+  "website": "http://www.newmarket.com/",
+  "isin": null,
+  "inception": "1887-01-01",
+  "employees": null,
+  "industry": "chemical industry",
+  "headquarters": "Richmond",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "petroleum industry"
+    }
+  ],
+  "countries": []
+}

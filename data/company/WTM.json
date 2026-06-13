@@ -1,0 +1,44 @@
+{
+  "ticker": "WTM",
+  "qid": "Q139589886",
+  "fetchedAt": "2026-06-13T04:04:16.260031Z",
+  "source": "wikidata",
+  "name": "Waifu Talent",
+  "description": "American talent management agency for online content creators",
+  "website": "https://waifutalent.com",
+  "isin": null,
+  "inception": "2022-01-01",
+  "employees": null,
+  "industry": "creator economy",
+  "headquarters": "Beverly Hills",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": [
+    {
+      "name": "New Zealand"
+    },
+    {
+      "name": "Australia"
+    },
+    {
+      "name": "Germany"
+    },
+    {
+      "name": "United Kingdom"
+    },
+    {
+      "name": "Netherlands"
+    },
+    {
+      "name": "United States"
+    },
+    {
+      "name": "Ireland"
+    },
+    {
+      "name": "Canada"
+    }
+  ]
+}

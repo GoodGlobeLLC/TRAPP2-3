@@ -1,0 +1,23 @@
+{
+  "ticker": "CCU",
+  "qid": "Q2990393",
+  "fetchedAt": "2026-06-13T03:41:31.015889Z",
+  "source": "wikidata",
+  "name": "CCU",
+  "description": "Chilean drinks and beer company",
+  "website": "http://www.ccu.cl",
+  "isin": "US2044291043",
+  "inception": "1902-01-01",
+  "employees": null,
+  "industry": "brewing industry",
+  "headquarters": "Santiago",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "beer"
+    }
+  ],
+  "countries": []
+}
