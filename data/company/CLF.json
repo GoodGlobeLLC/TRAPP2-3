@@ -1,0 +1,27 @@
+{
+  "ticker": "CLF",
+  "qid": "Q5133094",
+  "fetchedAt": "2026-06-13T02:38:15.194196Z",
+  "source": "wikidata",
+  "name": "Cleveland-Cliffs",
+  "description": "American steelmaking company",
+  "website": "http://www.clevelandcliffs.com/",
+  "isin": "US18683K1016",
+  "inception": "1846-01-01",
+  "employees": 30000,
+  "industry": "iron and steel industry",
+  "headquarters": "Cleveland",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Samuel Mather"
+    }
+  ],
+  "products": [
+    {
+      "name": "steel"
+    }
+  ],
+  "countries": []
+}
