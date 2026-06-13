@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-13T03:09:47.225109Z",
+  "fetchedAt": "2026-06-13T04:14:58.609305Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -72,14 +72,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
           "children's writer",
-          "film producer",
-          "journalist",
-          "university teacher",
           "political scientist",
+          "film producer",
+          "university teacher",
+          "journalist",
           "historian",
           "entrepreneur",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -91,16 +91,6 @@
         ],
         "employers": [
           {
-            "company": "Clinton Foundation",
-            "start": "2011-01-01",
-            "end": null
-          },
-          {
-            "company": "McKinsey & Company",
-            "start": "2003-01-01",
-            "end": "2006-01-01"
-          },
-          {
             "company": "Expedia Group",
             "start": "2017-03-01",
             "end": null
@@ -111,8 +101,18 @@
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Clinton Foundation",
+            "start": "2011-01-01",
+            "end": null
+          },
+          {
+            "company": "McKinsey & Company",
+            "start": "2003-01-01",
+            "end": "2006-01-01"
+          },
+          {
+            "company": "Avenue Capital Group",
+            "start": "2006-01-01",
             "end": null
           },
           {
@@ -121,8 +121,8 @@
             "end": "2014-08-01"
           },
           {
-            "company": "Avenue Capital Group",
-            "start": "2006-01-01",
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],

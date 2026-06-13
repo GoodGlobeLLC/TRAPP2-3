@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-13T03:09:47.229242Z",
+  "fetchedAt": "2026-06-13T04:14:58.624396Z",
   "people": [
     {
       "qid": "Q137910641",
@@ -43,10 +43,10 @@
           "financier"
         ],
         "education": [
-          "Harvard Law School",
           "University High School",
           "University of Washington Michael G. Foster School of Business",
-          "University of Washington"
+          "University of Washington",
+          "Harvard Law School"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-13T03:09:47.227220Z",
+  "fetchedAt": "2026-06-13T04:14:58.617796Z",
   "people": [
     {
       "qid": "Q357616",
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
-          "Lyc\u00e9e Saint-Louis-de-Gonzague",
+          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "HEC Paris"
+          "Lyc\u00e9e Saint-Louis-de-Gonzague"
         ],
         "employers": [
           {
