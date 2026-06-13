@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "physician",
-          "pathologist"
+          "pathologist",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -286,10 +286,10 @@
           "cardiologist"
         ],
         "education": [
-          "University of New Brunswick",
-          "Dalhousie University",
           "Nackawic Senior High School",
-          "Queen's University"
+          "Queen's University",
+          "University of New Brunswick",
+          "Dalhousie University"
         ],
         "employers": [],
         "positions": [
@@ -314,8 +314,8 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
           "University of Sydney",
@@ -512,8 +512,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
+          "university teacher",
           "physician"
         ],
         "education": [

@@ -28,16 +28,6 @@
             "end": "2009-01-01"
           },
           {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -51,6 +41,16 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -170,8 +170,8 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
           "University of Oxford",
@@ -217,11 +217,11 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist",
-          "politician",
           "businessperson",
-          "lawyer"
+          "university teacher",
+          "lawyer",
+          "politician",
+          "economist"
         ],
         "education": [
           "University of Kansas",

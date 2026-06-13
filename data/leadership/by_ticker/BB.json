@@ -25,6 +25,11 @@
         ],
         "employers": [
           {
+            "company": "Siemens Nixdorf Informationssysteme",
+            "start": "1995-01-01",
+            "end": "1997-01-01"
+          },
+          {
             "company": "BlackBerry",
             "start": "2013-11-01",
             "end": null
@@ -38,11 +43,6 @@
             "company": "Unisys",
             "start": "1979-01-01",
             "end": "1991-01-01"
-          },
-          {
-            "company": "Siemens Nixdorf Informationssysteme",
-            "start": "1995-01-01",
-            "end": "1997-01-01"
           }
         ],
         "positions": []
