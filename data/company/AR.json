@@ -1,0 +1,23 @@
+{
+  "ticker": "AR",
+  "qid": "Q39046155",
+  "fetchedAt": "2026-06-13T02:50:57.477518Z",
+  "source": "wikidata",
+  "name": "Antero Resources",
+  "description": "energy company in Denver, Colorado, U.S.",
+  "website": "http://www.anteroresources.com",
+  "isin": "US03674X1063",
+  "inception": "2002-01-01",
+  "employees": null,
+  "industry": "petroleum industry",
+  "headquarters": "Denver",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "natural gas"
+    }
+  ],
+  "countries": []
+}
