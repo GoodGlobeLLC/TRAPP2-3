@@ -1,0 +1,40 @@
+{
+  "qid": "Q2926852",
+  "name": "Bruno Lafont",
+  "dateOfBirth": "1956-06-08",
+  "birthPlace": "Boulogne-Billancourt",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bruno%20Lafont%202010.jpg",
+  "occupations": [
+    "businessperson"
+  ],
+  "education": [
+    "Lyc\u00e9e Saint-Louis-de-Gonzague",
+    "Lyc\u00e9e Louis-le-Grand",
+    "\u00c9cole nationale d'administration",
+    "HEC Paris"
+  ],
+  "employers": [
+    {
+      "company": "Lafarge",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "honorary chairperson",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
+  "currentTickers": [
+    "MT"
+  ]
+}

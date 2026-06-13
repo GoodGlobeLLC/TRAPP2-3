@@ -1,0 +1,33 @@
+{
+  "qid": "Q5231533",
+  "name": "David Bonderman",
+  "dateOfBirth": "1942-11-27",
+  "birthPlace": "Los Angeles",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
+  "occupations": [
+    "lawyer",
+    "financier"
+  ],
+  "education": [
+    "Harvard Law School",
+    "University High School",
+    "University of Washington Michael G. Foster School of Business",
+    "University of Washington"
+  ],
+  "employers": [
+    {
+      "company": "TPG",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Tulane University of Louisiana",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "RYAAY"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "ticker": "HLT",
+  "fetchedAt": "2026-06-13T03:09:47.225970Z",
+  "people": [
+    {
+      "qid": "Q52084464",
+      "name": "Christopher J. Nassetta",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q52084464",
+        "name": "Christopher J. Nassetta",
+        "dateOfBirth": "1962-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chris%20Nassetta%20President%20%26%20CEO%2C%20Hilton%20Worldwide%20%2826279837295%29.jpg",
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Hilton Worldwide",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
+}

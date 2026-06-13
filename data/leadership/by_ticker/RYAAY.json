@@ -1,0 +1,129 @@
+{
+  "ticker": "RYAAY",
+  "fetchedAt": "2026-06-13T03:09:47.229242Z",
+  "people": [
+    {
+      "qid": "Q137910641",
+      "name": "Eddie Wilson",
+      "role_at_company": "Chief Executive Officer",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q137910641",
+        "name": "Eddie Wilson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "chief executive officer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Ryanair",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5231533",
+      "name": "David Bonderman",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5231533",
+        "name": "David Bonderman",
+        "dateOfBirth": "1942-11-27",
+        "birthPlace": "Los Angeles",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
+        "occupations": [
+          "lawyer",
+          "financier"
+        ],
+        "education": [
+          "Harvard Law School",
+          "University High School",
+          "University of Washington Michael G. Foster School of Business",
+          "University of Washington"
+        ],
+        "employers": [
+          {
+            "company": "TPG",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Tulane University of Louisiana",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q639725",
+      "name": "Tony Ryan",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q639725",
+        "name": "Tony Ryan",
+        "dateOfBirth": "1936-02-02",
+        "birthPlace": "Thurles",
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Northwestern University",
+          "Trinity College, Dublin",
+          "CBS Thurles"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1996-01-01",
+            "end": "1998-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q639725",
+      "name": "Tony Ryan",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q639725",
+        "name": "Tony Ryan",
+        "dateOfBirth": "1936-02-02",
+        "birthPlace": "Thurles",
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Northwestern University",
+          "Trinity College, Dublin",
+          "CBS Thurles"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "1996-01-01",
+            "end": "1998-01-01"
+          }
+        ]
+      }
+    }
+  ]
+}
