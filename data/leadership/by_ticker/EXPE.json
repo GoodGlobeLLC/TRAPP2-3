@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-13T04:14:58.609305Z",
+  "fetchedAt": "2026-06-13T04:37:28.952948Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -31,13 +31,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
           "film producer",
+          "business executive",
           "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -71,13 +71,12 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "children's writer",
-          "political scientist",
           "film producer",
-          "university teacher",
+          "children's writer",
           "journalist",
+          "university teacher",
+          "political scientist",
           "historian",
-          "businessperson",
           "entrepreneur",
           "businessperson",
           "writer"
@@ -92,16 +91,6 @@
         ],
         "employers": [
           {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
-            "end": null
-          },
-          {
-            "company": "Columbia University Mailman School of Public Health",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
             "end": null
@@ -114,6 +103,16 @@
           {
             "company": "Avenue Capital Group",
             "start": "2006-01-01",
+            "end": null
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
             "end": null
           },
           {
