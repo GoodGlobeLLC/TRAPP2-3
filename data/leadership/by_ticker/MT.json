@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-13T03:09:47.227220Z",
+  "fetchedAt": "2026-06-13T03:27:19.302650Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,8 +36,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "association football player",
-          "politician"
+          "politician",
+          "association football player"
         ],
         "education": [
           "Free University of Brussels"
@@ -164,10 +164,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "jurist",
           "diplomat",
           "lawyer",
-          "politician"
+          "politician",
+          "jurist"
         ],
         "education": [
           "Free University of Brussels",
@@ -256,8 +256,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
