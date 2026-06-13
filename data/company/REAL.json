@@ -1,0 +1,23 @@
+{
+  "ticker": "REAL",
+  "qid": "Q65090792",
+  "fetchedAt": "2026-06-13T03:52:20.531902Z",
+  "source": "wikidata",
+  "name": "The RealReal",
+  "description": "American consignment company",
+  "website": "http://www.therealreal.com/",
+  "isin": "US88339P1012",
+  "inception": "2011-01-01",
+  "employees": null,
+  "industry": "Recommerce",
+  "headquarters": "Tiburon",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Julie Wainwright"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

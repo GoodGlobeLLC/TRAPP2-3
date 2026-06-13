@@ -1,0 +1,23 @@
+{
+  "ticker": "IEP",
+  "qid": "Q859363",
+  "fetchedAt": "2026-06-13T03:42:00.576493Z",
+  "source": "wikidata",
+  "name": "Sciences Po",
+  "description": "higher-education institution in Paris, France",
+  "website": "https://www.sciencespo.fr/",
+  "isin": null,
+  "inception": "1872-01-01",
+  "employees": 3280,
+  "industry": "higher education",
+  "headquarters": "Paris",
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "\u00c9mile Boutmy"
+    }
+  ],
+  "products": [],
+  "countries": []
+}

@@ -1,0 +1,28 @@
+{
+  "ticker": "JEF",
+  "qid": "Q325789",
+  "fetchedAt": "2026-06-13T03:42:56.750226Z",
+  "source": "wikidata",
+  "name": "Jefferies & Company",
+  "description": "company",
+  "website": "http://www.jefferies.com/",
+  "isin": null,
+  "inception": "1962-01-01",
+  "employees": null,
+  "industry": "investment",
+  "headquarters": "Frankfurt",
+  "executives": [
+    {
+      "name": "Richard B. Handler",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "financial services"
+    }
+  ],
+  "countries": []
+}

@@ -1,0 +1,24 @@
+{
+  "ticker": "SAVE",
+  "qid": "Q1190598",
+  "fetchedAt": "2026-06-13T03:53:44.674429Z",
+  "source": "wikidata",
+  "name": "Spirit Airlines",
+  "description": "defunct ultra low cost airline in the United States (1964/1983\u20132026)",
+  "website": "https://www.spirit.com/",
+  "isin": "US8485771021",
+  "inception": "1983-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Dania Beach",
+  "executives": [
+    {
+      "name": "Robert L. Fornaro",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
+}

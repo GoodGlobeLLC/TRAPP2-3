@@ -1,0 +1,32 @@
+{
+  "ticker": "BIRK",
+  "qid": "Q648458",
+  "fetchedAt": "2026-06-13T03:34:27.853357Z",
+  "source": "wikidata",
+  "name": "Birkenstock",
+  "description": "German shoe manufacturer",
+  "website": "https://www.birkenstock.com/",
+  "isin": "JE00BS44BN30",
+  "inception": "1774-01-01",
+  "employees": 5500,
+  "industry": "footwear industry",
+  "headquarters": "Neustadt (Wied)",
+  "executives": [
+    {
+      "name": "Oliver Reichert",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Karl Birkenstock",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "footwear"
+    }
+  ],
+  "countries": []
+}

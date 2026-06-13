@@ -1,0 +1,23 @@
+{
+  "ticker": "KOSS",
+  "qid": "Q1672602",
+  "fetchedAt": "2026-06-13T03:43:25.273487Z",
+  "source": "wikidata",
+  "name": "Koss Corporation",
+  "description": "American company",
+  "website": "http://www.koss.com/",
+  "isin": null,
+  "inception": "1953-01-01",
+  "employees": null,
+  "industry": "electronics",
+  "headquarters": "Milwaukee",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "headphone"
+    }
+  ],
+  "countries": []
+}
