@@ -1,0 +1,42 @@
+{
+  "ticker": "HLT",
+  "qid": "Q1057464",
+  "fetchedAt": "2026-06-13T02:44:26.221115Z",
+  "source": "wikidata",
+  "name": "Hilton Worldwide",
+  "description": "American multinational hospitality company",
+  "website": "https://www.hilton.com",
+  "isin": "US43300A2033",
+  "inception": "1919-01-01",
+  "employees": null,
+  "industry": "hospitality industry",
+  "headquarters": "McLean",
+  "executives": [
+    {
+      "name": "Christopher J. Nassetta",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Conrad Hilton"
+    }
+  ],
+  "products": [
+    {
+      "name": "resort"
+    },
+    {
+      "name": "franchising"
+    },
+    {
+      "name": "hotel"
+    }
+  ],
+  "countries": [
+    {
+      "name": "worldwide"
+    }
+  ]
+}

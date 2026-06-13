@@ -1,0 +1,53 @@
+{
+  "ticker": "MT",
+  "qid": "Q27893",
+  "fetchedAt": "2026-06-13T02:40:56.167337Z",
+  "source": "wikidata",
+  "name": "ArcelorMittal",
+  "description": "multinational steel manufacturing corporation",
+  "website": "https://corporate.arcelormittal.com/",
+  "isin": "LU1598757687",
+  "inception": "2006-01-01",
+  "employees": 125416,
+  "industry": "iron and steel industry",
+  "headquarters": "Luxembourg",
+  "executives": [
+    {
+      "name": "Aditya Mittal",
+      "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Lakshmi Mittal",
+      "role": "Chairperson"
+    }
+  ],
+  "board": [
+    {
+      "name": "Bruno Lafont",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jeannot Kreck\u00e9",
+      "role": "Board Member"
+    },
+    {
+      "name": "Karel De Gucht",
+      "role": "Board Member"
+    }
+  ],
+  "founders": [
+    {
+      "name": "Lakshmi Mittal"
+    }
+  ],
+  "products": [
+    {
+      "name": "high speed steel"
+    }
+  ],
+  "countries": [
+    {
+      "name": "worldwide"
+    }
+  ]
+}
