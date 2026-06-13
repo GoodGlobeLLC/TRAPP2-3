@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T04:05:48.303506Z",
+  "generatedAt": "2026-06-13T04:37:42.013596Z",
   "source": "wikidata",
   "tickers": {
     "AXL": {
@@ -395,7 +395,7 @@
     "AAP": {
       "ok": false,
       "msg": "empty facts for QID Q312",
-      "fetchedAt": "2026-06-13T03:36:53.933145Z"
+      "fetchedAt": "2026-06-13T04:37:40.513375Z"
     },
     "ABCB": {
       "ok": true,

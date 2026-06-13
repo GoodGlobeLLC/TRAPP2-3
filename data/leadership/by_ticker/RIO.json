@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-13T04:14:58.623827Z",
+  "fetchedAt": "2026-06-13T04:37:05.983158Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Stellenbosch University"
