@@ -1,0 +1,26 @@
+{
+  "qid": "Q16732234",
+  "name": "Gretchen W. McClain",
+  "dateOfBirth": null,
+  "birthPlace": null,
+  "image": null,
+  "occupations": [
+    "mechanical engineer"
+  ],
+  "education": [
+    "Skyline High School",
+    "University of Utah"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "2011-11-01",
+      "end": "2013-09-09"
+    }
+  ],
+  "currentTickers": [
+    "XYL"
+  ]
+}

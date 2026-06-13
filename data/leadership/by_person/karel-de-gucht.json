@@ -1,0 +1,90 @@
+{
+  "qid": "Q381218",
+  "name": "Karel De Gucht",
+  "dateOfBirth": "1954-01-27",
+  "birthPlace": "Overmere",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
+  "occupations": [
+    "foreign minister",
+    "diplomat",
+    "jurist",
+    "lawyer",
+    "politician"
+  ],
+  "education": [
+    "Free University of Brussels",
+    "Vrije Universiteit Brussel"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "European Commissioner for Preparedness and Crisis Management",
+      "company": null,
+      "start": "2009-07-17",
+      "end": "2010-02-09"
+    },
+    {
+      "title": "European Commissioner for Trade",
+      "company": null,
+      "start": "2010-02-09",
+      "end": "2014-11-01"
+    },
+    {
+      "title": "member of the Chamber of Representatives of Belgium",
+      "company": null,
+      "start": "2003-06-05",
+      "end": "2007-05-02"
+    },
+    {
+      "title": "Member of the European Parliament",
+      "company": null,
+      "start": "1989-07-25",
+      "end": "1994-07-18"
+    },
+    {
+      "title": "member of the Chamber of Representatives of Belgium",
+      "company": null,
+      "start": "2007-06-28",
+      "end": "2010-05-07"
+    },
+    {
+      "title": "Deputy Prime Minister of Belgium",
+      "company": null,
+      "start": "2008-12-30",
+      "end": "2009-07-15"
+    },
+    {
+      "title": "Member of the European Parliament",
+      "company": null,
+      "start": "1980-05-21",
+      "end": "1984-07-23"
+    },
+    {
+      "title": "Member of the European Parliament",
+      "company": null,
+      "start": "1984-07-24",
+      "end": "1989-07-24"
+    },
+    {
+      "title": "Senator of Belgium",
+      "company": null,
+      "start": "1994-01-01",
+      "end": "1995-01-01"
+    },
+    {
+      "title": "Minister of Foreign Affairs in Belgium",
+      "company": null,
+      "start": "2004-07-18",
+      "end": "2009-07-17"
+    },
+    {
+      "title": "member of the Flemish Parliament",
+      "company": null,
+      "start": "1999-01-01",
+      "end": "2003-01-01"
+    }
+  ],
+  "currentTickers": [
+    "MT"
+  ]
+}
