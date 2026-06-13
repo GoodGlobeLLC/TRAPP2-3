@@ -7,13 +7,13 @@
   "occupations": [
     "children's writer",
     "film producer",
-    "journalist",
     "university teacher",
     "political scientist",
+    "journalist",
     "historian",
+    "businessperson",
     "entrepreneur",
-    "writer",
-    "businessperson"
+    "writer"
   ],
   "education": [
     "Sidwell Friends School",
@@ -35,6 +35,11 @@
       "end": "2006-01-01"
     },
     {
+      "company": "Avenue Capital Group",
+      "start": "2006-01-01",
+      "end": null
+    },
+    {
       "company": "Expedia Group",
       "start": "2017-03-01",
       "end": null
@@ -45,18 +50,13 @@
       "end": null
     },
     {
-      "company": "New York University",
-      "start": "2010-01-01",
-      "end": null
-    },
-    {
       "company": "NBC",
       "start": "2011-11-01",
       "end": "2014-08-01"
     },
     {
-      "company": "Avenue Capital Group",
-      "start": "2006-01-01",
+      "company": "New York University",
+      "start": "2010-01-01",
       "end": null
     }
   ],
