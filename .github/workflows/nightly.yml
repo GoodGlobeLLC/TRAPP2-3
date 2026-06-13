@@ -1,3 +1,12 @@
+# ============================================================
+#  >>> DESTINATION: TRAPP2-3 repo  →  .github/workflows/nightly.yml  <<<
+#  GoodGlobeLLC/TRAPP2-3/.github/workflows/nightly.yml
+#
+#  Replace the existing nightly.yml in TRAPP2-3 with THIS file. It fixes
+#  the "! [rejected] main -> main (fetch first)" push error by integrating
+#  the remote (ours wins on data/) before pushing, with
+#  --allow-unrelated-histories for the fresh-clone case.
+# ============================================================
 name: Nightly Full Refresh
 
 # Pushed 4 hours earlier from 04:30 UTC to 00:30 UTC to compensate for
@@ -98,11 +107,16 @@ jobs:
             echo "No company-facts changes to commit"
           else
             git commit -m "Company facts refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            for i in 1 2 3; do
-              if git push; then break; fi
-              git fetch origin
-              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
-              if [ -f .git/MERGE_HEAD ]; then git checkout --ours -- data/ 2>/dev/null || true; git add -A data/ 2>/dev/null || true; git commit --no-edit 2>/dev/null || true; fi
+            for i in 1 2 3 4 5; do
+              if git push origin HEAD:main; then echo "pushed (attempt $i)"; break; fi
+              echo "push $i rejected — integrating remote (ours wins on data/)"
+              git fetch origin main || true
+              # Merge remote in; on any data/ conflict, keep OURS. allow-unrelated
+              # covers the fresh-clone case where histories diverged.
+              git merge -X ours --allow-unrelated-histories --no-edit origin/main 2>/dev/null || true
+              git checkout --ours -- data/ 2>/dev/null || true
+              git add -A data/ 2>/dev/null || true
+              git commit --no-edit 2>/dev/null || true
               sleep 4
             done
           fi
@@ -131,21 +145,21 @@ jobs:
             echo "No nightly changes to commit"
           else
             git commit -m "Nightly refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            # Generated data — on conflict with a parallel run, OURS wins. Never
-            # hand-rebase JSON (git can't auto-merge it; that was the exit-128 cause).
+            # Generated data — on conflict with a parallel run or a diverged
+            # branch, OURS wins. We integrate the remote first, then push.
+            # --allow-unrelated-histories handles the fresh-clone case (the
+            # "fetch first" rejection you saw on TRAPP2-3).
             for i in 1 2 3 4 5; do
-              if git push; then
+              if git push origin HEAD:main; then
                 echo "Push succeeded on attempt $i"
                 break
               fi
-              echo "Push attempt $i failed — merging remote with OURS winning conflicts"
-              git fetch origin
-              git merge -X ours origin/main 2>/dev/null || git merge -X ours origin/master 2>/dev/null || true
-              if [ -d .git/rebase-merge ] || [ -f .git/MERGE_HEAD ]; then
-                git checkout --ours -- data/ 2>/dev/null || true
-                git add -A data/ 2>/dev/null || true
-                git commit --no-edit 2>/dev/null || true
-              fi
+              echo "Push attempt $i rejected — integrating remote (ours wins on data/)"
+              git fetch origin main || true
+              git merge -X ours --allow-unrelated-histories --no-edit origin/main 2>/dev/null || true
+              git checkout --ours -- data/ 2>/dev/null || true
+              git add -A data/ 2>/dev/null || true
+              git commit --no-edit 2>/dev/null || true
               sleep 4
             done
           fi
