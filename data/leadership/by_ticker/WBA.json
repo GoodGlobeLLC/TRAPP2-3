@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-13T04:14:58.628828Z",
+  "fetchedAt": "2026-06-13T04:37:05.989376Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "chief executive officer",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -234,8 +234,8 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Pennsylvania",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -319,9 +319,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "chief executive officer",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -383,8 +383,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
