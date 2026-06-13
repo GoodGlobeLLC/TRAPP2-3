@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-13T04:14:58.606526Z",
+  "fetchedAt": "2026-06-13T04:54:05.727045Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -400,8 +400,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [],
         "employers": [],

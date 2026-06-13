@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-13T04:14:58.628828Z",
+  "fetchedAt": "2026-06-13T04:54:05.752555Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -16,8 +16,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -234,8 +234,8 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Pennsylvania",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -320,8 +320,8 @@
         "occupations": [
           "entrepreneur",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Polytechnic University of Milan"
