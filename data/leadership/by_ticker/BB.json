@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-06-13T04:14:58.603808Z",
+  "fetchedAt": "2026-06-13T04:37:28.947166Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -25,6 +25,11 @@
         ],
         "employers": [
           {
+            "company": "Siemens Nixdorf Informationssysteme",
+            "start": "1995-01-01",
+            "end": "1997-01-01"
+          },
+          {
             "company": "BlackBerry",
             "start": "2013-11-01",
             "end": null
@@ -38,11 +43,6 @@
             "company": "Unisys",
             "start": "1979-01-01",
             "end": "1991-01-01"
-          },
-          {
-            "company": "Siemens Nixdorf Informationssysteme",
-            "start": "1995-01-01",
-            "end": "1997-01-01"
           }
         ],
         "positions": []
