@@ -1,0 +1,30 @@
+{
+  "ticker": "GOLD",
+  "qid": "Q808908",
+  "fetchedAt": "2026-06-13T02:58:38.735189Z",
+  "source": "wikidata",
+  "name": "Barrick Mining Corporation",
+  "description": "company",
+  "website": "https://www.barrick.com",
+  "isin": "CA0679011084",
+  "inception": "1983-01-01",
+  "employees": null,
+  "industry": "mining",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [
+    {
+      "name": "Peter Munk"
+    }
+  ],
+  "products": [
+    {
+      "name": "gold"
+    },
+    {
+      "name": "copper"
+    }
+  ],
+  "countries": []
+}

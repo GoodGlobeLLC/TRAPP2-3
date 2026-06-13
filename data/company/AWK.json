@@ -1,0 +1,23 @@
+{
+  "ticker": "AWK",
+  "qid": "Q467238",
+  "fetchedAt": "2026-06-13T03:04:39.693323Z",
+  "source": "wikidata",
+  "name": "American Water Works",
+  "description": "company",
+  "website": "http://www.amwater.com/",
+  "isin": "US0304201033",
+  "inception": "1886-01-01",
+  "employees": null,
+  "industry": "public utility",
+  "headquarters": "Camden",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [
+    {
+      "name": "water"
+    }
+  ],
+  "countries": []
+}
