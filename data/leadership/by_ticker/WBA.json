@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-13T04:54:05.752555Z",
+  "fetchedAt": "2026-06-14T05:32:30.456829Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,9 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -234,8 +234,8 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -290,10 +290,10 @@
           "economist"
         ],
         "education": [
+          "West Virginia University School of Medicine",
           "The Wharton School",
           "West Virginia University",
-          "University of Pennsylvania",
-          "West Virginia University School of Medicine"
+          "University of Pennsylvania"
         ],
         "employers": [],
         "positions": [
@@ -319,9 +319,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -380,11 +380,11 @@
           "politician"
         ],
         "education": [
+          "Stanford University",
+          "University of Michigan",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
-          "University of Michigan Law School",
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [

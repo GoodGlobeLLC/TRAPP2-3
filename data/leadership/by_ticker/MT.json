@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-13T04:54:05.740594Z",
+  "fetchedAt": "2026-06-14T05:32:30.444266Z",
   "people": [
     {
       "qid": "Q357616",
@@ -40,9 +40,9 @@
           "businessperson"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
-          "Lyc\u00e9e Louis-le-Grand",
-          "\u00c9cole nationale d'administration",
+          "Lyc\u00e9e Saint-Louis-de-Gonzague",
           "HEC Paris",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague"
+          "Lyc\u00e9e Louis-le-Grand",
+          "\u00c9cole nationale d'administration"
         ],
         "employers": [
           {
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "association football player",
-          "politician"
+          "politician",
+          "association football player"
         ],
         "education": [
           "Free University of Brussels"
@@ -166,7 +166,6 @@
           "foreign minister",
           "jurist",
           "diplomat",
-          "jurist",
           "lawyer",
           "politician"
         ],
@@ -261,9 +260,9 @@
           "businessperson"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {

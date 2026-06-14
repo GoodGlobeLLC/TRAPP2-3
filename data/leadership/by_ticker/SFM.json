@@ -1,6 +1,6 @@
 {
   "ticker": "SFM",
-  "fetchedAt": "2026-06-13T04:54:05.748617Z",
+  "fetchedAt": "2026-06-14T05:32:30.452585Z",
   "people": [
     {
       "qid": "Q7345875",
@@ -19,8 +19,8 @@
         "education": [
           "Phillips Exeter Academy",
           "Stanford Graduate School of Business",
-          "Princeton University",
-          "Stanford University"
+          "Stanford University",
+          "Princeton University"
         ],
         "employers": [],
         "positions": [

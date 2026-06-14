@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-13T04:54:05.719984Z",
+  "fetchedAt": "2026-06-14T05:32:30.422408Z",
   "people": [
     {
       "qid": "Q265852",
@@ -18,15 +18,15 @@
           "manager",
           "chief executive officer",
           "computer scientist",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -252,15 +252,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
-          "blogger",
           "orator",
+          "blogger",
           "environmentalist",
           "financier",
+          "farmer",
           "journalist",
           "university teacher",
-          "farmer",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -329,14 +329,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -353,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
           "programmer",
           "electronics technician",
           "entrepreneur",
+          "computer scientist",
           "inventor",
-          "businessperson",
           "engineer",
+          "businessperson",
           "teacher",
           "actor"
         ],
@@ -372,6 +372,11 @@
         ],
         "employers": [
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
@@ -383,11 +388,6 @@
           },
           {
             "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -407,8 +407,8 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "engineer",
           "writer"
         ],
@@ -437,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
           "founder",
-          "film producer",
+          "designer",
           "financier",
-          "computer scientist",
+          "entrepreneur",
+          "film producer",
+          "inventor",
           "general manager",
           "executive producer",
-          "entrepreneur",
-          "inventor"
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -455,12 +455,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

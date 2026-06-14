@@ -1,6 +1,6 @@
 {
   "ticker": "MSTR",
-  "fetchedAt": "2026-06-13T04:54:05.740252Z",
+  "fetchedAt": "2026-06-14T05:32:30.443940Z",
   "people": [
     {
       "qid": "Q6831501",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "author",
-          "computer scientist",
           "inventor",
           "executive chairperson",
+          "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
@@ -68,11 +68,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
         "occupations": [
           "philanthropist",
-          "entrepreneur",
           "author",
-          "computer scientist",
           "inventor",
           "executive chairperson",
+          "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

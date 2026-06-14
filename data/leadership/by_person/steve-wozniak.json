@@ -5,13 +5,13 @@
   "birthPlace": "San Jose",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "computer scientist",
     "programmer",
     "electronics technician",
     "entrepreneur",
+    "computer scientist",
     "inventor",
-    "businessperson",
     "engineer",
+    "businessperson",
     "teacher",
     "actor"
   ],
@@ -24,6 +24,11 @@
   ],
   "employers": [
     {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
@@ -35,11 +40,6 @@
     },
     {
       "company": "Apple Inc.",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Atari, Inc.",
       "start": null,
       "end": null
     }

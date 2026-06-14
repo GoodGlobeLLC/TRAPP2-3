@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-13T04:54:05.731073Z",
+  "fetchedAt": "2026-06-14T05:32:30.433945Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "New York University School of Law",
@@ -23,9 +23,14 @@
         ],
         "employers": [
           {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -43,14 +48,9 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -89,12 +89,6 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -105,6 +99,12 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [
-          "University of Oxford",
+          "University of Manchester",
           "Massachusetts Institute of Technology",
-          "University of Manchester"
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -217,11 +217,11 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
+          "economist",
           "university teacher",
-          "lawyer",
           "politician",
-          "economist"
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "University of Kansas",
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Wheaton College"
+          "Wheaton College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -334,8 +334,8 @@
           "businessperson"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Stanford University",
+          "John F. Kennedy School of Government",
           "University of Oxford"
         ],
         "employers": [],
@@ -421,8 +421,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Princeton University"
+          "Princeton University",
+          "Stanford University"
         ],
         "employers": [
           {
