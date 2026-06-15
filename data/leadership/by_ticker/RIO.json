@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-14T05:32:30.451076Z",
+  "fetchedAt": "2026-06-15T03:14:01.379176Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Stellenbosch University"
@@ -118,8 +118,8 @@
         "occupations": [
           "anatomist",
           "diplomat",
-          "military officer",
           "politician",
+          "military officer",
           "physician"
         ],
         "education": [
@@ -128,12 +128,12 @@
         ],
         "employers": [
           {
-            "company": "Foreign Office",
+            "company": "McGill University",
             "start": null,
             "end": null
           },
           {
-            "company": "McGill University",
+            "company": "Foreign Office",
             "start": null,
             "end": null
           },

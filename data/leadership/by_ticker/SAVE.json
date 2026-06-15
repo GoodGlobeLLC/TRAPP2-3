@@ -1,6 +1,6 @@
 {
   "ticker": "SAVE",
-  "fetchedAt": "2026-06-14T05:32:30.452176Z",
+  "fetchedAt": "2026-06-15T03:14:01.380495Z",
   "people": [
     {
       "qid": "Q7346554",
@@ -17,9 +17,9 @@
           "chief executive officer"
         ],
         "education": [
+          "Harvard University",
           "Harvard Graduate School of Design",
-          "Rutgers University",
-          "Harvard University"
+          "Rutgers University"
         ],
         "employers": [],
         "positions": []

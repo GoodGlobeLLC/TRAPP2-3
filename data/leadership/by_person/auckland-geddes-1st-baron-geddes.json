@@ -7,8 +7,8 @@
   "occupations": [
     "anatomist",
     "diplomat",
-    "military officer",
     "politician",
+    "military officer",
     "physician"
   ],
   "education": [
@@ -17,12 +17,12 @@
   ],
   "employers": [
     {
-      "company": "Foreign Office",
+      "company": "McGill University",
       "start": null,
       "end": null
     },
     {
-      "company": "McGill University",
+      "company": "Foreign Office",
       "start": null,
       "end": null
     },
