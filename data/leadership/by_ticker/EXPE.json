@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-15T10:04:17.788347Z",
+  "fetchedAt": "2026-06-15T23:54:58.867747Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -71,14 +71,14 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "political scientist",
-          "film producer",
           "children's writer",
+          "film producer",
           "journalist",
-          "historian",
           "university teacher",
-          "businessperson",
+          "political scientist",
+          "historian",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -90,6 +90,16 @@
           "Columbia University Mailman School of Public Health"
         ],
         "employers": [
+          {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
+            "end": null
+          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -111,18 +121,8 @@
             "end": "2014-08-01"
           },
           {
-            "company": "Columbia University Mailman School of Public Health",
-            "start": "2012-01-01",
-            "end": null
-          },
-          {
             "company": "New York University",
             "start": "2010-01-01",
-            "end": null
-          },
-          {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
             "end": null
           }
         ],

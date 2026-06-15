@@ -1,6 +1,6 @@
 {
   "ticker": "CHWY",
-  "fetchedAt": "2026-06-15T10:04:17.785404Z",
+  "fetchedAt": "2026-06-15T23:54:58.864516Z",
   "people": [
     {
       "qid": "Q99691919",
@@ -17,9 +17,9 @@
           "chief executive officer"
         ],
         "education": [
-          "I. K. Gujral Punjab Technical University",
           "Booth School of Business",
-          "University of Texas at Austin"
+          "University of Texas at Austin",
+          "I. K. Gujral Punjab Technical University"
         ],
         "employers": [
           {
