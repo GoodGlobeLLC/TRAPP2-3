@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-15T10:04:17.785641Z",
+  "fetchedAt": "2026-06-15T23:54:58.864804Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -400,8 +400,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [],
         "employers": [],
@@ -439,11 +439,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
           "university teacher",
-          "dean",
+          "surgeon",
+          "physician",
           "politician",
-          "physician"
+          "dean"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -549,8 +549,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
           "politician",
-          "lawyer",
           "diplomat",
+          "lawyer",
           "physician"
         ],
         "education": [
@@ -676,10 +676,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
           "prince consort",
-          "consort",
+          "military officer",
           "polo player",
           "naval officer",
-          "military officer",
+          "consort",
           "aristocrat"
         ],
         "education": [

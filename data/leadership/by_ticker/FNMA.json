@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-15T10:04:17.788982Z",
+  "fetchedAt": "2026-06-15T23:54:58.868295Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []

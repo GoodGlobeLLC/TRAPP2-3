@@ -1,6 +1,6 @@
 {
   "ticker": "BIDU",
-  "fetchedAt": "2026-06-15T10:04:17.783953Z",
+  "fetchedAt": "2026-06-15T23:54:58.862847Z",
   "people": [
     {
       "qid": "Q92985",
@@ -14,10 +14,10 @@
         "birthPlace": "Yangquan",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Li%20%282020%29.png",
         "occupations": [
-          "inventor",
-          "entrepreneur",
           "software developer",
           "software engineer",
+          "inventor",
+          "entrepreneur",
           "computer scientist",
           "businessperson"
         ],
