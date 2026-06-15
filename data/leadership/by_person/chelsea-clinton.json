@@ -7,13 +7,13 @@
   "occupations": [
     "political scientist",
     "film producer",
-    "journalist",
     "children's writer",
+    "journalist",
     "historian",
     "university teacher",
     "businessperson",
-    "writer",
-    "entrepreneur"
+    "entrepreneur",
+    "writer"
   ],
   "education": [
     "Sidwell Friends School",
@@ -40,9 +40,9 @@
       "end": null
     },
     {
-      "company": "Expedia Group",
-      "start": "2017-03-01",
-      "end": null
+      "company": "NBC",
+      "start": "2011-11-01",
+      "end": "2014-08-01"
     },
     {
       "company": "Columbia University Mailman School of Public Health",
@@ -55,9 +55,9 @@
       "end": null
     },
     {
-      "company": "NBC",
-      "start": "2011-11-01",
-      "end": "2014-08-01"
+      "company": "Expedia Group",
+      "start": "2017-03-01",
+      "end": null
     }
   ],
   "positions": [],

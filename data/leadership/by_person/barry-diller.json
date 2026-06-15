@@ -5,20 +5,15 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
   "occupations": [
+    "film producer",
     "business executive",
-    "entrepreneur",
-    "film producer"
+    "entrepreneur"
   ],
   "education": [
-    "Beverly Hills High School",
-    "University of California, Los Angeles"
+    "University of California, Los Angeles",
+    "Beverly Hills High School"
   ],
   "employers": [
-    {
-      "company": "William Morris Agency",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Paramount Pictures",
       "start": null,
@@ -26,6 +21,11 @@
     },
     {
       "company": "American Broadcasting Company",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "William Morris Agency",
       "start": null,
       "end": null
     }

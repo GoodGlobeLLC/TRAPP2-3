@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-15T05:55:09.714639Z",
+  "fetchedAt": "2026-06-15T10:04:17.788347Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -31,20 +31,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
+          "film producer",
           "business executive",
-          "entrepreneur",
-          "film producer"
+          "entrepreneur"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
-          {
-            "company": "William Morris Agency",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Paramount Pictures",
             "start": null,
@@ -52,6 +47,11 @@
           },
           {
             "company": "American Broadcasting Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -73,13 +73,13 @@
         "occupations": [
           "political scientist",
           "film producer",
-          "journalist",
           "children's writer",
+          "journalist",
           "historian",
           "university teacher",
           "businessperson",
-          "writer",
-          "entrepreneur"
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -106,9 +106,9 @@
             "end": null
           },
           {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
-            "end": null
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
           },
           {
             "company": "Columbia University Mailman School of Public Health",
@@ -121,9 +121,9 @@
             "end": null
           },
           {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
           }
         ],
         "positions": []
