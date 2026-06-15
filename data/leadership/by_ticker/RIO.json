@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-14T05:32:30.451076Z",
+  "fetchedAt": "2026-06-15T03:21:10.702966Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Stellenbosch University"
@@ -117,9 +117,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
         "occupations": [
           "anatomist",
-          "diplomat",
           "military officer",
           "politician",
+          "diplomat",
           "physician"
         ],
         "education": [
@@ -128,12 +128,12 @@
         ],
         "employers": [
           {
-            "company": "Foreign Office",
+            "company": "McGill University",
             "start": null,
             "end": null
           },
           {
-            "company": "McGill University",
+            "company": "Foreign Office",
             "start": null,
             "end": null
           },
@@ -169,18 +169,6 @@
             "end": "1922-01-01"
           },
           {
-            "title": "President of the Board of Trade",
-            "company": null,
-            "start": "1919-05-26",
-            "end": "1920-03-19"
-          },
-          {
-            "title": "member of the 30th Parliament of the United Kingdom",
-            "company": null,
-            "start": "1917-10-25",
-            "end": "1918-11-25"
-          },
-          {
             "title": "Minister of Reconstruction",
             "company": null,
             "start": "1919-01-01",
@@ -191,6 +179,18 @@
             "company": null,
             "start": "1918-12-14",
             "end": "1920-03-15"
+          },
+          {
+            "title": "President of the Board of Trade",
+            "company": null,
+            "start": "1919-05-26",
+            "end": "1920-03-19"
+          },
+          {
+            "title": "member of the 30th Parliament of the United Kingdom",
+            "company": null,
+            "start": "1917-10-25",
+            "end": "1918-11-25"
           }
         ]
       }

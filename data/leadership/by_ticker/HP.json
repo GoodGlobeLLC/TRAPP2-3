@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-14T05:32:30.437036Z",
+  "fetchedAt": "2026-06-15T03:21:10.689548Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -317,9 +317,9 @@
           "university teacher"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Iowa State University",
-          "Indian Institute of Technology Madras",
-          "Massachusetts Institute of Technology"
+          "Indian Institute of Technology Madras"
         ],
         "employers": [
           {
@@ -333,12 +333,12 @@
             "end": null
           },
           {
-            "company": "Carnegie Mellon University",
+            "company": "Massachusetts Institute of Technology",
             "start": null,
             "end": null
           },
           {
-            "company": "Massachusetts Institute of Technology",
+            "company": "Carnegie Mellon University",
             "start": null,
             "end": null
           }
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "computer scientist"
         ],
         "education": [
           "Stanford University",
