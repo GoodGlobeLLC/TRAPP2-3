@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-15T10:58:04.130649Z",
+  "fetchedAt": "2026-06-15T23:51:42.063148Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -62,9 +62,9 @@
           "chemist"
         ],
         "education": [
+          "Iowa State University",
           "Florida International University",
-          "University of Montpellier",
-          "Iowa State University"
+          "University of Montpellier"
         ],
         "employers": [],
         "positions": []
@@ -271,9 +271,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Iowa",
           "John F. Kennedy School of Government",
-          "Harvard Law School",
-          "University of Iowa"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
-          "computer scientist",
+          "entrepreneur",
           "engineer",
-          "entrepreneur"
+          "computer scientist"
         ],
         "education": [
           "Stanford University",
