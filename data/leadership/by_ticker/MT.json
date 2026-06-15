@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-14T05:32:30.444266Z",
+  "fetchedAt": "2026-06-15T03:12:41.498227Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,8 +36,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -89,9 +89,9 @@
         ],
         "education": [
           "Lyc\u00e9e Saint-Louis-de-Gonzague",
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
-          "\u00c9cole nationale d'administration"
+          "\u00c9cole nationale d'administration",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "association football player"
+          "association football player",
+          "politician"
         ],
         "education": [
           "Free University of Brussels"
@@ -163,11 +163,11 @@
         "birthPlace": "Overmere",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
-          "foreign minister",
-          "jurist",
           "diplomat",
-          "lawyer",
-          "politician"
+          "jurist",
+          "foreign minister",
+          "politician",
+          "lawyer"
         ],
         "education": [
           "Free University of Brussels",
@@ -256,8 +256,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
