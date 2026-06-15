@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-06-14T05:32:30.431580Z",
+  "fetchedAt": "2026-06-15T03:05:00.654044Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -45,11 +45,6 @@
         ],
         "employers": [
           {
-            "company": "Bacardi",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Desigual",
             "start": "2014-01-01",
             "end": "2017-01-01"
@@ -62,6 +57,11 @@
           {
             "company": "Diageo",
             "start": "2016-01-01",
+            "end": null
+          },
+          {
+            "company": "Bacardi",
+            "start": null,
             "end": null
           },
           {
