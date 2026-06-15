@@ -10,10 +10,15 @@
     "film producer"
   ],
   "education": [
-    "University of California, Los Angeles",
-    "Beverly Hills High School"
+    "Beverly Hills High School",
+    "University of California, Los Angeles"
   ],
   "employers": [
+    {
+      "company": "William Morris Agency",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Paramount Pictures",
       "start": null,
@@ -21,11 +26,6 @@
     },
     {
       "company": "American Broadcasting Company",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "William Morris Agency",
       "start": null,
       "end": null
     }

@@ -1,6 +1,6 @@
 {
   "ticker": "X",
-  "fetchedAt": "2026-06-15T03:21:10.709764Z",
+  "fetchedAt": "2026-06-15T05:55:09.740232Z",
   "people": [
     {
       "qid": "Q55819254",
@@ -131,9 +131,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Michigan",
           "Denison University",
-          "Ross School of Business"
+          "Ross School of Business",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": []

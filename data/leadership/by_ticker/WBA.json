@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-15T03:21:10.708605Z",
+  "fetchedAt": "2026-06-15T05:55:09.738895Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,10 +15,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "engineer",
+          "businessperson",
           "entrepreneur",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer"
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -46,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -66,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "Birla Institute of Technology and Science"
         ],
         "employers": [
           {
@@ -107,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Duke University"
+          "Duke University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -231,12 +230,12 @@
           "chemist"
         ],
         "education": [
-          "University of Pennsylvania",
-          "University of Chicago",
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
-          "Booth School of Business"
+          "Booth School of Business",
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -320,10 +319,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "engineer",
+          "businessperson",
           "entrepreneur",
-          "chief executive officer",
-          "entrepreneur",
-          "engineer"
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -378,16 +376,15 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
-          "University of Michigan",
-          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [

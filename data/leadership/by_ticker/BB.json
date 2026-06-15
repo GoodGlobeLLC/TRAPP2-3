@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-06-15T03:21:10.679071Z",
+  "fetchedAt": "2026-06-15T05:55:09.706648Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -14,12 +14,12 @@
         "birthPlace": "British Hong Kong",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Chen%20at%20Techonomy%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
-          "Brown University",
           "California Institute of Technology",
+          "Brown University",
           "Northfield Mount Hermon School",
           "La Salle College"
         ],

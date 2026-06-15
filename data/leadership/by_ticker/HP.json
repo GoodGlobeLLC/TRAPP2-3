@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-15T03:21:10.689548Z",
+  "fetchedAt": "2026-06-15T05:55:09.718655Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -177,8 +177,8 @@
           "banker"
         ],
         "education": [
-          "Radcliffe College",
-          "Harvard University"
+          "Harvard University",
+          "Radcliffe College"
         ],
         "employers": [],
         "positions": [
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -317,11 +317,16 @@
           "university teacher"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "Iowa State University",
-          "Indian Institute of Technology Madras"
+          "Indian Institute of Technology Madras",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
+          {
+            "company": "Carnegie Mellon University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Nanyang Technological University",
             "start": null,
@@ -334,11 +339,6 @@
           },
           {
             "company": "Massachusetts Institute of Technology",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Carnegie Mellon University",
             "start": null,
             "end": null
           }

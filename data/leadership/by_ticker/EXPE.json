@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-15T03:21:10.685934Z",
+  "fetchedAt": "2026-06-15T05:55:09.714639Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -36,10 +36,15 @@
           "film producer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
+          {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Paramount Pictures",
             "start": null,
@@ -47,11 +52,6 @@
           },
           {
             "company": "American Broadcasting Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -71,13 +71,13 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "children's writer",
-          "film producer",
-          "university teacher",
           "political scientist",
+          "film producer",
           "journalist",
-          "businessperson",
+          "children's writer",
           "historian",
+          "university teacher",
+          "businessperson",
           "writer",
           "entrepreneur"
         ],
@@ -90,21 +90,6 @@
           "Columbia University Mailman School of Public Health"
         ],
         "employers": [
-          {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
-          {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
-            "end": null
-          },
-          {
-            "company": "Columbia University Mailman School of Public Health",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -121,9 +106,24 @@
             "end": null
           },
           {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
+            "end": null
+          },
+          {
             "company": "New York University",
             "start": "2010-01-01",
             "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
           }
         ],
         "positions": []

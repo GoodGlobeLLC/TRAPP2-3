@@ -5,15 +5,15 @@
   "birthPlace": "San Jose",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "entrepreneur",
-    "inventor",
     "programmer",
     "electronics technician",
+    "inventor",
+    "entrepreneur",
     "computer scientist",
-    "actor",
     "engineer",
     "businessperson",
-    "teacher"
+    "teacher",
+    "actor"
   ],
   "education": [
     "University of Colorado",
@@ -24,17 +24,17 @@
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
     },
     {
       "company": "University of Technology Sydney",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },

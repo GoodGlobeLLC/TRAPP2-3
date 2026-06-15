@@ -1,6 +1,6 @@
 {
   "ticker": "HEIA",
-  "fetchedAt": "2026-06-15T03:21:10.689082Z",
+  "fetchedAt": "2026-06-15T05:55:09.718076Z",
   "people": [
     {
       "qid": "Q4457610",
@@ -92,10 +92,10 @@
         "birthPlace": "Amsterdam",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Adriaan%20Heineken.jpg",
         "occupations": [
-          "brewer",
           "entrepreneur",
-          "merchant",
-          "collector"
+          "collector",
+          "brewer",
+          "merchant"
         ],
         "education": [],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-15T03:21:10.703474Z",
+  "fetchedAt": "2026-06-15T05:55:09.733521Z",
   "people": [
     {
       "qid": "Q24795213",
@@ -14,8 +14,8 @@
         "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "musician",
-          "singer"
+          "singer",
+          "musician"
         ],
         "education": [],
         "employers": [],
@@ -38,10 +38,10 @@
           "financier"
         ],
         "education": [
+          "Harvard Law School",
           "University High School",
           "University of Washington Michael G. Foster School of Business",
-          "University of Washington",
-          "Harvard Law School"
+          "University of Washington"
         ],
         "employers": [
           {
@@ -74,9 +74,9 @@
           "businessperson"
         ],
         "education": [
-          "CBS Thurles",
           "Northwestern University",
-          "Trinity College, Dublin"
+          "Trinity College, Dublin",
+          "CBS Thurles"
         ],
         "employers": [],
         "positions": [
@@ -105,9 +105,9 @@
           "businessperson"
         ],
         "education": [
-          "CBS Thurles",
           "Northwestern University",
-          "Trinity College, Dublin"
+          "Trinity College, Dublin",
+          "CBS Thurles"
         ],
         "employers": [],
         "positions": [

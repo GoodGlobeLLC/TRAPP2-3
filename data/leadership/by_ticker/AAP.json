@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-15T03:21:10.675446Z",
+  "fetchedAt": "2026-06-15T05:55:09.702493Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,30 +14,30 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
-          "chief executive officer",
           "manager",
+          "businessperson",
           "engineer",
+          "presenter",
           "computer scientist",
-          "businessperson"
+          "chief executive officer"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -178,9 +178,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
           "University of California, San Francisco",
@@ -216,8 +216,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -251,24 +251,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
           "climate activist",
+          "blogger",
+          "orator",
           "environmentalist",
           "financier",
-          "blogger",
+          "university teacher",
           "journalist",
           "farmer",
-          "university teacher",
-          "businessperson",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -353,15 +353,15 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "entrepreneur",
-          "inventor",
           "programmer",
           "electronics technician",
+          "inventor",
+          "entrepreneur",
           "computer scientist",
-          "actor",
           "engineer",
           "businessperson",
-          "teacher"
+          "teacher",
+          "actor"
         ],
         "education": [
           "University of Colorado",
@@ -372,17 +372,17 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "engineer",
-          "writer",
-          "computer scientist"
+          "computer scientist",
+          "entrepreneur",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -439,14 +439,14 @@
         "occupations": [
           "technology entrepreneur",
           "designer",
+          "financier",
+          "film producer",
+          "founder",
           "general manager",
           "executive producer",
-          "entrepreneur",
-          "founder",
-          "financier",
-          "inventor",
           "computer scientist",
-          "film producer"
+          "entrepreneur",
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -455,7 +455,7 @@
         ],
         "employers": [
           {
-            "company": "Pixar",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }
