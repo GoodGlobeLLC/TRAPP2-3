@@ -8,16 +8,16 @@
     "businessperson"
   ],
   "education": [
-    "ESADE Business School",
-    "University of Miami",
     "ESADE",
-    "University of Barcelona"
+    "University of Barcelona",
+    "ESADE Business School",
+    "University of Miami"
   ],
   "employers": [
     {
-      "company": "Lion Capital LLP",
+      "company": "Bacardi",
       "start": null,
-      "end": "2019-01-01"
+      "end": null
     },
     {
       "company": "Desigual",
@@ -35,9 +35,9 @@
       "end": null
     },
     {
-      "company": "Bacardi",
+      "company": "Lion Capital LLP",
       "start": null,
-      "end": null
+      "end": "2019-01-01"
     }
   ],
   "positions": [],

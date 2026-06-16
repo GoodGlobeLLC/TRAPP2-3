@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-16T00:09:17.870519Z",
+  "fetchedAt": "2026-06-16T06:23:13.277416Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,13 +36,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
@@ -163,11 +163,11 @@
         "birthPlace": "Overmere",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
+          "lawyer",
           "foreign minister",
           "diplomat",
-          "jurist",
           "politician",
-          "lawyer"
+          "jurist"
         ],
         "education": [
           "Free University of Brussels",
@@ -256,13 +256,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {

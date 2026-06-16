@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-16T00:09:17.852085Z",
+  "fetchedAt": "2026-06-16T06:23:13.256651Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,17 +16,17 @@
         "occupations": [
           "presenter",
           "manager",
-          "computer scientist",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "computer scientist",
+          "engineer",
+          "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -63,13 +63,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -179,13 +179,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "biochemist",
+          "businessperson"
         ],
         "education": [
           "University of California, San Francisco",
-          "University of Washington",
-          "Princeton University"
+          "Princeton University",
+          "University of Washington"
         ],
         "employers": [
           {
@@ -251,17 +251,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "journalist",
+          "climate activist",
+          "orator",
           "university teacher",
           "environmentalist",
           "financier",
-          "climate activist",
-          "farmer",
           "blogger",
-          "orator",
-          "politician",
+          "farmer",
+          "journalist",
+          "writer",
           "businessperson",
-          "writer"
+          "politician"
         ],
         "education": [
           "Harvard College",
@@ -355,19 +355,19 @@
         "occupations": [
           "programmer",
           "electronics technician",
-          "computer scientist",
           "inventor",
-          "engineer",
           "entrepreneur",
+          "computer scientist",
+          "engineer",
           "businessperson",
           "teacher",
           "actor"
         ],
         "education": [
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
@@ -407,9 +407,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
           "computer scientist",
+          "engineer",
           "writer"
         ],
         "education": [
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "general manager",
-          "executive producer",
           "technology entrepreneur",
           "designer",
           "film producer",
           "founder",
+          "general manager",
+          "executive producer",
           "financier",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }

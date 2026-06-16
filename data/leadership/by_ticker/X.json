@@ -1,6 +1,6 @@
 {
   "ticker": "X",
-  "fetchedAt": "2026-06-16T00:09:17.881994Z",
+  "fetchedAt": "2026-06-16T06:23:13.290829Z",
   "people": [
     {
       "qid": "Q55819254",
@@ -109,8 +109,8 @@
           "official"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Loyola Law School"
+          "Loyola Law School",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": []
@@ -155,9 +155,9 @@
           "politician"
         ],
         "education": [
+          "Columbia Law School",
           "Roy C. Ketcham High School",
-          "Morehouse College",
-          "Columbia Law School"
+          "Morehouse College"
         ],
         "employers": [
           {
@@ -203,6 +203,12 @@
         ],
         "positions": [
           {
+            "title": "General Counsel of the Department of Defense",
+            "company": null,
+            "start": "2009-02-10",
+            "end": "2012-12-31"
+          },
+          {
             "title": "General Counsel of the Air Force",
             "company": null,
             "start": "1998-10-15",
@@ -213,12 +219,6 @@
             "company": null,
             "start": "2013-12-23",
             "end": "2017-01-20"
-          },
-          {
-            "title": "General Counsel of the Department of Defense",
-            "company": null,
-            "start": "2009-02-10",
-            "end": "2012-12-31"
           }
         ]
       }

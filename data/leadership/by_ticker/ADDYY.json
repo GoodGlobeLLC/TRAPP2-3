@@ -1,6 +1,6 @@
 {
   "ticker": "ADDYY",
-  "fetchedAt": "2026-06-16T00:09:17.853020Z",
+  "fetchedAt": "2026-06-16T06:23:13.257604Z",
   "people": [
     {
       "qid": "Q370191",
@@ -14,9 +14,9 @@
         "birthPlace": "Zurich",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06-26%20Fussball%2C%20Frauen%2C%20Deutsche%20Nationalmannschaft%2C%20Media%20Day%201DX%206470%20by%20Stepro.jpg",
         "occupations": [
+          "businessperson",
           "chief executive officer",
-          "association football player",
-          "businessperson"
+          "association football player"
         ],
         "education": [],
         "employers": [

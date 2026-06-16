@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-16T00:09:17.864856Z",
+  "fetchedAt": "2026-06-16T06:23:13.270807Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -62,9 +62,9 @@
           "chemist"
         ],
         "education": [
-          "Iowa State University",
           "Florida International University",
-          "University of Montpellier"
+          "University of Montpellier",
+          "Iowa State University"
         ],
         "employers": [],
         "positions": []
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -323,6 +323,11 @@
         ],
         "employers": [
           {
+            "company": "Carnegie Mellon University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Nanyang Technological University",
             "start": null,
             "end": null
@@ -330,11 +335,6 @@
           {
             "company": "Singapore Management University",
             "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "company": "Carnegie Mellon University",
-            "start": null,
             "end": null
           },
           {
@@ -359,8 +359,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "engineer",
+          "computer scientist"
         ],
         "education": [
           "Stanford University",

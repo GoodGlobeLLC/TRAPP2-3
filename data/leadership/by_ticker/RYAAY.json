@@ -1,24 +1,29 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-16T00:09:17.876613Z",
+  "fetchedAt": "2026-06-16T06:23:13.284574Z",
   "people": [
     {
-      "qid": "Q24795213",
+      "qid": "Q137910641",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q24795213",
+        "qid": "Q137910641",
         "name": "Eddie Wilson",
-        "dateOfBirth": "1936-01-01",
-        "birthPlace": "Ludwigsburg",
+        "dateOfBirth": null,
+        "birthPlace": null,
         "image": null,
         "occupations": [
-          "singer",
-          "musician"
+          "chief executive officer"
         ],
         "education": [],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Ryanair",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     },
@@ -38,10 +43,10 @@
           "financier"
         ],
         "education": [
-          "Harvard Law School",
           "University High School",
           "University of Washington Michael G. Foster School of Business",
-          "University of Washington"
+          "University of Washington",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -70,8 +75,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",
@@ -101,8 +106,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",

@@ -14,6 +14,11 @@
   ],
   "employers": [
     {
+      "company": "Carnegie Mellon University",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Nanyang Technological University",
       "start": null,
       "end": null
@@ -21,11 +26,6 @@
     {
       "company": "Singapore Management University",
       "start": "2018-01-01",
-      "end": null
-    },
-    {
-      "company": "Carnegie Mellon University",
-      "start": null,
       "end": null
     },
     {

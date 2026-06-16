@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-16T00:09:17.876127Z",
+  "fetchedAt": "2026-06-16T06:23:13.284030Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -118,8 +118,8 @@
         "occupations": [
           "anatomist",
           "military officer",
-          "diplomat",
           "politician",
+          "diplomat",
           "physician"
         ],
         "education": [

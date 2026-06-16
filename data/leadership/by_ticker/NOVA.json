@@ -1,6 +1,6 @@
 {
   "ticker": "NOVA",
-  "fetchedAt": "2026-06-16T00:09:17.871894Z",
+  "fetchedAt": "2026-06-16T06:23:13.279007Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -15,13 +15,13 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Investment%20Game%20Changers%20Summit%20I%202018%20%2844788377434%29.jpg",
         "occupations": [
           "business manager",
-          "physician",
-          "chief executive officer"
+          "chief executive officer",
+          "physician"
         ],
         "education": [
-          "University of Chicago",
           "John F. Kennedy School of Government",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "University of Chicago"
         ],
         "employers": [
           {

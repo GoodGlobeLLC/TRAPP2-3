@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-16T00:09:17.858660Z",
+  "fetchedAt": "2026-06-16T06:23:13.263637Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -318,8 +318,8 @@
           "physician"
         ],
         "education": [
-          "University of Sydney",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -400,8 +400,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [],
         "employers": [],
@@ -439,11 +439,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "university teacher",
-          "surgeon",
-          "dean",
           "physician",
-          "politician"
+          "university teacher",
+          "politician",
+          "dean",
+          "surgeon"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -490,8 +490,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "McGill University"
@@ -675,12 +675,12 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
+          "aristocrat",
           "prince consort",
-          "military officer",
           "polo player",
           "naval officer",
           "consort",
-          "aristocrat"
+          "military officer"
         ],
         "education": [
           "Cheam School",
