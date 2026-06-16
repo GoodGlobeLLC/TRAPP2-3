@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-15T23:54:58.859169Z",
+  "fetchedAt": "2026-06-16T00:09:17.852085Z",
   "people": [
     {
       "qid": "Q265852",
@@ -18,8 +18,8 @@
           "manager",
           "computer scientist",
           "chief executive officer",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Rostrevor College",
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -216,8 +216,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -251,16 +251,16 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "orator",
-          "climate activist",
-          "blogger",
-          "environmentalist",
-          "financier",
-          "farmer",
           "journalist",
           "university teacher",
-          "businessperson",
+          "environmentalist",
+          "financier",
+          "climate activist",
+          "farmer",
+          "blogger",
+          "orator",
           "politician",
+          "businessperson",
           "writer"
         ],
         "education": [
@@ -355,10 +355,10 @@
         "occupations": [
           "programmer",
           "electronics technician",
-          "inventor",
-          "entrepreneur",
           "computer scientist",
+          "inventor",
           "engineer",
+          "entrepreneur",
           "businessperson",
           "teacher",
           "actor"
@@ -407,9 +407,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "engineer",
           "entrepreneur",
           "computer scientist",
-          "engineer",
           "writer"
         ],
         "education": [
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
+          "general manager",
+          "executive producer",
           "technology entrepreneur",
           "designer",
           "film producer",
-          "financier",
           "founder",
-          "general manager",
-          "executive producer",
-          "entrepreneur",
+          "financier",
           "inventor",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [

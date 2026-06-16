@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-15T23:54:58.864804Z",
+  "fetchedAt": "2026-06-16T00:09:17.858660Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "neurosurgeon",
-          "physician"
+          "physician",
+          "neurosurgeon"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -164,8 +164,8 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "banker",
           "surgeon",
+          "banker",
           "politician",
           "physician",
           "writer"
@@ -441,9 +441,9 @@
         "occupations": [
           "university teacher",
           "surgeon",
+          "dean",
           "physician",
-          "politician",
-          "dean"
+          "politician"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -548,8 +548,8 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
           "diplomat",
+          "politician",
           "lawyer",
           "physician"
         ],

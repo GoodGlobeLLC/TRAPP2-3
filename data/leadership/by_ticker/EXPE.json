@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-15T23:54:58.867747Z",
+  "fetchedAt": "2026-06-16T00:09:17.861728Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -71,12 +71,12 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "children's writer",
           "film producer",
-          "journalist",
-          "university teacher",
-          "political scientist",
+          "children's writer",
           "historian",
+          "journalist",
+          "political scientist",
+          "university teacher",
           "entrepreneur",
           "businessperson",
           "writer"
@@ -101,6 +101,16 @@
             "end": null
           },
           {
+            "company": "New York University",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
+          {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
             "end": null
@@ -113,16 +123,6 @@
           {
             "company": "Avenue Capital Group",
             "start": "2006-01-01",
-            "end": null
-          },
-          {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
-          {
-            "company": "New York University",
-            "start": "2010-01-01",
             "end": null
           }
         ],
