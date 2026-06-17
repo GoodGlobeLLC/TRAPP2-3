@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-16T06:23:13.256651Z",
+  "fetchedAt": "2026-06-17T05:42:35.359760Z",
   "people": [
     {
       "qid": "Q265852",
@@ -17,16 +17,16 @@
           "presenter",
           "manager",
           "chief executive officer",
-          "computer scientist",
           "engineer",
+          "computer scientist",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -62,8 +62,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
@@ -178,8 +178,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
@@ -253,15 +253,15 @@
         "occupations": [
           "climate activist",
           "orator",
-          "university teacher",
-          "environmentalist",
-          "financier",
           "blogger",
+          "university teacher",
           "farmer",
           "journalist",
+          "environmentalist",
+          "financier",
+          "politician",
           "writer",
-          "businessperson",
-          "politician"
+          "businessperson"
         ],
         "education": [
           "Harvard College",
@@ -303,12 +303,6 @@
             "end": "2001-01-20"
           },
           {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "United States senator",
             "company": null,
             "start": "1985-01-03",
@@ -337,6 +331,12 @@
             "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
+          },
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -353,24 +353,29 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
+          "engineer",
           "programmer",
           "electronics technician",
           "inventor",
+          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "engineer",
-          "businessperson",
-          "teacher",
-          "actor"
+          "actor",
+          "teacher"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
+          "University of California, Berkeley",
           "Homestead High School"
         ],
         "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Atari, Inc.",
             "start": null,
@@ -383,11 +388,6 @@
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
           "designer",
-          "film producer",
           "founder",
+          "technology entrepreneur",
+          "film producer",
+          "financier",
           "general manager",
           "executive producer",
-          "financier",
-          "entrepreneur",
           "inventor",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
@@ -455,12 +455,12 @@
         ],
         "employers": [
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },

@@ -1,6 +1,6 @@
 {
   "ticker": "HEIA",
-  "fetchedAt": "2026-06-16T06:23:13.270312Z",
+  "fetchedAt": "2026-06-17T05:42:35.373665Z",
   "people": [
     {
       "qid": "Q4457610",
@@ -21,11 +21,6 @@
         ],
         "employers": [
           {
-            "company": "Mondelez International",
-            "start": "2010-01-01",
-            "end": null
-          },
-          {
             "company": "Vodafone",
             "start": "2020-01-01",
             "end": null
@@ -34,6 +29,11 @@
             "company": "Heineken International",
             "start": "2005-01-01",
             "end": "2020-01-01"
+          },
+          {
+            "company": "Mondelez International",
+            "start": "2010-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -92,8 +92,8 @@
         "birthPlace": "Amsterdam",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Adriaan%20Heineken.jpg",
         "occupations": [
-          "collector",
           "brewer",
+          "collector",
           "merchant",
           "entrepreneur"
         ],

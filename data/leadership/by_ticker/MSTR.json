@@ -1,6 +1,6 @@
 {
   "ticker": "MSTR",
-  "fetchedAt": "2026-06-16T06:23:13.277078Z",
+  "fetchedAt": "2026-06-17T05:42:35.382802Z",
   "people": [
     {
       "qid": "Q6831501",
@@ -14,13 +14,13 @@
         "birthPlace": "Lincoln",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
         "occupations": [
-          "philanthropist",
-          "entrepreneur",
           "executive chairperson",
+          "philanthropist",
           "author",
-          "computer scientist",
+          "businessperson",
+          "entrepreneur",
           "inventor",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Fairborn High School",
@@ -67,13 +67,13 @@
         "birthPlace": "Lincoln",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Saylor%202022.png",
         "occupations": [
-          "philanthropist",
-          "entrepreneur",
           "executive chairperson",
+          "philanthropist",
           "author",
-          "computer scientist",
+          "businessperson",
+          "entrepreneur",
           "inventor",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Fairborn High School",

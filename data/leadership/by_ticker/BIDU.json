@@ -1,6 +1,6 @@
 {
   "ticker": "BIDU",
-  "fetchedAt": "2026-06-16T06:23:13.260544Z",
+  "fetchedAt": "2026-06-17T05:42:35.363781Z",
   "people": [
     {
       "qid": "Q92985",
@@ -15,11 +15,11 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Li%20%282020%29.png",
         "occupations": [
           "inventor",
-          "software engineer",
           "software developer",
-          "computer scientist",
+          "businessperson",
+          "software engineer",
           "entrepreneur",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "University at Buffalo",

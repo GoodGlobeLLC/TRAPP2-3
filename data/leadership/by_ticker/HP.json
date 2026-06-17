@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-16T06:23:13.270807Z",
+  "fetchedAt": "2026-06-17T05:42:35.376297Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -177,8 +177,8 @@
           "banker"
         ],
         "education": [
-          "Radcliffe College",
-          "Harvard University"
+          "Harvard University",
+          "Radcliffe College"
         ],
         "employers": [],
         "positions": [
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -271,9 +271,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Iowa",
           "John F. Kennedy School of Government",
-          "Harvard Law School",
-          "University of Iowa"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": []
@@ -323,11 +323,6 @@
         ],
         "employers": [
           {
-            "company": "Carnegie Mellon University",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Nanyang Technological University",
             "start": null,
             "end": null
@@ -335,6 +330,11 @@
           {
             "company": "Singapore Management University",
             "start": "2018-01-01",
+            "end": null
+          },
+          {
+            "company": "Carnegie Mellon University",
+            "start": null,
             "end": null
           },
           {
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
+          "computer scientist",
           "entrepreneur",
-          "engineer",
-          "computer scientist"
+          "engineer"
         ],
         "education": [
           "Stanford University",

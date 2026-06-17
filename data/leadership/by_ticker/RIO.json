@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-16T06:23:13.284030Z",
+  "fetchedAt": "2026-06-17T05:42:35.389909Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Stellenbosch University"
@@ -117,10 +117,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
         "occupations": [
           "anatomist",
-          "military officer",
-          "politician",
           "diplomat",
-          "physician"
+          "military officer",
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Edinburgh",

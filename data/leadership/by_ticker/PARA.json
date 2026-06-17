@@ -1,6 +1,6 @@
 {
   "ticker": "PARA",
-  "fetchedAt": "2026-06-16T06:23:13.281108Z",
+  "fetchedAt": "2026-06-17T05:42:35.386950Z",
   "people": [
     {
       "qid": "Q6195201",
@@ -17,9 +17,9 @@
           "general manager"
         ],
         "education": [
+          "Boston University",
           "Fordham University School of Law",
-          "New York University School of Law",
-          "Boston University"
+          "New York University School of Law"
         ],
         "employers": [],
         "positions": []

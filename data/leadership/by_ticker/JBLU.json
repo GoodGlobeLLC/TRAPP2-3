@@ -1,6 +1,6 @@
 {
   "ticker": "JBLU",
-  "fetchedAt": "2026-06-16T06:23:13.272583Z",
+  "fetchedAt": "2026-06-17T05:42:35.378157Z",
   "people": [
     {
       "qid": "Q118088909",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joanna%20Geraghty%20at%20World%20Economic%20Forum%20Davos%202021.png",
         "occupations": [
           "businessperson",
-          "airline executive",
-          "lawyer"
+          "lawyer",
+          "airline executive"
         ],
         "education": [
           "College of the Holy Cross",
