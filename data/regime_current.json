@@ -1,12 +1,12 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "regime": "expansion",
   "confidence": 0.981,
   "scores": {
     "macro": 0.428,
-    "liquidity": 0.177,
+    "liquidity": 0.157,
     "volatility": -0.035,
-    "valuation": -0.318,
+    "valuation": -0.315,
     "trend": 0.958,
     "breadth": 0.455,
     "commodity": 0.007,
@@ -23,12 +23,12 @@
     "crypto": 1.0
   },
   "current_probabilities": {
-    "expansion": 0.4846,
-    "risk_on_melt_up": 0.1004,
-    "inflation_shock": 0.0187,
-    "recession_fear": 0.0011,
-    "risk_off": 0.0181,
-    "neutral": 0.3771
+    "expansion": 0.4798,
+    "risk_on_melt_up": 0.0984,
+    "inflation_shock": 0.0194,
+    "recession_fear": 0.0012,
+    "risk_off": 0.0188,
+    "neutral": 0.3824
   },
   "drivers": [
     {
@@ -60,7 +60,7 @@
       "indpro_yoy": 0.0167
     },
     "liquidity": {
-      "t10y2y": 0.38,
+      "t10y2y": 0.29,
       "hy_spread": 2.71,
       "hy_spread_z": -1.11,
       "hyg_minus_lqd_1m": -0.0045
@@ -72,8 +72,8 @@
     "valuation": {
       "spy_pe": 26.87,
       "earnings_yield": 0.0372,
-      "real_10y": 0.002,
-      "fed_model_spread": 0.0352
+      "real_10y": 0.0016,
+      "fed_model_spread": 0.0356
     },
     "trend": {
       "spy_price": 750.33,
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-17T23:01:00+00:00"
+  "computed_at": "2026-06-18T03:15:51+00:00"
 }

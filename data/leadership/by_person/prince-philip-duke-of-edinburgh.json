@@ -5,11 +5,9 @@
   "birthPlace": "Corfu",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
   "occupations": [
-    "aristocrat",
-    "prince consort",
     "polo player",
     "naval officer",
-    "consort",
+    "prince consort",
     "military officer"
   ],
   "education": [
@@ -26,12 +24,6 @@
     }
   ],
   "positions": [
-    {
-      "title": "member of the House of Lords",
-      "company": null,
-      "start": null,
-      "end": "http://www"
-    },
     {
       "title": "Lord High Admiral",
       "company": null,
@@ -55,6 +47,12 @@
       "company": null,
       "start": null,
       "end": null
+    },
+    {
+      "title": "member of the House of Lords",
+      "company": null,
+      "start": null,
+      "end": "http://www"
     }
   ],
   "currentTickers": [

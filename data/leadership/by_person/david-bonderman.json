@@ -5,8 +5,8 @@
   "birthPlace": "Los Angeles",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
   "occupations": [
-    "financier",
-    "lawyer"
+    "lawyer",
+    "financier"
   ],
   "education": [
     "Harvard Law School",
@@ -21,7 +21,7 @@
       "end": null
     },
     {
-      "company": "Tulane University of Louisiana",
+      "company": "Tulane University",
       "start": null,
       "end": null
     }
