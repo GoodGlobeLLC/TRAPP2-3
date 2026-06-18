@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-18T03:30:18.265246Z",
+  "fetchedAt": "2026-06-18T05:34:33.633205Z",
   "people": [
     {
       "qid": "Q265852",
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Booth School of Business",
@@ -178,14 +178,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "molecular biologist",
-          "businessperson",
-          "biochemist"
+          "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -251,24 +251,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "journalist",
-          "environmentalist",
-          "financier",
-          "university teacher",
           "climate activist",
-          "farmer",
           "orator",
           "blogger",
-          "businessperson",
+          "environmentalist",
+          "financier",
+          "journalist",
+          "university teacher",
+          "farmer",
           "politician",
+          "businessperson",
           "author"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -353,22 +353,22 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "computer scientist",
           "programmer",
           "electronics technician",
           "inventor",
-          "engineer",
           "entrepreneur",
-          "businessperson",
+          "computer scientist",
           "teacher",
-          "actor"
+          "engineer",
+          "actor",
+          "businessperson"
         ],
         "education": [
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -437,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
-          "financier",
           "film producer",
-          "founder",
+          "designer",
+          "financier",
           "general manager",
           "executive producer",
+          "founder",
           "entrepreneur",
-          "computer scientist",
-          "inventor"
+          "inventor",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -460,17 +460,17 @@
             "end": null
           },
           {
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
             "start": null,
             "end": null
           }

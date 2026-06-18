@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-18T03:30:18.272201Z",
+  "fetchedAt": "2026-06-18T05:34:33.643014Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -164,10 +164,10 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "banker",
           "surgeon",
-          "physician",
+          "banker",
           "politician",
+          "physician",
           "author"
         ],
         "education": [
@@ -318,8 +318,8 @@
           "physician"
         ],
         "education": [
-          "University of Edinburgh",
-          "University of Sydney"
+          "University of Sydney",
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -440,8 +440,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "university teacher",
-          "surgeon",
           "dean",
+          "surgeon",
           "politician",
           "physician"
         ],
@@ -490,8 +490,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -548,10 +548,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
           "diplomat",
-          "lawyer",
-          "physician"
+          "politician",
+          "physician",
+          "lawyer"
         ],
         "education": [
           "University of Edinburgh Medical School"

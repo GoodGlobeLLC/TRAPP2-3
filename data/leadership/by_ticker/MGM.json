@@ -1,6 +1,6 @@
 {
   "ticker": "MGM",
-  "fetchedAt": "2026-06-18T03:30:18.285072Z",
+  "fetchedAt": "2026-06-18T05:34:33.656026Z",
   "people": [
     {
       "qid": "Q1373662",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Loew.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "impresario"
+          "impresario",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
@@ -41,8 +41,8 @@
         "birthPlace": "Dymer",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20B%20Mayer%20cropped.jpg",
         "occupations": [
-          "screenwriter",
-          "film producer"
+          "film producer",
+          "screenwriter"
         ],
         "education": [],
         "employers": [
