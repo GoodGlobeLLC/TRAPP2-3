@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-17T05:42:35.395603Z",
+  "fetchedAt": "2026-06-18T03:15:22.859692Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "chief executive officer",
           "engineer",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -234,8 +234,8 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Pennsylvania",
-          "University of Chicago"
+          "University of Chicago",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -291,9 +291,9 @@
         ],
         "education": [
           "University of Pennsylvania",
+          "West Virginia University School of Medicine",
           "The Wharton School",
-          "West Virginia University",
-          "West Virginia University School of Medicine"
+          "West Virginia University"
         ],
         "employers": [],
         "positions": [
@@ -319,8 +319,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "chief executive officer",
           "engineer",
+          "chief executive officer",
           "businessperson"
         ],
         "education": [
@@ -380,11 +380,11 @@
           "politician"
         ],
         "education": [
-          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan"
+          "University of Michigan",
+          "Stanford University"
         ],
         "employers": [],
         "positions": [

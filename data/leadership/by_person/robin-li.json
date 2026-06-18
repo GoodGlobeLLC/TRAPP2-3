@@ -5,12 +5,12 @@
   "birthPlace": "Yangquan",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Robin%20Li%20%282020%29.png",
   "occupations": [
-    "inventor",
     "software developer",
-    "businessperson",
+    "inventor",
     "software engineer",
     "entrepreneur",
-    "computer scientist"
+    "computer scientist",
+    "businessperson"
   ],
   "education": [
     "University at Buffalo",
