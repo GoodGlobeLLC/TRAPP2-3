@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-06-17T05:42:35.368807Z",
+  "fetchedAt": "2026-06-18T03:15:44.494194Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -45,6 +45,16 @@
         ],
         "employers": [
           {
+            "company": "Bacardi",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Lion Capital LLP",
+            "start": null,
+            "end": "2019-01-01"
+          },
+          {
             "company": "Desigual",
             "start": "2014-01-01",
             "end": "2017-01-01"
@@ -58,16 +68,6 @@
             "company": "Diageo",
             "start": "2016-01-01",
             "end": null
-          },
-          {
-            "company": "Bacardi",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Lion Capital LLP",
-            "start": null,
-            "end": "2019-01-01"
           }
         ],
         "positions": []

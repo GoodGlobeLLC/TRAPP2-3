@@ -1,29 +1,24 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-17T05:42:35.390453Z",
+  "fetchedAt": "2026-06-18T03:15:22.854044Z",
   "people": [
     {
-      "qid": "Q137910641",
+      "qid": "Q24795213",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q137910641",
+        "qid": "Q24795213",
         "name": "Eddie Wilson",
-        "dateOfBirth": null,
-        "birthPlace": null,
+        "dateOfBirth": "1936-01-01",
+        "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "chief executive officer"
+          "musician",
+          "singer"
         ],
         "education": [],
-        "employers": [
-          {
-            "company": "Ryanair",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -39,8 +34,8 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
         "occupations": [
-          "financier",
-          "lawyer"
+          "lawyer",
+          "financier"
         ],
         "education": [
           "Harvard Law School",
@@ -55,7 +50,7 @@
             "end": null
           },
           {
-            "company": "Tulane University of Louisiana",
+            "company": "Tulane University",
             "start": null,
             "end": null
           }
