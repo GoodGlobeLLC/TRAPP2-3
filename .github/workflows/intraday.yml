@@ -1,3 +1,16 @@
+# ============================================================
+#  >>> DESTINATION: GoodGlobeLLC/TRAPP2-3
+#  >>> FILE PATH:   .github/workflows/intraday.yml
+#  >>> FULL PATH:   GoodGlobeLLC/TRAPP2-3/.github/workflows/intraday.yml
+#
+#  Edit/paste directly on GitHub here:
+#  https://github.com/GoodGlobeLLC/TRAPP2-3/edit/main/.github/workflows/intraday.yml
+#
+#  WHAT CHANGED IN THIS FILE:
+#    Concurrency group changed to `trapp2-quote-push` so this and
+#    quotes.yml in THIS repo never push at the same instant.
+# ============================================================
+
 name: Intraday Quotes
 
 on:
@@ -6,7 +19,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: intraday-quotes
+  group: trapp2-quote-push
   cancel-in-progress: false
 
 jobs:
