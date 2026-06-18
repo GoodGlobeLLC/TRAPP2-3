@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-17T05:42:35.376297Z",
+  "fetchedAt": "2026-06-18T03:16:11.725087Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -40,8 +40,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -177,8 +177,8 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
-          "Radcliffe College"
+          "Radcliffe College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -317,9 +317,9 @@
           "university teacher"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Iowa State University",
-          "Indian Institute of Technology Madras",
-          "Massachusetts Institute of Technology"
+          "Indian Institute of Technology Madras"
         ],
         "employers": [
           {
