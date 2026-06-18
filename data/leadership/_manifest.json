@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T05:42:35.419914Z",
+  "generatedAt": "2026-06-18T03:15:22.870060Z",
   "totalPeople": 145,
   "totalTickers": 39,
-  "lastRangeFilter": "ALL",
-  "thisRunPeople": 144,
-  "thisRunTickers": 260,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 41,
+  "thisRunTickers": 109,
   "index": [
     {
       "qid": "Q370191",
