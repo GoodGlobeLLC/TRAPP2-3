@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-18T03:15:44.485350Z",
+  "fetchedAt": "2026-06-18T03:30:18.265246Z",
   "people": [
     {
       "qid": "Q265852",
@@ -18,8 +18,8 @@
           "manager",
           "chief executive officer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Rostrevor College",
@@ -63,13 +63,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
+          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco",
-          "Princeton University"
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -179,13 +179,13 @@
         "image": null,
         "occupations": [
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "businessperson",
+          "biochemist"
         ],
         "education": [
+          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco",
-          "Princeton University"
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -251,24 +251,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "orator",
-          "blogger",
+          "journalist",
           "environmentalist",
           "financier",
-          "journalist",
           "university teacher",
+          "climate activist",
           "farmer",
+          "orator",
+          "blogger",
           "businessperson",
           "politician",
           "author"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -351,24 +351,24 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "businessperson",
-          "teacher",
-          "actor",
+          "computer scientist",
           "programmer",
           "electronics technician",
           "inventor",
+          "engineer",
           "entrepreneur",
-          "computer scientist",
-          "engineer"
+          "businessperson",
+          "teacher",
+          "actor"
         ],
         "education": [
-          "Homestead High School",
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder"
+          "University of Colorado Boulder",
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -439,14 +439,14 @@
         "occupations": [
           "designer",
           "technology entrepreneur",
+          "financier",
+          "film producer",
+          "founder",
           "general manager",
           "executive producer",
-          "film producer",
-          "financier",
-          "founder",
           "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "computer scientist",
+          "inventor"
         ],
         "education": [
           "Homestead High School",

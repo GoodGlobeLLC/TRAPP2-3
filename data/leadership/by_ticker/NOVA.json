@@ -1,6 +1,6 @@
 {
   "ticker": "NOVA",
-  "fetchedAt": "2026-06-18T03:15:22.847729Z",
+  "fetchedAt": "2026-06-18T03:30:18.287707Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -14,9 +14,9 @@
         "birthPlace": "Pittsburgh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Global%20Investment%20Game%20Changers%20Summit%20I%202018%20%2844788377434%29.jpg",
         "occupations": [
-          "business manager",
           "chief executive officer",
-          "physician"
+          "physician",
+          "business manager"
         ],
         "education": [
           "University of Chicago",
