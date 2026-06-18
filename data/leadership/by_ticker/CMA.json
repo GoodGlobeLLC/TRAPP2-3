@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-17T05:42:35.366959Z",
+  "fetchedAt": "2026-06-18T03:15:44.492204Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -166,9 +166,9 @@
         "occupations": [
           "banker",
           "surgeon",
+          "politician",
           "physician",
-          "writer",
-          "politician"
+          "author"
         ],
         "education": [
           "McGill University"
@@ -286,10 +286,10 @@
           "cardiologist"
         ],
         "education": [
-          "Nackawic Senior High School",
-          "Queen's University",
           "University of New Brunswick",
-          "Dalhousie University"
+          "Dalhousie University",
+          "Nackawic Senior High School",
+          "Queen's University"
         ],
         "employers": [],
         "positions": [
@@ -439,11 +439,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "university teacher",
           "dean",
+          "university teacher",
           "surgeon",
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -512,8 +512,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "physician",
+          "university teacher",
           "surgeon"
         ],
         "education": [
@@ -548,10 +548,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "physician",
           "diplomat",
           "politician",
-          "lawyer"
+          "lawyer",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -675,11 +675,9 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "aristocrat",
-          "prince consort",
           "polo player",
           "naval officer",
-          "consort",
+          "prince consort",
           "military officer"
         ],
         "education": [
@@ -696,12 +694,6 @@
           }
         ],
         "positions": [
-          {
-            "title": "member of the House of Lords",
-            "company": null,
-            "start": null,
-            "end": "http://www"
-          },
           {
             "title": "Lord High Admiral",
             "company": null,
@@ -725,6 +717,12 @@
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "member of the House of Lords",
+            "company": null,
+            "start": null,
+            "end": "http://www"
           }
         ]
       }

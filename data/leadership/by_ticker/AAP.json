@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-17T05:42:35.359760Z",
+  "fetchedAt": "2026-06-18T03:15:44.485350Z",
   "people": [
     {
       "qid": "Q265852",
@@ -17,9 +17,9 @@
           "presenter",
           "manager",
           "chief executive officer",
-          "engineer",
           "computer scientist",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Rostrevor College",
@@ -62,14 +62,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
+          "University of Washington",
           "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -178,14 +178,14 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "molecular biologist",
+          "biochemist",
           "businessperson"
         ],
         "education": [
+          "University of Washington",
           "University of California, San Francisco",
-          "Princeton University",
-          "University of Washington"
+          "Princeton University"
         ],
         "employers": [
           {
@@ -254,14 +254,14 @@
           "climate activist",
           "orator",
           "blogger",
-          "university teacher",
-          "farmer",
-          "journalist",
           "environmentalist",
           "financier",
+          "journalist",
+          "university teacher",
+          "farmer",
+          "businessperson",
           "politician",
-          "writer",
-          "businessperson"
+          "author"
         ],
         "education": [
           "Harvard College",
@@ -303,6 +303,12 @@
             "end": "2001-01-20"
           },
           {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "United States senator",
             "company": null,
             "start": "1985-01-03",
@@ -331,12 +337,6 @@
             "company": null,
             "start": "1977-01-03",
             "end": "1979-01-03"
-          },
-          {
-            "title": "board member",
-            "company": null,
-            "start": null,
-            "end": null
           }
         ]
       }
@@ -351,31 +351,26 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
+          "businessperson",
+          "teacher",
+          "actor",
           "programmer",
           "electronics technician",
           "inventor",
-          "businessperson",
           "entrepreneur",
           "computer scientist",
-          "actor",
-          "teacher"
+          "engineer"
         ],
         "education": [
+          "Homestead High School",
+          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder",
-          "University of California, Berkeley",
-          "Homestead High School"
+          "University of Colorado Boulder"
         ],
         "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Atari, Inc.",
             "start": null,
@@ -388,6 +383,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -410,7 +410,7 @@
           "entrepreneur",
           "computer scientist",
           "engineer",
-          "writer"
+          "author"
         ],
         "education": [
           "High School of Art and Design"
@@ -438,14 +438,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "designer",
-          "founder",
           "technology entrepreneur",
-          "film producer",
-          "financier",
           "general manager",
           "executive producer",
-          "inventor",
+          "film producer",
+          "financier",
+          "founder",
           "entrepreneur",
+          "inventor",
           "computer scientist"
         ],
         "education": [
@@ -455,12 +455,12 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
+            "company": "NeXT",
             "start": null,
             "end": null
           },
           {
-            "company": "NeXT",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
