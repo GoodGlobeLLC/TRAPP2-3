@@ -1,6 +1,6 @@
 {
   "ticker": "MGM",
-  "fetchedAt": "2026-06-18T05:34:33.656026Z",
+  "fetchedAt": "2026-06-19T05:16:17.024086Z",
   "people": [
     {
       "qid": "Q1373662",
@@ -41,8 +41,8 @@
         "birthPlace": "Dymer",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20B%20Mayer%20cropped.jpg",
         "occupations": [
-          "film producer",
-          "screenwriter"
+          "screenwriter",
+          "film producer"
         ],
         "education": [],
         "employers": [

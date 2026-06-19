@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-18T05:34:33.664031Z",
+  "fetchedAt": "2026-06-19T05:17:10.930599Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -118,13 +118,13 @@
         "occupations": [
           "anatomist",
           "diplomat",
-          "politician",
           "military officer",
+          "politician",
           "physician"
         ],
         "education": [
-          "University of Edinburgh",
-          "George Watson's College"
+          "George Watson's College",
+          "University of Edinburgh"
         ],
         "employers": [
           {

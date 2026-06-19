@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-18T05:34:33.664581Z",
+  "fetchedAt": "2026-06-19T05:17:10.931196Z",
   "people": [
     {
       "qid": "Q24795213",
@@ -14,8 +14,8 @@
         "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "musician",
-          "singer"
+          "singer",
+          "musician"
         ],
         "education": [],
         "employers": [],
