@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-06-19T05:17:10.900127Z",
+  "fetchedAt": "2026-06-19T05:34:06.940322Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -38,10 +38,10 @@
           "businessperson"
         ],
         "education": [
-          "ESADE",
-          "University of Barcelona",
           "ESADE Business School",
-          "University of Miami"
+          "University of Miami",
+          "ESADE",
+          "University of Barcelona"
         ],
         "employers": [
           {
@@ -60,14 +60,14 @@
             "end": null
           },
           {
-            "company": "Lion Capital LLP",
-            "start": null,
-            "end": "2019-01-01"
-          },
-          {
             "company": "Bacardi",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Lion Capital LLP",
+            "start": null,
+            "end": "2019-01-01"
           }
         ],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-19T05:17:10.898242Z",
+  "fetchedAt": "2026-06-19T05:34:06.938327Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "physician",
-          "pathologist"
+          "pathologist",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -129,8 +129,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -164,11 +164,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
+          "politician",
           "banker",
-          "writer",
           "surgeon",
           "physician",
-          "politician"
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -314,12 +314,12 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "physician",
-          "journalist"
+          "journalist",
+          "physician"
         ],
         "education": [
-          "University of Sydney",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -350,8 +350,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -440,8 +440,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "university teacher",
-          "surgeon",
           "politician",
+          "surgeon",
           "dean",
           "physician"
         ],
@@ -549,8 +549,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
           "diplomat",
-          "politician",
           "lawyer",
+          "politician",
           "physician"
         ],
         "education": [
