@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-18T05:34:33.650283Z",
+  "fetchedAt": "2026-06-19T05:16:17.017534Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -204,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -363,8 +363,8 @@
           "entrepreneur"
         ],
         "education": [
-          "Stanford University",
-          "Centennial High School"
+          "Centennial High School",
+          "Stanford University"
         ],
         "employers": [
           {

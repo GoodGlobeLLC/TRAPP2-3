@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-18T05:34:33.633205Z",
+  "fetchedAt": "2026-06-19T05:17:10.891674Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,8 +14,8 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
+          "presenter",
           "chief executive officer",
           "computer scientist",
           "engineer",
@@ -63,13 +63,13 @@
         "image": null,
         "occupations": [
           "biochemist",
-          "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "molecular biologist"
         ],
         "education": [
           "University of Washington",
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -179,13 +179,13 @@
         "image": null,
         "occupations": [
           "biochemist",
-          "molecular biologist",
-          "businessperson"
+          "businessperson",
+          "molecular biologist"
         ],
         "education": [
           "University of Washington",
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -251,17 +251,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "orator",
-          "blogger",
-          "environmentalist",
-          "financier",
           "journalist",
           "university teacher",
+          "climate activist",
           "farmer",
-          "politician",
+          "orator",
+          "environmentalist",
+          "financier",
+          "blogger",
           "businessperson",
-          "author"
+          "politician",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -329,14 +329,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           }
         ]
       }
@@ -356,26 +356,21 @@
           "programmer",
           "electronics technician",
           "inventor",
+          "businessperson",
+          "engineer",
           "entrepreneur",
           "computer scientist",
           "teacher",
-          "engineer",
-          "actor",
-          "businessperson"
+          "actor"
         ],
         "education": [
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Homestead High School"
         ],
         "employers": [
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -383,6 +378,11 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -409,8 +409,8 @@
         "occupations": [
           "entrepreneur",
           "computer scientist",
-          "engineer",
-          "author"
+          "writer",
+          "engineer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,13 +437,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
+          "founder",
           "technology entrepreneur",
-          "film producer",
           "designer",
+          "film producer",
           "financier",
           "general manager",
           "executive producer",
-          "founder",
           "entrepreneur",
           "inventor",
           "computer scientist"
