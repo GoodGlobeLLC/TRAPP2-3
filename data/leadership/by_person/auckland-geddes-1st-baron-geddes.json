@@ -7,13 +7,13 @@
   "occupations": [
     "anatomist",
     "diplomat",
-    "military officer",
     "politician",
+    "military officer",
     "physician"
   ],
   "education": [
-    "George Watson's College",
-    "University of Edinburgh"
+    "University of Edinburgh",
+    "George Watson's College"
   ],
   "employers": [
     {

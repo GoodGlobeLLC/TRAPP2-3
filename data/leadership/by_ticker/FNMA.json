@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-19T05:17:10.902422Z",
+  "fetchedAt": "2026-06-19T05:34:06.943042Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -38,16 +38,6 @@
             "end": "2004-01-01"
           },
           {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
-          },
-          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -61,6 +51,16 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -89,12 +89,6 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -105,6 +99,12 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [
           "University of Manchester",
-          "University of Oxford",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -218,15 +218,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "politician",
+          "lawyer",
           "economist",
           "businessperson",
-          "lawyer"
+          "politician"
         ],
         "education": [
+          "University of Kansas School of Law",
           "University of Kansas",
-          "University of Massachusetts Amherst",
-          "University of Kansas School of Law"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -426,6 +426,11 @@
         ],
         "employers": [
           {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -434,11 +439,6 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": []

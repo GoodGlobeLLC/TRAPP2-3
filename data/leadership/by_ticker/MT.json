@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-19T05:16:17.025174Z",
+  "fetchedAt": "2026-06-19T05:34:06.954370Z",
   "people": [
     {
       "qid": "Q357616",
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
+          "Lyc\u00e9e Saint-Louis-de-Gonzague",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague"
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "association football player"
+          "association football player",
+          "politician"
         ],
         "education": [
           "Free University of Brussels"
@@ -164,8 +164,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "jurist",
           "diplomat",
+          "jurist",
           "lawyer",
           "politician"
         ],

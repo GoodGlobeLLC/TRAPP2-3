@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-19T05:17:10.901771Z",
+  "fetchedAt": "2026-06-19T05:34:06.942352Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -73,12 +73,12 @@
         "occupations": [
           "children's writer",
           "political scientist",
-          "university teacher",
           "film producer",
+          "university teacher",
           "journalist",
           "historian",
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "writer"
         ],
         "education": [
