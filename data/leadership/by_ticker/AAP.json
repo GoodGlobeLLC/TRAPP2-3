@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-19T05:34:06.930311Z",
+  "fetchedAt": "2026-06-19T05:51:13.006990Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,12 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
           "presenter",
+          "manager",
           "chief executive officer",
           "computer scientist",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "Rostrevor College",
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "Apple Inc.",
-            "start": "1998-01-01",
-            "end": null
-          },
-          {
             "company": "IBM",
             "start": "1982-01-01",
             "end": "1994-01-01"
+          },
+          {
+            "company": "Apple Inc.",
+            "start": "1998-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -62,8 +62,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "University of Chicago",
@@ -178,8 +178,8 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "biochemist",
+          "molecular biologist",
           "businessperson"
         ],
         "education": [
@@ -216,8 +216,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "linguist",
-          "businessperson"
+          "businessperson",
+          "linguist"
         ],
         "education": [
           "Princeton University"
@@ -252,16 +252,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
+          "university teacher",
+          "orator",
+          "farmer",
           "environmentalist",
           "financier",
-          "politician",
-          "orator",
-          "university teacher",
           "blogger",
           "journalist",
-          "farmer",
-          "writer",
-          "businessperson"
+          "politician",
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -353,13 +353,13 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "inventor",
           "programmer",
           "electronics technician",
           "entrepreneur",
+          "inventor",
           "computer scientist",
-          "engineer",
           "businessperson",
+          "engineer",
           "teacher",
           "actor"
         ],
@@ -377,17 +377,17 @@
             "end": null
           },
           {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
             "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -407,9 +407,9 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
           "engineer",
+          "entrepreneur",
           "writer"
         ],
         "education": [
@@ -438,15 +438,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "technology entrepreneur",
-          "designer",
           "general manager",
           "executive producer",
+          "designer",
           "film producer",
-          "founder",
           "financier",
-          "entrepreneur",
+          "founder",
+          "inventor",
           "computer scientist",
-          "inventor"
+          "entrepreneur"
         ],
         "education": [
           "Homestead High School",
@@ -460,17 +460,17 @@
             "end": null
           },
           {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Pixar",
             "start": null,
             "end": null
           },
           {
             "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

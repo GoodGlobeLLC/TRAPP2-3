@@ -5,13 +5,13 @@
   "birthPlace": "San Jose",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
   "occupations": [
-    "inventor",
     "programmer",
     "electronics technician",
     "entrepreneur",
+    "inventor",
     "computer scientist",
-    "engineer",
     "businessperson",
+    "engineer",
     "teacher",
     "actor"
   ],
@@ -29,17 +29,17 @@
       "end": null
     },
     {
+      "company": "Apple Inc.",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Hewlett-Packard",
       "start": null,
       "end": null
     },
     {
       "company": "University of Technology Sydney",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

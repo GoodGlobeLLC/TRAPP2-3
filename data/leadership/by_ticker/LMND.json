@@ -1,6 +1,6 @@
 {
   "ticker": "LMND",
-  "fetchedAt": "2026-06-19T05:34:06.951670Z",
+  "fetchedAt": "2026-06-19T05:51:13.025907Z",
   "people": [
     {
       "qid": "Q104243795",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "chief executive officer",
-          "co-founder"
+          "co-founder",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [

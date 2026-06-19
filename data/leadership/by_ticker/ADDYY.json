@@ -1,6 +1,6 @@
 {
   "ticker": "ADDYY",
-  "fetchedAt": "2026-06-19T05:34:06.931358Z",
+  "fetchedAt": "2026-06-19T05:51:13.007949Z",
   "people": [
     {
       "qid": "Q370191",
@@ -15,11 +15,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06-26%20Fussball%2C%20Frauen%2C%20Deutsche%20Nationalmannschaft%2C%20Media%20Day%201DX%206470%20by%20Stepro.jpg",
         "occupations": [
           "association football player",
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [
+          {
+            "company": "Adidas AG",
+            "start": "2023-01-01",
+            "end": null
+          },
           {
             "company": "Salling Group",
             "start": null,
@@ -29,11 +34,6 @@
             "company": "Puma",
             "start": "2013-01-01",
             "end": "2022-01-01"
-          },
-          {
-            "company": "Adidas AG",
-            "start": "2023-01-01",
-            "end": null
           }
         ],
         "positions": []

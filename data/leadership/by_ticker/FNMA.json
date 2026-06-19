@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-19T05:34:06.943042Z",
+  "fetchedAt": "2026-06-19T05:51:13.018409Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "Cornell University",
@@ -26,16 +26,6 @@
             "company": "Bank of America",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -51,6 +41,16 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
+          "University of Oxford",
           "University of Manchester",
-          "Massachusetts Institute of Technology",
-          "University of Oxford"
+          "Massachusetts Institute of Technology"
         ],
         "employers": [
           {
@@ -218,15 +218,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "lawyer",
-          "economist",
           "businessperson",
-          "politician"
+          "politician",
+          "economist",
+          "lawyer"
         ],
         "education": [
-          "University of Kansas School of Law",
           "University of Kansas",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "University of Kansas School of Law"
         ],
         "employers": [
           {
@@ -334,8 +334,8 @@
           "economist"
         ],
         "education": [
-          "John F. Kennedy School of Government",
           "Stanford University",
+          "John F. Kennedy School of Government",
           "University of Oxford"
         ],
         "employers": [],
@@ -426,11 +426,6 @@
         ],
         "employers": [
           {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -439,6 +434,11 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": []

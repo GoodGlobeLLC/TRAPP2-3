@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-06-19T05:34:06.946588Z",
+  "fetchedAt": "2026-06-19T05:51:13.021496Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -40,8 +40,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -271,9 +271,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Iowa",
           "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Iowa"
         ],
         "employers": [],
         "positions": []
