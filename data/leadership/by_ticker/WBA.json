@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-18T05:34:33.670486Z",
+  "fetchedAt": "2026-06-19T05:17:10.937072Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "businessperson",
-          "chief executive officer"
+          "engineer",
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst",
-          "Birla Institute of Technology and Science"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "businessperson",
-          "chief executive officer"
+          "engineer",
+          "chief executive officer",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
