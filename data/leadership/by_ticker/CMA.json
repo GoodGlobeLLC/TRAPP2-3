@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-18T05:34:33.643014Z",
+  "fetchedAt": "2026-06-19T05:17:10.898242Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -129,8 +129,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Toronto"
@@ -164,11 +164,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "surgeon",
           "banker",
-          "politician",
+          "writer",
+          "surgeon",
           "physician",
-          "author"
+          "politician"
         ],
         "education": [
           "McGill University"
@@ -314,8 +314,8 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
           "University of Sydney",
@@ -440,9 +440,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "university teacher",
-          "dean",
           "surgeon",
           "politician",
+          "dean",
           "physician"
         ],
         "education": [
@@ -550,8 +550,8 @@
         "occupations": [
           "diplomat",
           "politician",
-          "physician",
-          "lawyer"
+          "lawyer",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
