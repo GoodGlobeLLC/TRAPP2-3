@@ -25,7 +25,7 @@
   "current_probabilities": {
     "expansion": 0.3636,
     "risk_on_melt_up": 0.0589,
-    "inflation_shock": 0.0257,
+    "inflation_shock": 0.0256,
     "recession_fear": 0.0022,
     "risk_off": 0.0302,
     "neutral": 0.5194
@@ -70,10 +70,10 @@
       "vix9d_over_vix": 0.936
     },
     "valuation": {
-      "spy_pe": 26.67,
-      "earnings_yield": 0.0375,
+      "spy_pe": 26.74,
+      "earnings_yield": 0.0374,
       "real_10y": 0.0022,
-      "fed_model_spread": 0.0353
+      "fed_model_spread": 0.0352
     },
     "trend": {
       "spy_price": 740.96,
@@ -100,5 +100,5 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-19T05:17:02+00:00"
+  "computed_at": "2026-06-19T16:03:18+00:00"
 }
