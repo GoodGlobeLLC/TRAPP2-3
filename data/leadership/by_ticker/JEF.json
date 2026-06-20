@@ -1,6 +1,6 @@
 {
   "ticker": "JEF",
-  "fetchedAt": "2026-06-19T05:51:13.023524Z",
+  "fetchedAt": "2026-06-20T05:12:17.833006Z",
   "people": [
     {
       "qid": "Q7323856",
@@ -14,15 +14,15 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "chief executive officer",
           "investment banker",
-          "financier",
-          "chief executive officer"
+          "financier"
         ],
         "education": [
           "University of Rochester",
-          "Stanford University",
           "Pascack Hills High School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-19T05:51:13.034856Z",
+  "fetchedAt": "2026-06-20T05:12:17.846757Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "manager",
-          "entrepreneur"
+          "entrepreneur",
+          "manager"
         ],
         "education": [
           "Stellenbosch University"
@@ -128,12 +128,12 @@
         ],
         "employers": [
           {
-            "company": "McGill University",
+            "company": "Foreign Office",
             "start": null,
             "end": null
           },
           {
-            "company": "Foreign Office",
+            "company": "McGill University",
             "start": null,
             "end": null
           },
