@@ -100,7 +100,7 @@
       "n_components": 3
     }
   },
-  "computed_at": "2026-06-21T05:30:52+00:00",
+  "computed_at": "2026-06-21T18:27:59+00:00",
   "transitions": {
     "1_step": {
       "expansion": 0.2222,
@@ -188,5 +188,5 @@
   ],
   "transition_observation_count": 8,
   "transition_warning": "Only 8 transitions observed \u2014 need \u226560 for high confidence",
-  "transitions_computed_at": "2026-06-21T05:30:52+00:00"
+  "transitions_computed_at": "2026-06-21T18:27:59+00:00"
 }
