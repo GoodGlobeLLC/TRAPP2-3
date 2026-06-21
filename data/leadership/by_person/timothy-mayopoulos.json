@@ -14,6 +14,11 @@
   ],
   "employers": [
     {
+      "company": "Bank of America",
+      "start": "2004-01-01",
+      "end": "2009-01-01"
+    },
+    {
       "company": "Credit Suisse",
       "start": "2000-01-01",
       "end": "2001-01-01"
@@ -22,11 +27,6 @@
       "company": "Deutsche Bank",
       "start": "2002-01-01",
       "end": "2004-01-01"
-    },
-    {
-      "company": "Bank of America",
-      "start": "2004-01-01",
-      "end": "2009-01-01"
     },
     {
       "company": "Fannie Mae",
@@ -80,12 +80,6 @@
       "end": null
     },
     {
-      "title": "member of the board of trustees",
-      "company": null,
-      "start": null,
-      "end": null
-    },
-    {
       "title": "general counsel",
       "company": null,
       "start": "2009-01-01",
@@ -96,6 +90,12 @@
       "company": null,
       "start": "2012-01-01",
       "end": "2018-01-01"
+    },
+    {
+      "title": "member of the board of trustees",
+      "company": null,
+      "start": null,
+      "end": null
     },
     {
       "title": "chief administrative officer",

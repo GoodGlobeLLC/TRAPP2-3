@@ -1,29 +1,24 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-06-20T05:12:17.847372Z",
+  "fetchedAt": "2026-06-21T05:41:52.957876Z",
   "people": [
     {
-      "qid": "Q137910641",
+      "qid": "Q24795213",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q137910641",
+        "qid": "Q24795213",
         "name": "Eddie Wilson",
-        "dateOfBirth": null,
-        "birthPlace": null,
+        "dateOfBirth": "1936-01-01",
+        "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "chief executive officer"
+          "musician",
+          "singer"
         ],
         "education": [],
-        "employers": [
-          {
-            "company": "Ryanair",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },

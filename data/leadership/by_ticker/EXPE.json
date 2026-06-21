@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-20T05:12:17.826097Z",
+  "fetchedAt": "2026-06-21T05:41:52.935336Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -73,13 +73,13 @@
         "occupations": [
           "children's writer",
           "film producer",
-          "journalist",
           "political scientist",
-          "historian",
           "university teacher",
+          "journalist",
+          "historian",
           "entrepreneur",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -90,16 +90,6 @@
           "Columbia University Mailman School of Public Health"
         ],
         "employers": [
-          {
-            "company": "Expedia Group",
-            "start": "2017-03-01",
-            "end": null
-          },
-          {
-            "company": "Columbia University Mailman School of Public Health",
-            "start": "2012-01-01",
-            "end": null
-          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -119,6 +109,16 @@
             "company": "NBC",
             "start": "2011-11-01",
             "end": "2014-08-01"
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2017-03-01",
+            "end": null
+          },
+          {
+            "company": "Columbia University Mailman School of Public Health",
+            "start": "2012-01-01",
+            "end": null
           },
           {
             "company": "New York University",

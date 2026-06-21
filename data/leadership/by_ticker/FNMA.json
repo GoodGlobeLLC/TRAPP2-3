@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-20T05:12:17.826889Z",
+  "fetchedAt": "2026-06-21T05:41:52.936035Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -23,6 +23,11 @@
         ],
         "employers": [
           {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
             "company": "Credit Suisse",
             "start": "2000-01-01",
             "end": "2001-01-01"
@@ -31,11 +36,6 @@
             "company": "Deutsche Bank",
             "start": "2002-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -89,12 +89,6 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -105,6 +99,12 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -170,13 +170,13 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
           "University of Manchester",
-          "University of Oxford",
-          "Massachusetts Institute of Technology"
+          "Massachusetts Institute of Technology",
+          "University of Oxford"
         ],
         "employers": [
           {
@@ -218,9 +218,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "businessperson",
           "economist",
           "politician",
+          "businessperson",
           "lawyer"
         ],
         "education": [
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "businessperson",
-          "adjunct professor"
+          "adjunct professor",
+          "businessperson"
         ],
         "education": [
           "College of Europe",
-          "Yale University",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -330,8 +330,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Kimbrough%20at%20Jobs%20Reset%20Summit.jpg",
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
           "Stanford University",
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Boston University",
-          "Fisk University",
-          "Yale University"
+          "Fisk University"
         ],
         "employers": [],
         "positions": []

@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-20T05:12:17.813895Z",
+  "fetchedAt": "2026-06-21T05:41:52.922340Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,12 +14,12 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
-          "computer scientist",
-          "engineer",
+          "chief executive officer",
           "manager",
+          "presenter",
+          "engineer",
           "businessperson",
-          "chief executive officer"
+          "computer scientist"
         ],
         "education": [
           "Rostrevor College",
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -104,9 +104,9 @@
           "economist"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -178,13 +178,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "molecular biologist",
           "businessperson",
+          "molecular biologist",
           "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -253,12 +253,12 @@
         "occupations": [
           "climate activist",
           "orator",
+          "blogger",
           "environmentalist",
           "financier",
-          "blogger",
           "journalist",
-          "university teacher",
           "farmer",
+          "university teacher",
           "politician",
           "businessperson",
           "writer"
@@ -408,9 +408,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
           "entrepreneur",
-          "writer",
           "computer scientist",
-          "engineer"
+          "engineer",
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,10 +437,10 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "founder",
           "designer",
-          "film producer",
           "technology entrepreneur",
+          "film producer",
+          "founder",
           "financier",
           "general manager",
           "executive producer",
@@ -460,17 +460,17 @@
             "end": null
           },
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
             "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
