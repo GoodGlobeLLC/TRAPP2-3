@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-21T05:41:52.936035Z",
+  "fetchedAt": "2026-06-21T18:32:51.585028Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "Cornell University",
@@ -38,6 +38,16 @@
             "end": "2004-01-01"
           },
           {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
+          },
+          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -51,16 +61,6 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "banker",
-          "entrepreneur"
+          "entrepreneur",
+          "banker"
         ],
         "education": [
           "Cranfield School of Management",
@@ -174,8 +174,8 @@
           "economist"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
+          "University of Manchester",
           "University of Oxford"
         ],
         "employers": [
@@ -334,9 +334,9 @@
           "businessperson"
         ],
         "education": [
+          "University of Oxford",
           "Stanford University",
-          "John F. Kennedy School of Government",
-          "University of Oxford"
+          "John F. Kennedy School of Government"
         ],
         "employers": [],
         "positions": []
@@ -426,6 +426,11 @@
         ],
         "employers": [
           {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -434,11 +439,6 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": []

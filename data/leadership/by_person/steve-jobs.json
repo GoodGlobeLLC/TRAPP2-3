@@ -7,13 +7,13 @@
   "occupations": [
     "designer",
     "technology entrepreneur",
-    "film producer",
     "founder",
-    "financier",
     "general manager",
     "executive producer",
-    "computer scientist",
+    "film producer",
+    "financier",
     "entrepreneur",
+    "computer scientist",
     "inventor"
   ],
   "education": [
@@ -33,12 +33,12 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Pixar",
       "start": null,
       "end": null
     },
     {
-      "company": "Pixar",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

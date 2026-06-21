@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-21T05:41:52.935336Z",
+  "fetchedAt": "2026-06-21T18:32:51.584575Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -36,8 +36,8 @@
           "entrepreneur"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -73,9 +73,9 @@
         "occupations": [
           "children's writer",
           "film producer",
-          "political scientist",
-          "university teacher",
           "journalist",
+          "university teacher",
+          "political scientist",
           "historian",
           "entrepreneur",
           "businessperson",
@@ -106,11 +106,6 @@
             "end": null
           },
           {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
-          {
             "company": "Expedia Group",
             "start": "2017-03-01",
             "end": null
@@ -119,6 +114,11 @@
             "company": "Columbia University Mailman School of Public Health",
             "start": "2012-01-01",
             "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
           },
           {
             "company": "New York University",
