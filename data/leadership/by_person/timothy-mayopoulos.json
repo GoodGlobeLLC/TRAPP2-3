@@ -5,8 +5,8 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "lawyer",
-    "entrepreneur"
+    "entrepreneur",
+    "lawyer"
   ],
   "education": [
     "Cornell University",
@@ -29,6 +29,16 @@
       "end": "2004-01-01"
     },
     {
+      "company": "Silicon Valley Bridge Bank",
+      "start": "2023-03-13",
+      "end": null
+    },
+    {
+      "company": "Donaldson, Lufkin & Jenrette",
+      "start": "1996-01-01",
+      "end": "2000-01-01"
+    },
+    {
       "company": "Fannie Mae",
       "start": "2009-01-01",
       "end": "2010-01-01"
@@ -42,16 +52,6 @@
       "company": "Fannie Mae",
       "start": "2012-01-01",
       "end": "2018-01-01"
-    },
-    {
-      "company": "Silicon Valley Bridge Bank",
-      "start": "2023-03-13",
-      "end": null
-    },
-    {
-      "company": "Donaldson, Lufkin & Jenrette",
-      "start": "1996-01-01",
-      "end": "2000-01-01"
     }
   ],
   "positions": [
