@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-06-21T05:41:52.957206Z",
+  "fetchedAt": "2026-06-21T18:29:43.358886Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -128,12 +128,12 @@
         ],
         "employers": [
           {
-            "company": "Foreign Office",
+            "company": "McGill University",
             "start": null,
             "end": null
           },
           {
-            "company": "McGill University",
+            "company": "Foreign Office",
             "start": null,
             "end": null
           },

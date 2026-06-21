@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-21T05:41:52.964521Z",
+  "fetchedAt": "2026-06-21T18:29:43.365164Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "engineer",
           "chief executive officer",
+          "engineer",
           "businessperson"
         ],
         "education": [
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stony Brook University",
-          "Stanford University"
+          "Stanford University",
+          "Stony Brook University"
         ],
         "employers": [],
         "positions": []
@@ -319,8 +319,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
           "entrepreneur",
-          "engineer",
           "chief executive officer",
+          "engineer",
           "businessperson"
         ],
         "education": [
