@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-21T18:32:51.582346Z",
+  "fetchedAt": "2026-06-22T09:52:36.718991Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -129,8 +129,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Toronto"
@@ -164,11 +164,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "surgeon",
           "banker",
-          "writer",
+          "surgeon",
           "politician",
-          "physician"
+          "physician",
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -400,8 +400,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [],
         "employers": [],
@@ -442,8 +442,8 @@
           "surgeon",
           "university teacher",
           "dean",
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -512,9 +512,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
+          "surgeon",
           "university teacher",
-          "physician",
-          "surgeon"
+          "physician"
         ],
         "education": [
           "University of Manitoba"
@@ -675,10 +675,10 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "polo player",
-          "military officer",
           "naval officer",
-          "prince consort"
+          "prince consort",
+          "military officer",
+          "polo player"
         ],
         "education": [
           "Cheam School",

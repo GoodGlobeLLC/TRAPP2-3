@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-21T18:32:51.585028Z",
+  "fetchedAt": "2026-06-22T09:52:36.723082Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,19 +14,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Cornell University",
           "New York University School of Law"
         ],
         "employers": [
-          {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
-          },
           {
             "company": "Credit Suisse",
             "start": "2000-01-01",
@@ -36,16 +31,6 @@
             "company": "Deutsche Bank",
             "start": "2002-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -61,6 +46,21 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -89,6 +89,12 @@
             "end": null
           },
           {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -99,12 +105,6 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -174,8 +174,8 @@
           "economist"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
           "University of Manchester",
+          "Massachusetts Institute of Technology",
           "University of Oxford"
         ],
         "employers": [
@@ -217,9 +217,9 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
+          "politician",
           "university teacher",
           "economist",
-          "politician",
           "businessperson",
           "lawyer"
         ],
@@ -330,8 +330,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karin%20Kimbrough%20at%20Jobs%20Reset%20Summit.jpg",
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "University of Oxford",
@@ -426,11 +426,6 @@
         ],
         "employers": [
           {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
-          },
-          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -439,6 +434,11 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
+          },
+          {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
           }
         ],
         "positions": []
@@ -476,9 +476,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
+          "jurist",
           "law professor",
-          "university teacher",
-          "jurist"
+          "university teacher"
         ],
         "education": [],
         "employers": [],

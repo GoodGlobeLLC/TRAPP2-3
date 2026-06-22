@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-06-21T18:32:51.584575Z",
+  "fetchedAt": "2026-06-22T09:52:36.722510Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -32,12 +32,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {

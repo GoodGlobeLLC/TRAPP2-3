@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-21T18:32:51.577338Z",
+  "fetchedAt": "2026-06-22T09:52:36.712056Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,9 +16,9 @@
         "occupations": [
           "presenter",
           "manager",
+          "engineer",
           "chief executive officer",
           "computer scientist",
-          "engineer",
           "businessperson"
         ],
         "education": [
@@ -216,8 +216,8 @@
         "birthPlace": "Toronto",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrea%20Jung%202010.jpg",
         "occupations": [
-          "businessperson",
-          "linguist"
+          "linguist",
+          "businessperson"
         ],
         "education": [
           "Princeton University"
@@ -252,23 +252,23 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "climate activist",
+          "journalist",
+          "businessperson",
+          "university teacher",
           "orator",
-          "blogger",
           "environmentalist",
           "financier",
-          "journalist",
+          "blogger",
           "farmer",
-          "university teacher",
           "politician",
-          "businessperson",
           "writer"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -351,24 +351,24 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "programmer",
-          "electronics technician",
-          "inventor",
-          "computer scientist",
-          "entrepreneur",
           "engineer",
-          "businessperson",
+          "teacher",
           "actor",
-          "teacher"
+          "inventor",
+          "entrepreneur",
+          "computer scientist",
+          "businessperson",
+          "programmer",
+          "electronics technician"
         ],
         "education": [
-          "University of Colorado",
-          "De Anza College",
           "University of Colorado Boulder",
+          "Homestead High School",
           "University of California, Berkeley",
-          "Homestead High School"
+          "University of Colorado",
+          "De Anza College"
         ],
         "employers": [
           {
@@ -382,12 +382,12 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -408,9 +408,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "computer scientist",
-          "writer",
-          "engineer"
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,15 +437,15 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "designer",
           "technology entrepreneur",
-          "founder",
+          "designer",
           "general manager",
           "executive producer",
           "film producer",
+          "founder",
           "financier",
-          "entrepreneur",
           "computer scientist",
+          "entrepreneur",
           "inventor"
         ],
         "education": [
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }

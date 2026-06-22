@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-06-21T18:32:51.580463Z",
+  "fetchedAt": "2026-06-22T09:52:36.716271Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -18,9 +18,9 @@
           "chief executive officer"
         ],
         "education": [
-          "California Institute of Technology",
           "Northfield Mount Hermon School",
           "La Salle College",
+          "California Institute of Technology",
           "Brown University"
         ],
         "employers": [
