@@ -6,9 +6,9 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
   "occupations": [
     "anatomist",
+    "military officer",
     "politician",
     "diplomat",
-    "military officer",
     "physician"
   ],
   "education": [
@@ -58,18 +58,6 @@
       "end": "1922-01-01"
     },
     {
-      "title": "President of the Board of Trade",
-      "company": null,
-      "start": "1919-05-26",
-      "end": "1920-03-19"
-    },
-    {
-      "title": "member of the 30th Parliament of the United Kingdom",
-      "company": null,
-      "start": "1917-10-25",
-      "end": "1918-11-25"
-    },
-    {
       "title": "Minister of Reconstruction",
       "company": null,
       "start": "1919-01-01",
@@ -80,6 +68,18 @@
       "company": null,
       "start": "1918-12-14",
       "end": "1920-03-15"
+    },
+    {
+      "title": "President of the Board of Trade",
+      "company": null,
+      "start": "1919-05-26",
+      "end": "1920-03-19"
+    },
+    {
+      "title": "member of the 30th Parliament of the United Kingdom",
+      "company": null,
+      "start": "1917-10-25",
+      "end": "1918-11-25"
     }
   ],
   "currentTickers": [
