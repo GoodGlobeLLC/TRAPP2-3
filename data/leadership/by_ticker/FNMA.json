@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-06-22T09:52:36.723082Z",
+  "fetchedAt": "2026-06-29T08:59:12.808838Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,24 +14,14 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "Cornell University",
           "New York University School of Law"
         ],
         "employers": [
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
-          },
           {
             "company": "Fannie Mae",
             "start": "2009-01-01",
@@ -48,11 +38,6 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
-          },
-          {
             "company": "Silicon Valley Bridge Bank",
             "start": "2023-03-13",
             "end": null
@@ -61,9 +46,48 @@
             "company": "Donaldson, Lufkin & Jenrette",
             "start": "1996-01-01",
             "end": "2000-01-01"
+          },
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           }
         ],
         "positions": [
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "title": "chief administrative officer",
+            "company": null,
+            "start": "2010-01-01",
+            "end": "2012-01-01"
+          },
+          {
+            "title": "executive vice president",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -89,31 +113,7 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
-          {
-            "title": "chief administrative officer",
-            "company": null,
-            "start": "2010-01-01",
-            "end": "2012-01-01"
-          },
-          {
-            "title": "executive vice president",
             "company": null,
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Cranfield School of Management",
@@ -174,8 +174,8 @@
           "economist"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
+          "University of Manchester",
           "University of Oxford"
         ],
         "employers": [
@@ -217,10 +217,10 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
           "university teacher",
           "economist",
           "businessperson",
+          "politician",
           "lawyer"
         ],
         "education": [
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Wheaton College",
-          "Harvard University"
+          "Harvard University",
+          "Wheaton College"
         ],
         "employers": [],
         "positions": []
@@ -335,8 +335,8 @@
         ],
         "education": [
           "University of Oxford",
-          "Stanford University",
-          "John F. Kennedy School of Government"
+          "John F. Kennedy School of Government",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -476,9 +476,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "jurist",
+          "university teacher",
           "law professor",
-          "university teacher"
+          "jurist"
         ],
         "education": [],
         "employers": [],

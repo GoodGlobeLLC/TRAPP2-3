@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-22T09:52:36.712056Z",
+  "fetchedAt": "2026-06-29T08:59:12.798655Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,17 +16,17 @@
         "occupations": [
           "presenter",
           "manager",
-          "engineer",
           "chief executive officer",
           "computer scientist",
+          "engineer",
           "businessperson"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
           {
@@ -251,15 +251,15 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
-          "journalist",
-          "businessperson",
-          "university teacher",
-          "orator",
           "environmentalist",
           "financier",
+          "climate activist",
+          "orator",
           "blogger",
           "farmer",
+          "journalist",
+          "university teacher",
+          "businessperson",
           "politician",
           "writer"
         ],
@@ -353,31 +353,26 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
-          "engineer",
-          "teacher",
+          "businessperson",
           "actor",
+          "teacher",
+          "programmer",
+          "electronics technician",
           "inventor",
           "entrepreneur",
           "computer scientist",
-          "businessperson",
-          "programmer",
-          "electronics technician"
+          "engineer"
         ],
         "education": [
-          "University of Colorado Boulder",
-          "Homestead High School",
           "University of California, Berkeley",
+          "Homestead High School",
           "University of Colorado",
-          "De Anza College"
+          "De Anza College",
+          "University of Colorado Boulder"
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -387,7 +382,12 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -408,8 +408,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
           "entrepreneur",
-          "engineer",
           "computer scientist",
+          "engineer",
           "writer"
         ],
         "education": [
@@ -437,16 +437,16 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "designer",
           "general manager",
           "executive producer",
-          "film producer",
-          "founder",
+          "technology entrepreneur",
+          "designer",
           "financier",
-          "computer scientist",
+          "founder",
+          "film producer",
           "entrepreneur",
-          "inventor"
+          "inventor",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
