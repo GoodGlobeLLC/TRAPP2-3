@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-06-22T10:40:33.189517Z",
+  "fetchedAt": "2026-06-29T09:28:01.499451Z",
   "people": [
     {
       "qid": "Q357616",
@@ -90,8 +90,8 @@
         "education": [
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "HEC Paris",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague"
+          "Lyc\u00e9e Saint-Louis-de-Gonzague",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -164,9 +164,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
+          "lawyer",
           "diplomat",
           "jurist",
-          "lawyer",
           "politician"
         ],
         "education": [

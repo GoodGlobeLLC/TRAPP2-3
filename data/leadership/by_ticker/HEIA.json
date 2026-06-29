@@ -1,6 +1,6 @@
 {
   "ticker": "HEIA",
-  "fetchedAt": "2026-06-22T10:40:33.181620Z",
+  "fetchedAt": "2026-06-29T09:28:01.491834Z",
   "people": [
     {
       "qid": "Q4457610",
@@ -58,9 +58,9 @@
         "birthPlace": "Amsterdam",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Freddy%20Heineken%201987.jpg",
         "occupations": [
-          "businessperson",
+          "entrepreneur",
           "stockbroker",
-          "entrepreneur"
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -93,9 +93,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gerard%20Adriaan%20Heineken.jpg",
         "occupations": [
           "brewer",
-          "collector",
+          "entrepreneur",
           "merchant",
-          "entrepreneur"
+          "collector"
         ],
         "education": [],
         "employers": [

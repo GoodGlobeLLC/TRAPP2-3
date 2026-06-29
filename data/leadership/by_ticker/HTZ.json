@@ -1,6 +1,6 @@
 {
   "ticker": "HTZ",
-  "fetchedAt": "2026-06-22T10:40:33.182814Z",
+  "fetchedAt": "2026-06-29T09:28:01.493198Z",
   "people": [
     {
       "qid": "Q6377142",
@@ -37,13 +37,13 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "judge"
+          "judge",
+          "business executive"
         ],
         "education": [
+          "Columbia University",
           "Booth School of Business",
-          "University of Chicago",
-          "Columbia University"
+          "University of Chicago"
         ],
         "employers": [],
         "positions": []
