@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-06-29T08:59:12.804861Z",
+  "fetchedAt": "2026-07-06T08:20:59.207486Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -78,8 +78,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Edinburgh"
@@ -164,11 +164,11 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "writer",
-          "surgeon",
           "banker",
+          "surgeon",
+          "physician",
           "politician",
-          "physician"
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -314,12 +314,12 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
-          "University of Edinburgh",
-          "University of Sydney"
+          "University of Sydney",
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -440,8 +440,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "surgeon",
-          "dean",
           "university teacher",
+          "dean",
           "politician",
           "physician"
         ],
@@ -490,8 +490,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -512,9 +512,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
+          "surgeon",
           "university teacher",
-          "physician",
-          "surgeon"
+          "physician"
         ],
         "education": [
           "University of Manitoba"
@@ -550,8 +550,8 @@
         "occupations": [
           "politician",
           "diplomat",
-          "physician",
-          "lawyer"
+          "lawyer",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"

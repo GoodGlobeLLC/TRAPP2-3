@@ -5,13 +5,13 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
-    "general manager",
-    "executive producer",
-    "technology entrepreneur",
     "designer",
+    "technology entrepreneur",
     "financier",
     "founder",
     "film producer",
+    "general manager",
+    "executive producer",
     "entrepreneur",
     "inventor",
     "computer scientist"
@@ -33,12 +33,12 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Pixar",
       "start": null,
       "end": null
     },
     {
-      "company": "Pixar",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     }

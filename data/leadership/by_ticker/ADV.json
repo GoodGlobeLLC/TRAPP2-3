@@ -1,6 +1,6 @@
 {
   "ticker": "ADV",
-  "fetchedAt": "2026-06-29T08:59:12.800119Z",
+  "fetchedAt": "2026-07-06T08:20:59.200817Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -14,9 +14,9 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "electrical engineer",
           "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "electrical engineer"
         ],
         "education": [
           "Massachusetts Institute of Technology"
@@ -265,9 +265,9 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "electrical engineer",
           "chief executive officer",
-          "entrepreneur"
+          "entrepreneur",
+          "electrical engineer"
         ],
         "education": [
           "Massachusetts Institute of Technology"

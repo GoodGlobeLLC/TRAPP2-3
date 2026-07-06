@@ -1,6 +1,6 @@
 {
   "ticker": "BIDU",
-  "fetchedAt": "2026-06-29T08:59:12.802695Z",
+  "fetchedAt": "2026-07-06T08:20:59.204068Z",
   "people": [
     {
       "qid": "Q92985",
@@ -17,8 +17,8 @@
           "software engineer",
           "software developer",
           "inventor",
-          "computer scientist",
           "entrepreneur",
+          "computer scientist",
           "businessperson"
         ],
         "education": [

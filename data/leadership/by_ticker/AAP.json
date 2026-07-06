@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-06-29T08:59:12.798655Z",
+  "fetchedAt": "2026-07-06T08:20:59.198963Z",
   "people": [
     {
       "qid": "Q265852",
@@ -67,8 +67,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -183,8 +183,8 @@
           "businessperson"
         ],
         "education": [
-          "University of California, San Francisco",
           "University of Washington",
+          "University of California, San Francisco",
           "Princeton University"
         ],
         "employers": [
@@ -251,10 +251,10 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "orator",
           "environmentalist",
           "financier",
           "climate activist",
-          "orator",
           "blogger",
           "farmer",
           "journalist",
@@ -264,11 +264,11 @@
           "writer"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -351,36 +351,26 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "businessperson",
-          "actor",
-          "teacher",
           "programmer",
           "electronics technician",
-          "inventor",
           "entrepreneur",
+          "inventor",
           "computer scientist",
-          "engineer"
+          "engineer",
+          "businessperson",
+          "teacher",
+          "actor"
         ],
         "education": [
           "University of California, Berkeley",
-          "Homestead High School",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder"
+          "University of Colorado Boulder",
+          "Homestead High School"
         ],
         "employers": [
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Hewlett-Packard",
             "start": null,
@@ -388,6 +378,16 @@
           },
           {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
-          "entrepreneur",
           "computer scientist",
           "engineer",
-          "writer"
+          "writer",
+          "entrepreneur"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,13 +437,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "general manager",
-          "executive producer",
-          "technology entrepreneur",
           "designer",
+          "technology entrepreneur",
           "financier",
           "founder",
           "film producer",
+          "general manager",
+          "executive producer",
           "entrepreneur",
           "inventor",
           "computer scientist"
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
