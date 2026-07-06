@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-06-29T11:11:15.969261Z",
+  "fetchedAt": "2026-07-06T10:45:58.487895Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "Birla Institute of Technology and Science"
         ],
         "employers": [
           {
@@ -166,8 +166,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "University of Arkansas"
+          "University of Arkansas",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -290,10 +290,10 @@
           "economist"
         ],
         "education": [
-          "The Wharton School",
-          "West Virginia University",
           "University of Pennsylvania",
-          "West Virginia University School of Medicine"
+          "West Virginia University School of Medicine",
+          "The Wharton School",
+          "West Virginia University"
         ],
         "employers": [],
         "positions": [
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
-          "chief executive officer",
+          "businessperson",
           "engineer",
-          "businessperson"
+          "entrepreneur",
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -380,11 +380,11 @@
           "politician"
         ],
         "education": [
+          "Stanford University",
+          "University of Michigan",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
-          "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [
