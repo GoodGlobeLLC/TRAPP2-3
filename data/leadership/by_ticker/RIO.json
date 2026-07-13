@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-07-06T10:45:58.481927Z",
+  "fetchedAt": "2026-07-13T09:36:02.495638Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -123,8 +123,8 @@
           "physician"
         ],
         "education": [
-          "George Watson's College",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "George Watson's College"
         ],
         "employers": [
           {
