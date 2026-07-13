@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-07-06T09:01:22.883892Z",
+  "fetchedAt": "2026-07-13T08:18:25.826630Z",
   "people": [
     {
       "qid": "Q357616",
@@ -40,9 +40,9 @@
           "businessperson"
         ],
         "education": [
+          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta",
-          "St. Xavier's College, Kolkata"
+          "University of Calcutta"
         ],
         "employers": [
           {
@@ -90,8 +90,8 @@
         "education": [
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague",
-          "HEC Paris"
+          "HEC Paris",
+          "Lyc\u00e9e Saint-Louis-de-Gonzague"
         ],
         "employers": [
           {
@@ -164,8 +164,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "diplomat",
           "jurist",
+          "diplomat",
           "lawyer",
           "politician"
         ],
@@ -260,9 +260,9 @@
           "businessperson"
         ],
         "education": [
+          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta",
-          "St. Xavier's College, Kolkata"
+          "University of Calcutta"
         ],
         "employers": [
           {
