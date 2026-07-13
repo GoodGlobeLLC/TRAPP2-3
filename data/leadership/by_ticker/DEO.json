@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-07-06T08:20:59.211079Z",
+  "fetchedAt": "2026-07-13T06:54:27.227840Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -50,11 +50,6 @@
             "end": null
           },
           {
-            "company": "Lion Capital LLP",
-            "start": null,
-            "end": "2019-01-01"
-          },
-          {
             "company": "Desigual",
             "start": "2014-01-01",
             "end": "2017-01-01"
@@ -68,6 +63,11 @@
             "company": "Diageo",
             "start": "2016-01-01",
             "end": null
+          },
+          {
+            "company": "Lion Capital LLP",
+            "start": null,
+            "end": "2019-01-01"
           }
         ],
         "positions": []

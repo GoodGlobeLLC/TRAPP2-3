@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-07-06T08:20:59.198963Z",
+  "fetchedAt": "2026-07-13T06:54:27.218445Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,10 +16,10 @@
         "occupations": [
           "presenter",
           "manager",
-          "chief executive officer",
-          "computer scientist",
           "engineer",
-          "businessperson"
+          "computer scientist",
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Auburn University",
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "businessperson",
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "biochemist"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -178,13 +178,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "businessperson",
           "molecular biologist",
-          "biochemist",
-          "businessperson"
+          "biochemist"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -252,16 +252,16 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
           "orator",
-          "environmentalist",
-          "financier",
+          "university teacher",
           "climate activist",
           "blogger",
-          "farmer",
-          "journalist",
-          "university teacher",
-          "businessperson",
           "politician",
-          "writer"
+          "environmentalist",
+          "financier",
+          "journalist",
+          "farmer",
+          "writer",
+          "businessperson"
         ],
         "education": [
           "Harvard College",
@@ -291,12 +291,6 @@
             "end": "1985-01-03"
           },
           {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
-          },
-          {
             "title": "Vice President of the United States",
             "company": null,
             "start": "1993-01-20",
@@ -315,6 +309,12 @@
             "end": "1987-01-03"
           },
           {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
+          },
+          {
             "title": "United States representative",
             "company": null,
             "start": "1979-01-03",
@@ -329,14 +329,14 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
+            "start": "1981-01-03",
+            "end": "1983-01-03"
           },
           {
             "title": "United States representative",
             "company": null,
-            "start": "1981-01-03",
-            "end": "1983-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -351,24 +351,24 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
         "occupations": [
+          "computer scientist",
+          "teacher",
+          "actor",
           "programmer",
           "electronics technician",
-          "entrepreneur",
           "inventor",
-          "computer scientist",
-          "engineer",
+          "entrepreneur",
           "businessperson",
-          "teacher",
-          "actor"
+          "engineer"
         ],
         "education": [
+          "University of Colorado Boulder",
+          "Homestead High School",
           "University of California, Berkeley",
           "University of Colorado",
-          "De Anza College",
-          "University of Colorado Boulder",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
@@ -382,12 +382,12 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           }
@@ -407,10 +407,10 @@
         "birthPlace": "Cleveland",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
+          "entrepreneur",
           "computer scientist",
           "engineer",
-          "writer",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -438,15 +438,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
           "designer",
-          "technology entrepreneur",
-          "financier",
           "founder",
           "film producer",
+          "computer scientist",
+          "technology entrepreneur",
+          "financier",
           "general manager",
           "executive producer",
           "entrepreneur",
-          "inventor",
-          "computer scientist"
+          "inventor"
         ],
         "education": [
           "Homestead High School",
@@ -465,12 +465,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           }

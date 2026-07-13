@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-07-06T08:20:59.214206Z",
+  "fetchedAt": "2026-07-13T06:54:27.230475Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,14 +14,29 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Cornell University",
           "New York University School of Law"
         ],
         "employers": [
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
+          },
           {
             "company": "Fannie Mae",
             "start": "2009-01-01",
@@ -38,16 +53,6 @@
             "end": "2018-01-01"
           },
           {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
-          },
-          {
             "company": "Silicon Valley Bridge Bank",
             "start": "2023-03-13",
             "end": null
@@ -56,32 +61,9 @@
             "company": "Donaldson, Lufkin & Jenrette",
             "start": "1996-01-01",
             "end": "2000-01-01"
-          },
-          {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "board of directors member",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "general counsel",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
           {
             "title": "chief executive officer",
             "company": null,
@@ -101,10 +83,28 @@
             "end": "2018-01-01"
           },
           {
+            "title": "board of directors member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
             "title": "member of the board of trustees",
             "company": null,
             "start": null,
             "end": null
+          },
+          {
+            "title": "general counsel",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
           },
           {
             "title": "chief administrative officer",
@@ -217,11 +217,11 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "businessperson",
-          "university teacher",
-          "lawyer",
           "economist",
-          "politician"
+          "politician",
+          "university teacher",
+          "businessperson",
+          "lawyer"
         ],
         "education": [
           "University of Kansas",
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "businessperson",
-          "adjunct professor"
+          "adjunct professor",
+          "businessperson"
         ],
         "education": [
           "College of Europe",
-          "London School of Economics and Political Science",
-          "Yale University"
+          "Yale University",
+          "London School of Economics and Political Science"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Harvard University",
-          "Wheaton College"
+          "Wheaton College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": []
@@ -334,8 +334,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
           "University of Oxford",
+          "Stanford University",
           "John F. Kennedy School of Government"
         ],
         "employers": [],
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
+          "Yale University",
           "Boston University",
-          "Fisk University",
-          "Yale University"
+          "Fisk University"
         ],
         "employers": [],
         "positions": []
@@ -421,8 +421,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Stanford University"
+          "Stanford University",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -476,8 +476,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "law professor",
           "university teacher",
+          "law professor",
           "jurist"
         ],
         "education": [],

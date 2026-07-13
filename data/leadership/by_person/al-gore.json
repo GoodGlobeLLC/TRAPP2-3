@@ -6,16 +6,16 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
   "occupations": [
     "orator",
-    "environmentalist",
-    "financier",
+    "university teacher",
     "climate activist",
     "blogger",
-    "farmer",
-    "journalist",
-    "university teacher",
-    "businessperson",
     "politician",
-    "writer"
+    "environmentalist",
+    "financier",
+    "journalist",
+    "farmer",
+    "writer",
+    "businessperson"
   ],
   "education": [
     "Harvard College",
@@ -45,12 +45,6 @@
       "end": "1985-01-03"
     },
     {
-      "title": "United States senator",
-      "company": null,
-      "start": "1987-01-03",
-      "end": "1989-01-03"
-    },
-    {
       "title": "Vice President of the United States",
       "company": null,
       "start": "1993-01-20",
@@ -69,6 +63,12 @@
       "end": "1987-01-03"
     },
     {
+      "title": "United States senator",
+      "company": null,
+      "start": "1987-01-03",
+      "end": "1989-01-03"
+    },
+    {
       "title": "United States representative",
       "company": null,
       "start": "1979-01-03",
@@ -83,14 +83,14 @@
     {
       "title": "United States representative",
       "company": null,
-      "start": "1977-01-03",
-      "end": "1979-01-03"
+      "start": "1981-01-03",
+      "end": "1983-01-03"
     },
     {
       "title": "United States representative",
       "company": null,
-      "start": "1981-01-03",
-      "end": "1983-01-03"
+      "start": "1977-01-03",
+      "end": "1979-01-03"
     }
   ],
   "currentTickers": [
