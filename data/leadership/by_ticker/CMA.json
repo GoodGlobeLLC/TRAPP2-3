@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-07-13T06:54:27.225799Z",
+  "fetchedAt": "2026-07-20T06:47:25.931079Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -43,8 +43,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "pathologist",
-          "physician"
+          "physician",
+          "pathologist"
         ],
         "education": [
           "University of Toronto"
@@ -57,6 +57,12 @@
           }
         ],
         "positions": [
+          {
+            "title": "Sir John and Lady Eaton Professor and Chair of Medicine",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1947-01-01"
+          },
           {
             "title": "president",
             "company": null,
@@ -166,9 +172,9 @@
         "occupations": [
           "banker",
           "surgeon",
-          "writer",
           "politician",
-          "physician"
+          "physician",
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -439,10 +445,10 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
           "university teacher",
           "politician",
           "dean",
+          "surgeon",
           "physician"
         ],
         "education": [
@@ -490,8 +496,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -512,8 +518,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
+          "university teacher",
           "physician"
         ],
         "education": [
@@ -548,10 +554,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "diplomat",
-          "lawyer",
           "politician",
-          "physician"
+          "diplomat",
+          "physician",
+          "lawyer"
         ],
         "education": [
           "University of Edinburgh Medical School"

@@ -5,16 +5,16 @@
   "birthPlace": "San Francisco",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
   "occupations": [
-    "designer",
-    "founder",
-    "film producer",
-    "computer scientist",
-    "technology entrepreneur",
     "financier",
+    "founder",
+    "technology entrepreneur",
+    "designer",
     "general manager",
     "executive producer",
+    "film producer",
+    "inventor",
     "entrepreneur",
-    "inventor"
+    "computer scientist"
   ],
   "education": [
     "Homestead High School",
@@ -28,17 +28,17 @@
       "end": null
     },
     {
+      "company": "Pixar",
+      "start": null,
+      "end": null
+    },
+    {
       "company": "Atari, Inc.",
       "start": null,
       "end": null
     },
     {
       "company": "Apple Inc.",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Pixar",
       "start": null,
       "end": null
     }
@@ -53,12 +53,6 @@
     {
       "title": "chief executive officer",
       "company": null,
-      "start": "1977-01-03",
-      "end": "1985-01-01"
-    },
-    {
-      "title": "chief executive officer",
-      "company": null,
       "start": "1997-09-16",
       "end": "2011-08-24"
     },
@@ -67,6 +61,12 @@
       "company": null,
       "start": "1995-11-29",
       "end": "1997-01-01"
+    },
+    {
+      "title": "chief executive officer",
+      "company": null,
+      "start": "1977-01-03",
+      "end": "1985-01-01"
     }
   ],
   "currentTickers": [

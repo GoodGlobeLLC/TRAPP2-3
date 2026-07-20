@@ -1,6 +1,6 @@
 {
   "ticker": "ADDYY",
-  "fetchedAt": "2026-07-13T06:54:27.219744Z",
+  "fetchedAt": "2026-07-20T06:47:25.925559Z",
   "people": [
     {
       "qid": "Q370191",
@@ -14,9 +14,9 @@
         "birthPlace": "Zurich",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/2023-06-26%20Fussball%2C%20Frauen%2C%20Deutsche%20Nationalmannschaft%2C%20Media%20Day%201DX%206470%20by%20Stepro.jpg",
         "occupations": [
+          "chief executive officer",
           "association football player",
-          "businessperson",
-          "chief executive officer"
+          "businessperson"
         ],
         "education": [],
         "employers": [
@@ -33,6 +33,33 @@
           {
             "company": "Adidas AG",
             "start": "2023-01-01",
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q76751",
+      "name": "Adolf Dassler",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q76751",
+        "name": "Adolf Dassler",
+        "dateOfBirth": "1900-11-03",
+        "birthPlace": "Herzogenaurach",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Adi%20dassler%20young.jpg",
+        "occupations": [
+          "entrepreneur",
+          "politician",
+          "fashion designer"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Adidas AG",
+            "start": null,
             "end": null
           }
         ],

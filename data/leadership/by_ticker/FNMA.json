@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-07-13T06:54:27.230475Z",
+  "fetchedAt": "2026-07-20T06:47:25.935409Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,18 +14,28 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
-          "Cornell University",
-          "New York University School of Law"
+          "New York University School of Law",
+          "Cornell University"
         ],
         "employers": [
           {
             "company": "Bank of America",
             "start": "2004-01-01",
             "end": "2009-01-01"
+          },
+          {
+            "company": "Silicon Valley Bridge Bank",
+            "start": "2023-03-13",
+            "end": null
+          },
+          {
+            "company": "Donaldson, Lufkin & Jenrette",
+            "start": "1996-01-01",
+            "end": "2000-01-01"
           },
           {
             "company": "Credit Suisse",
@@ -51,16 +61,6 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Silicon Valley Bridge Bank",
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "company": "Donaldson, Lufkin & Jenrette",
-            "start": "1996-01-01",
-            "end": "2000-01-01"
           }
         ],
         "positions": [
@@ -89,12 +89,6 @@
             "end": null
           },
           {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
             "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
@@ -105,6 +99,12 @@
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -170,12 +170,12 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
-          "economist"
+          "economist",
+          "university teacher"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
+          "University of Manchester",
           "University of Oxford"
         ],
         "employers": [
@@ -217,11 +217,11 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "politician",
           "university teacher",
+          "economist",
           "businessperson",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "University of Kansas",
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -284,13 +284,13 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "adjunct professor",
-          "businessperson"
+          "businessperson",
+          "adjunct professor"
         ],
         "education": [
           "College of Europe",
-          "Yale University",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Wheaton College",
-          "Harvard University"
+          "Harvard University",
+          "Wheaton College"
         ],
         "employers": [],
         "positions": []
@@ -334,8 +334,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Oxford",
           "Stanford University",
+          "University of Oxford",
           "John F. Kennedy School of Government"
         ],
         "employers": [],
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Boston University",
-          "Fisk University"
+          "Fisk University",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -421,8 +421,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Princeton University"
+          "Princeton University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -476,8 +476,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "law professor",
+          "university teacher",
           "jurist"
         ],
         "education": [],

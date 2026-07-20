@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-13T09:36:02.511376Z",
-  "totalPeople": 145,
+  "generatedAt": "2026-07-20T06:47:25.948404Z",
+  "totalPeople": 146,
   "totalTickers": 39,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 39,
-  "thisRunTickers": 109,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 68,
+  "thisRunTickers": 85,
   "index": [
     {
       "qid": "Q370191",
@@ -678,7 +678,7 @@
       "tickers": [
         "CMA"
       ],
-      "positionsCount": 1,
+      "positionsCount": 2,
       "employersCount": 1
     },
     {
@@ -1467,6 +1467,16 @@
       ],
       "positionsCount": 0,
       "employersCount": 0
+    },
+    {
+      "qid": "Q76751",
+      "name": "Adolf Dassler",
+      "slug": "adolf-dassler",
+      "tickers": [
+        "ADDYY"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
     }
   ]
 }

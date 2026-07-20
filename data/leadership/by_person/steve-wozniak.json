@@ -5,22 +5,22 @@
   "birthPlace": "San Jose",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
   "occupations": [
-    "computer scientist",
-    "teacher",
     "actor",
+    "entrepreneur",
+    "teacher",
+    "inventor",
     "programmer",
     "electronics technician",
-    "inventor",
-    "entrepreneur",
     "businessperson",
+    "computer scientist",
     "engineer"
   ],
   "education": [
-    "University of Colorado Boulder",
-    "Homestead High School",
     "University of California, Berkeley",
+    "Homestead High School",
     "University of Colorado",
-    "De Anza College"
+    "De Anza College",
+    "University of Colorado Boulder"
   ],
   "employers": [
     {
