@@ -5,10 +5,10 @@
   "birthPlace": "Overmere",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
   "occupations": [
-    "foreign minister",
-    "jurist",
     "diplomat",
+    "foreign minister",
     "lawyer",
+    "jurist",
     "politician"
   ],
   "education": [
@@ -17,12 +17,6 @@
   ],
   "employers": [],
   "positions": [
-    {
-      "title": "European Commissioner for Preparedness and Crisis Management",
-      "company": null,
-      "start": "2009-07-17",
-      "end": "2010-02-09"
-    },
     {
       "title": "European Commissioner for Trade",
       "company": null,
@@ -82,6 +76,12 @@
       "company": null,
       "start": "1999-01-01",
       "end": "2003-01-01"
+    },
+    {
+      "title": "European Commissioner for Preparedness and Crisis Management",
+      "company": null,
+      "start": "2009-07-17",
+      "end": "2010-02-09"
     }
   ],
   "currentTickers": [

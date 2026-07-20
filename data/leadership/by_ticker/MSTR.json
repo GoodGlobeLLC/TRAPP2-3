@@ -1,6 +1,6 @@
 {
   "ticker": "MSTR",
-  "fetchedAt": "2026-07-13T08:18:25.826286Z",
+  "fetchedAt": "2026-07-20T07:59:09.427097Z",
   "people": [
     {
       "qid": "Q6831501",
@@ -17,10 +17,10 @@
           "executive chairperson",
           "philanthropist",
           "businessperson",
-          "author",
           "inventor",
-          "entrepreneur",
-          "computer scientist"
+          "author",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Fairborn High School",
@@ -70,10 +70,10 @@
           "executive chairperson",
           "philanthropist",
           "businessperson",
-          "author",
           "inventor",
-          "entrepreneur",
-          "computer scientist"
+          "author",
+          "computer scientist",
+          "entrepreneur"
         ],
         "education": [
           "Fairborn High School",

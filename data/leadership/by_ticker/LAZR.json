@@ -1,6 +1,6 @@
 {
   "ticker": "LAZR",
-  "fetchedAt": "2026-07-13T08:18:25.823566Z",
+  "fetchedAt": "2026-07-20T07:59:09.423274Z",
   "people": [
     {
       "qid": "Q55687800",
@@ -14,8 +14,8 @@
         "birthPlace": "Newport Beach",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Austin%20Russell%2027987042298.jpg",
         "occupations": [
-          "chief executive officer",
-          "inventor"
+          "inventor",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [
@@ -40,8 +40,8 @@
         "birthPlace": "Newport Beach",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Austin%20Russell%2027987042298.jpg",
         "occupations": [
-          "chief executive officer",
-          "inventor"
+          "inventor",
+          "chief executive officer"
         ],
         "education": [],
         "employers": [

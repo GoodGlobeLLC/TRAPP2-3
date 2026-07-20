@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-07-13T08:18:25.826630Z",
+  "fetchedAt": "2026-07-20T07:59:09.427345Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,13 +36,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
@@ -163,10 +163,10 @@
         "birthPlace": "Overmere",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
-          "foreign minister",
-          "jurist",
           "diplomat",
+          "foreign minister",
           "lawyer",
+          "jurist",
           "politician"
         ],
         "education": [
@@ -175,12 +175,6 @@
         ],
         "employers": [],
         "positions": [
-          {
-            "title": "European Commissioner for Preparedness and Crisis Management",
-            "company": null,
-            "start": "2009-07-17",
-            "end": "2010-02-09"
-          },
           {
             "title": "European Commissioner for Trade",
             "company": null,
@@ -240,6 +234,12 @@
             "company": null,
             "start": "1999-01-01",
             "end": "2003-01-01"
+          },
+          {
+            "title": "European Commissioner for Preparedness and Crisis Management",
+            "company": null,
+            "start": "2009-07-17",
+            "end": "2010-02-09"
           }
         ]
       }
@@ -256,13 +256,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
