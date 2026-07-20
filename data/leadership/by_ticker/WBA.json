@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-07-13T09:36:02.497886Z",
+  "fetchedAt": "2026-07-20T09:26:20.251950Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
+          "engineer",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst"
+          "University of Massachusetts Amherst",
+          "Birla Institute of Technology and Science"
         ],
         "employers": [
           {
@@ -166,8 +166,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Arkansas",
-          "Harvard University"
+          "Harvard University",
+          "University of Arkansas"
         ],
         "employers": [],
         "positions": []
@@ -226,16 +226,16 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "chemist",
-          "businessperson"
+          "businessperson",
+          "chemist"
         ],
         "education": [
           "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
+          "engineer",
           "chief executive officer",
-          "businessperson",
-          "engineer"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -383,8 +383,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [

@@ -1,29 +1,24 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-07-13T09:36:02.495925Z",
+  "fetchedAt": "2026-07-20T09:26:20.246342Z",
   "people": [
     {
-      "qid": "Q137910641",
+      "qid": "Q24795213",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q137910641",
+        "qid": "Q24795213",
         "name": "Eddie Wilson",
-        "dateOfBirth": null,
-        "birthPlace": null,
+        "dateOfBirth": "1936-01-01",
+        "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "chief executive officer"
+          "musician",
+          "singer"
         ],
         "education": [],
-        "employers": [
-          {
-            "company": "Ryanair",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -39,14 +34,14 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
         "occupations": [
-          "lawyer",
-          "financier"
+          "financier",
+          "lawyer"
         ],
         "education": [
+          "Harvard Law School",
           "University High School",
           "University of Washington Michael G. Foster School of Business",
-          "University of Washington",
-          "Harvard Law School"
+          "University of Washington"
         ],
         "employers": [
           {
@@ -75,8 +70,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",
@@ -106,8 +101,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",

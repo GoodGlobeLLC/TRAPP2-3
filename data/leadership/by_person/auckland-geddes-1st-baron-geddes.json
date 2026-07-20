@@ -7,9 +7,9 @@
   "occupations": [
     "anatomist",
     "diplomat",
-    "politician",
+    "physician",
     "military officer",
-    "physician"
+    "politician"
   ],
   "education": [
     "University of Edinburgh",
@@ -17,12 +17,12 @@
   ],
   "employers": [
     {
-      "company": "McGill University",
+      "company": "Foreign Office",
       "start": null,
       "end": null
     },
     {
-      "company": "Foreign Office",
+      "company": "McGill University",
       "start": null,
       "end": null
     },
