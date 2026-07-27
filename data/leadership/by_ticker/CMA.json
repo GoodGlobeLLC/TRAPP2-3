@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-07-20T06:47:25.931079Z",
+  "fetchedAt": "2026-07-27T07:03:34.548657Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -14,8 +14,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -84,8 +84,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Edinburgh"
@@ -172,9 +172,9 @@
         "occupations": [
           "banker",
           "surgeon",
+          "writer",
           "politician",
-          "physician",
-          "writer"
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -292,10 +292,10 @@
           "cardiologist"
         ],
         "education": [
-          "Nackawic Senior High School",
-          "Queen's University",
           "University of New Brunswick",
-          "Dalhousie University"
+          "Dalhousie University",
+          "Nackawic Senior High School",
+          "Queen's University"
         ],
         "employers": [],
         "positions": [
@@ -320,8 +320,8 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
           "University of Sydney",
@@ -356,8 +356,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -406,8 +406,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [],
         "employers": [],
@@ -446,9 +446,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "university teacher",
+          "surgeon",
           "politician",
           "dean",
-          "surgeon",
           "physician"
         ],
         "education": [
@@ -519,8 +519,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
           "surgeon",
-          "university teacher",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "University of Manitoba"
@@ -554,10 +554,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
           "diplomat",
-          "physician",
-          "lawyer"
+          "lawyer",
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -682,9 +682,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
           "polo player",
+          "military officer",
           "naval officer",
-          "prince consort",
-          "military officer"
+          "prince consort"
         ],
         "education": [
           "Cheam School",

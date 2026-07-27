@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-07-20T06:47:25.924303Z",
+  "fetchedAt": "2026-07-27T07:03:34.543274Z",
   "people": [
     {
       "qid": "Q265852",
@@ -14,11 +14,11 @@
         "birthPlace": "Mobile",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
-          "manager",
-          "computer scientist",
           "presenter",
-          "chief executive officer",
+          "computer scientist",
+          "manager",
           "businessperson",
+          "chief executive officer",
           "engineer"
         ],
         "education": [
@@ -30,14 +30,14 @@
         ],
         "employers": [
           {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
-          {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -67,9 +67,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -183,9 +183,9 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
           "University of Washington",
-          "University of California, San Francisco"
+          "University of California, San Francisco",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -251,17 +251,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
+          "climate activist",
+          "orator",
           "blogger",
           "university teacher",
+          "farmer",
           "environmentalist",
           "financier",
-          "orator",
-          "climate activist",
-          "farmer",
           "journalist",
-          "businessperson",
           "politician",
-          "writer"
+          "writer",
+          "businessperson"
         ],
         "education": [
           "Harvard College",
@@ -315,16 +315,16 @@
             "end": "1987-01-03"
           },
           {
+            "title": "United States representative",
+            "company": null,
+            "start": "1979-01-03",
+            "end": "1981-01-03"
+          },
+          {
             "title": "United States senator",
             "company": null,
             "start": "1991-01-03",
             "end": "1993-01-02"
-          },
-          {
-            "title": "United States representative",
-            "company": null,
-            "start": "1977-01-03",
-            "end": "1979-01-03"
           },
           {
             "title": "United States representative",
@@ -335,8 +335,8 @@
           {
             "title": "United States representative",
             "company": null,
-            "start": "1979-01-03",
-            "end": "1981-01-03"
+            "start": "1977-01-03",
+            "end": "1979-01-03"
           }
         ]
       }
@@ -351,33 +351,28 @@
         "name": "Steve Wozniak",
         "dateOfBirth": "1950-08-11",
         "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak%20%2836958698654%29%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "actor",
-          "entrepreneur",
-          "teacher",
           "inventor",
+          "entrepreneur",
+          "computer scientist",
+          "engineer",
+          "actor",
           "programmer",
           "electronics technician",
           "businessperson",
-          "computer scientist",
-          "engineer"
+          "teacher"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Homestead High School",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder"
+          "University of Colorado Boulder",
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
@@ -387,7 +382,12 @@
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
             "start": null,
             "end": null
           }
@@ -408,9 +408,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
         "occupations": [
           "entrepreneur",
+          "engineer",
           "computer scientist",
-          "writer",
-          "engineer"
+          "writer"
         ],
         "education": [
           "High School of Art and Design"
@@ -437,21 +437,21 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "financier",
           "founder",
-          "technology entrepreneur",
+          "film producer",
+          "financier",
+          "computer scientist",
           "designer",
+          "technology entrepreneur",
+          "inventor",
           "general manager",
           "executive producer",
-          "film producer",
-          "inventor",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
-          "Homestead High School",
           "Reed College",
-          "De Anza College"
+          "De Anza College",
+          "Homestead High School"
         ],
         "employers": [
           {
@@ -460,12 +460,12 @@
             "end": null
           },
           {
-            "company": "Pixar",
+            "company": "Atari, Inc.",
             "start": null,
             "end": null
           },
           {
-            "company": "Atari, Inc.",
+            "company": "Pixar",
             "start": null,
             "end": null
           },
@@ -485,8 +485,8 @@
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "1997-09-16",
-            "end": "2011-08-24"
+            "start": "1977-01-03",
+            "end": "1985-01-01"
           },
           {
             "title": "chief executive officer",
@@ -497,8 +497,8 @@
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "1977-01-03",
-            "end": "1985-01-01"
+            "start": "1997-09-16",
+            "end": "2011-08-24"
           }
         ]
       }

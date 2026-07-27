@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-07-20T06:47:25.932968Z",
+  "fetchedAt": "2026-07-27T07:03:34.568912Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -38,10 +38,10 @@
           "businessperson"
         ],
         "education": [
-          "ESADE",
-          "University of Barcelona",
           "ESADE Business School",
-          "University of Miami"
+          "University of Miami",
+          "ESADE",
+          "University of Barcelona"
         ],
         "employers": [
           {
