@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-07-20T07:59:09.427345Z",
+  "fetchedAt": "2026-07-27T08:29:39.284764Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,8 +36,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
+          "Lyc\u00e9e Saint-Louis-de-Gonzague",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "HEC Paris",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague"
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "association football player",
-          "politician"
+          "politician",
+          "association football player"
         ],
         "education": [
           "Free University of Brussels"
@@ -163,10 +163,10 @@
         "birthPlace": "Overmere",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
-          "diplomat",
           "foreign minister",
           "lawyer",
           "jurist",
+          "diplomat",
           "politician"
         ],
         "education": [
@@ -175,6 +175,12 @@
         ],
         "employers": [],
         "positions": [
+          {
+            "title": "European Commissioner for Preparedness and Crisis Management",
+            "company": null,
+            "start": "2009-07-17",
+            "end": "2010-02-09"
+          },
           {
             "title": "European Commissioner for Trade",
             "company": null,
@@ -234,12 +240,6 @@
             "company": null,
             "start": "1999-01-01",
             "end": "2003-01-01"
-          },
-          {
-            "title": "European Commissioner for Preparedness and Crisis Management",
-            "company": null,
-            "start": "2009-07-17",
-            "end": "2010-02-09"
           }
         ]
       }
@@ -256,8 +256,8 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Indian Institute of Social Welfare and Business Management",
