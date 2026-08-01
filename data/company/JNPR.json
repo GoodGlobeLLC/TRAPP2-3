@@ -1,7 +1,7 @@
 {
   "ticker": "JNPR",
   "qid": "Q1049080",
-  "fetchedAt": "2026-06-13T02:56:08.867190Z",
+  "fetchedAt": "2026-08-01T05:39:11.597906Z",
   "source": "wikidata",
   "name": "Juniper Networks",
   "description": "American multinational technology company",
@@ -9,7 +9,7 @@
   "isin": "US48203R1041",
   "inception": "1996-02-06",
   "employees": 9419,
-  "industry": "Photographic and Photocopying Equipment Manufacturing [2012\u20132022 definition]",
+  "industry": "technology",
   "headquarters": "Sunnyvale",
   "executives": [
     {

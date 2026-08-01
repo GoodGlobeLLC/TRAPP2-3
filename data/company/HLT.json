@@ -1,23 +1,52 @@
 {
   "ticker": "HLT",
   "qid": "Q1057464",
-  "fetchedAt": "2026-06-13T03:02:05.204070Z",
+  "fetchedAt": "2026-08-01T05:36:50.150101Z",
   "source": "wikidata",
   "name": "Hilton Worldwide",
   "description": "American multinational hospitality company",
   "website": "https://www.hilton.com",
   "isin": "US43300A2033",
   "inception": "1919-01-01",
-  "employees": null,
+  "employees": 182000,
   "industry": "hospitality industry",
   "headquarters": "McLean",
   "executives": [
     {
       "name": "Christopher J. Nassetta",
       "role": "Chief Executive Officer"
+    },
+    {
+      "name": "Jonathan D. Gray",
+      "role": "Chairperson"
     }
   ],
-  "board": [],
+  "board": [
+    {
+      "name": "Ray Mabus",
+      "role": "Board Member"
+    },
+    {
+      "name": "Marissa Mayer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Christopher J. Nassetta",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jonathan D. Gray",
+      "role": "Board Member"
+    },
+    {
+      "name": "Douglas Steenland",
+      "role": "Board Member"
+    },
+    {
+      "name": "Melanie Healey",
+      "role": "Board Member"
+    }
+  ],
   "founders": [
     {
       "name": "Conrad Hilton"
@@ -25,10 +54,10 @@
   ],
   "products": [
     {
-      "name": "resort"
+      "name": "franchising"
     },
     {
-      "name": "franchising"
+      "name": "resort"
     },
     {
       "name": "hotel"

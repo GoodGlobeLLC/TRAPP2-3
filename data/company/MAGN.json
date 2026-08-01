@@ -1,7 +1,7 @@
 {
   "ticker": "MAGN",
   "qid": "Q1884500",
-  "fetchedAt": "2026-06-13T03:52:03.867198Z",
+  "fetchedAt": "2026-08-01T05:42:52.578375Z",
   "source": "wikidata",
   "name": "Magnitogorsk Iron and Steel Works",
   "description": "one of Russia's largest steel companies",
@@ -9,7 +9,7 @@
   "isin": "RU0009084396",
   "inception": "1932-01-31",
   "employees": 18600,
-  "industry": "metallurgy",
+  "industry": "iron and steel industry",
   "headquarters": "Magnitogorsk",
   "executives": [],
   "board": [],
@@ -19,19 +19,19 @@
       "name": "cast iron"
     },
     {
+      "name": "iron ore"
+    },
+    {
+      "name": "iron"
+    },
+    {
       "name": "m\u00f6ller"
     },
     {
       "name": "roll bender"
     },
     {
-      "name": "iron ore"
-    },
-    {
       "name": "steel"
-    },
-    {
-      "name": "iron"
     }
   ],
   "countries": []

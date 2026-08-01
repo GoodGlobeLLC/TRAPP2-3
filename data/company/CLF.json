@@ -1,27 +1,19 @@
 {
   "ticker": "CLF",
-  "qid": "Q5133094",
-  "fetchedAt": "2026-06-13T02:57:39.786163Z",
+  "qid": "Q108940005",
+  "fetchedAt": "2026-08-01T05:29:43.215889Z",
   "source": "wikidata",
-  "name": "Cleveland-Cliffs",
-  "description": "American steelmaking company",
-  "website": "http://www.clevelandcliffs.com/",
-  "isin": "US18683K1016",
-  "inception": "1846-01-01",
-  "employees": 30000,
-  "industry": "iron and steel industry",
-  "headquarters": "Cleveland",
+  "name": "Centreline Air Charter Ltd",
+  "description": "small charter airline in the United Kingdom, specialising in business jets; dormant subsidy of Centreline AV Ltd",
+  "website": "https://www.Centreline.aero",
+  "isin": null,
+  "inception": "2000-01-19",
+  "employees": null,
+  "industry": "air transport",
+  "headquarters": "Bristol Airport",
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Samuel Mather"
-    }
-  ],
-  "products": [
-    {
-      "name": "steel"
-    }
-  ],
+  "founders": [],
+  "products": [],
   "countries": []
 }

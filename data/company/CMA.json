@@ -1,7 +1,7 @@
 {
   "ticker": "CMA",
   "qid": "Q2867874",
-  "fetchedAt": "2026-06-13T03:42:20.758197Z",
+  "fetchedAt": "2026-08-01T05:29:47.855504Z",
   "source": "wikidata",
   "name": "Canadian Medical Association",
   "description": "association of doctors in Canada",
@@ -12,30 +12,6 @@
   "industry": null,
   "headquarters": "Ottawa",
   "executives": [
-    {
-      "name": "Gustave Gingras",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Duncan Archibald Graham",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Daniel McNeill Parker",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Brian Day",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Bette Stephenson",
-      "role": "Chairperson"
-    },
-    {
-      "name": "William Hales Hingston",
-      "role": "Chairperson"
-    },
     {
       "name": "Robert Palmer Howard",
       "role": "Chairperson"
@@ -69,7 +45,27 @@
       "role": "Chairperson"
     },
     {
-      "name": "Thomas George Roddick",
+      "name": "Gustave Gingras",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Duncan Archibald Graham",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Daniel McNeill Parker",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Brian Day",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Bette Stephenson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "William Hales Hingston",
       "role": "Chairperson"
     },
     {
@@ -78,6 +74,10 @@
     },
     {
       "name": "Gigi Osler",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Thomas George Roddick",
       "role": "Chairperson"
     },
     {

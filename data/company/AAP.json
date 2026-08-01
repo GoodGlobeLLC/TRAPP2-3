@@ -1,7 +1,7 @@
 {
   "ticker": "AAP",
   "qid": "Q312",
-  "fetchedAt": "2026-06-13T04:43:38.063890Z",
+  "fetchedAt": "2026-08-01T05:23:15.355647Z",
   "source": "wikidata",
   "name": "Apple Inc.",
   "description": "American multinational technology company based in Cupertino, California",
@@ -9,7 +9,7 @@
   "isin": "US0378331005",
   "inception": "1976-04-01",
   "employees": 164000,
-  "industry": "mobile phone industry",
+  "industry": "software development",
   "headquarters": "Cupertino",
   "executives": [
     {
@@ -49,13 +49,13 @@
   ],
   "founders": [
     {
+      "name": "Steve Jobs"
+    },
+    {
       "name": "Steve Wozniak"
     },
     {
       "name": "Ronald Wayne"
-    },
-    {
-      "name": "Steve Jobs"
     }
   ],
   "products": [
@@ -66,16 +66,7 @@
       "name": "networking hardware"
     },
     {
-      "name": "AirPods"
-    },
-    {
-      "name": "Apple Pay"
-    },
-    {
       "name": "HomePod"
-    },
-    {
-      "name": "Apple TV"
     },
     {
       "name": "wearable computer"
@@ -84,40 +75,49 @@
       "name": "consumer electronics"
     },
     {
-      "name": "personal digital assistant"
+      "name": "AirPods"
     },
     {
-      "name": "peripheral"
+      "name": "Apple Pay"
     },
     {
-      "name": "tablet computer"
-    },
-    {
-      "name": "Mac"
-    },
-    {
-      "name": "smartphone"
+      "name": "Apple TV"
     },
     {
       "name": "personal computer"
     },
     {
+      "name": "peripheral"
+    },
+    {
+      "name": "Mac"
+    },
+    {
+      "name": "personal digital assistant"
+    },
+    {
+      "name": "tablet computer"
+    },
+    {
       "name": "iPod touch"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "iMac"
+    },
+    {
+      "name": "iPod"
+    },
+    {
+      "name": "software"
     },
     {
       "name": "computer hardware"
     },
     {
       "name": "iPhone"
-    },
-    {
-      "name": "iMac"
-    },
-    {
-      "name": "software"
-    },
-    {
-      "name": "iPod"
     }
   ],
   "countries": [

@@ -1,7 +1,28 @@
 {
   "ticker": "BTDR",
-  "fetchedAt": "2026-06-13T03:40:45.457503Z",
+  "qid": "Q133042901",
+  "fetchedAt": "2026-08-01T05:28:09.620055Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "Bitdeer",
+  "description": "Singapore-based cryptocurrency mining and AI cloud infrastructure company",
+  "website": "https://www.bitdeer.com",
+  "isin": "KYG114481008",
+  "inception": "2021-01-01",
+  "employees": 211,
+  "industry": "cryptocurrency mining",
+  "headquarters": "Singapore",
+  "executives": [
+    {
+      "name": "Jihan Wu",
+      "role": "Chief Executive Officer"
+    }
+  ],
+  "board": [],
+  "founders": [
+    {
+      "name": "Jihan Wu"
+    }
+  ],
+  "products": [],
+  "countries": []
 }

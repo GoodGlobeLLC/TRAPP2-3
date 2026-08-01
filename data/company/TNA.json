@@ -1,7 +1,7 @@
 {
   "ticker": "TNA",
   "qid": "Q131728",
-  "fetchedAt": "2026-06-13T04:02:12.068708Z",
+  "fetchedAt": "2026-08-01T05:55:48.826318Z",
   "source": "wikidata",
   "name": "Total Nonstop Action Wrestling",
   "description": "American professional wrestling promotion",
@@ -26,10 +26,10 @@
   ],
   "products": [
     {
-      "name": "tie-in"
+      "name": "publishing"
     },
     {
-      "name": "pay-per-view"
+      "name": "home video"
     },
     {
       "name": "merchandising"
@@ -38,10 +38,10 @@
       "name": "video on demand"
     },
     {
-      "name": "publishing"
+      "name": "tie-in"
     },
     {
-      "name": "home video"
+      "name": "pay-per-view"
     },
     {
       "name": "music"

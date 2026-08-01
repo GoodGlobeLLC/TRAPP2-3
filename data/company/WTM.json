@@ -1,44 +1,19 @@
 {
   "ticker": "WTM",
-  "qid": "Q139589886",
-  "fetchedAt": "2026-06-13T04:04:16.260031Z",
+  "qid": "Q7995089",
+  "fetchedAt": "2026-08-01T05:58:22.621233Z",
   "source": "wikidata",
-  "name": "Waifu Talent",
-  "description": "American talent management agency for online content creators",
-  "website": "https://waifutalent.com",
-  "isin": null,
-  "inception": "2022-01-01",
+  "name": "White Mountains Insurance Group",
+  "description": "insurance company",
+  "website": "http://www.whitemountains.com/",
+  "isin": "BMG9618E1075",
+  "inception": null,
   "employees": null,
-  "industry": "creator economy",
-  "headquarters": "Beverly Hills",
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],
   "products": [],
-  "countries": [
-    {
-      "name": "New Zealand"
-    },
-    {
-      "name": "Australia"
-    },
-    {
-      "name": "Germany"
-    },
-    {
-      "name": "United Kingdom"
-    },
-    {
-      "name": "Netherlands"
-    },
-    {
-      "name": "United States"
-    },
-    {
-      "name": "Ireland"
-    },
-    {
-      "name": "Canada"
-    }
-  ]
+  "countries": []
 }

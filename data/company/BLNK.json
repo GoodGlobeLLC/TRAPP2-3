@@ -1,7 +1,7 @@
 {
   "ticker": "BLNK",
   "qid": "Q62065645",
-  "fetchedAt": "2026-06-13T03:05:58.356370Z",
+  "fetchedAt": "2026-08-01T05:27:45.185514Z",
   "source": "wikidata",
   "name": "Blink",
   "description": "electric car charger network in the United States, Uk, Ireland, Greece, Belgium",
@@ -20,16 +20,16 @@
       "name": "Ireland"
     },
     {
-      "name": "Greece"
-    },
-    {
       "name": "United Kingdom"
     },
     {
-      "name": "United States"
+      "name": "Greece"
     },
     {
       "name": "Belgium"
+    },
+    {
+      "name": "United States"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "ZIM",
   "qid": "Q2630674",
-  "fetchedAt": "2026-06-13T03:02:19.338129Z",
+  "fetchedAt": "2026-08-01T05:59:59.064757Z",
   "source": "wikidata",
   "name": "Malyshev Factory",
   "description": "heavy equipment and defense manufacturer in Kharkiv, Ukraine",
@@ -16,10 +16,10 @@
   "founders": [],
   "products": [
     {
-      "name": "diesel engine"
+      "name": "tank"
     },
     {
-      "name": "tank"
+      "name": "diesel engine"
     }
   ],
   "countries": []

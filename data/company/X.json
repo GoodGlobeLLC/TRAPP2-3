@@ -1,7 +1,7 @@
 {
   "ticker": "X",
   "qid": "Q72539",
-  "fetchedAt": "2026-06-13T02:57:52.742019Z",
+  "fetchedAt": "2026-08-01T05:58:50.642886Z",
   "source": "wikidata",
   "name": "U.S. Steel",
   "description": "US steel-producing company",
@@ -35,23 +35,19 @@
       "role": "Board Member"
     },
     {
-      "name": "John V. Faraci",
-      "role": "Board Member"
-    },
-    {
       "name": "Jeh C. Johnson",
       "role": "Board Member"
     }
   ],
   "founders": [
     {
+      "name": "Elbert Henry Gary"
+    },
+    {
       "name": "Andrew Carnegie"
     },
     {
       "name": "J. P. Morgan"
-    },
-    {
-      "name": "Elbert Henry Gary"
     },
     {
       "name": "William H. Moore"

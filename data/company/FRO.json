@@ -1,17 +1,22 @@
 {
   "ticker": "FRO",
-  "qid": "Q1470264",
-  "fetchedAt": "2026-06-13T03:03:08.086917Z",
+  "qid": "Q529157",
+  "fetchedAt": "2026-08-01T05:33:52.594534Z",
   "source": "wikidata",
-  "name": "Frontiers Records",
-  "description": "Italian record label",
-  "website": "http://www.frontiers.it/",
-  "isin": null,
-  "inception": "1996-01-01",
+  "name": "Frontline",
+  "description": "shipping company",
+  "website": "https://www.frontlineplc.cy",
+  "isin": "CY0200352116",
+  "inception": "1985-01-01",
   "employees": null,
-  "industry": null,
-  "headquarters": "Naples",
-  "executives": [],
+  "industry": "shipping",
+  "headquarters": "Limassol",
+  "executives": [
+    {
+      "name": "Lars H. Barstad",
+      "role": "Chairperson"
+    }
+  ],
   "board": [],
   "founders": [],
   "products": [],
