@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T08:27:53.297793Z",
-  "totalPeople": 161,
-  "totalTickers": 41,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 34,
-  "thisRunTickers": 56,
+  "generatedAt": "2026-08-03T10:10:14.821638Z",
+  "totalPeople": 168,
+  "totalTickers": 42,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 46,
+  "thisRunTickers": 109,
   "index": [
     {
       "qid": "Q370191",
@@ -140,8 +140,8 @@
     },
     {
       "qid": "Q6195201",
-      "name": "Jim Gianopulos",
-      "slug": "jim-gianopulos",
+      "name": "Jim Giannopulos",
+      "slug": "jim-giannopulos",
       "tickers": [
         "PARA"
       ],
@@ -1631,6 +1631,78 @@
       ],
       "positionsCount": 0,
       "employersCount": 0
+    },
+    {
+      "qid": "Q317521",
+      "name": "Elon Musk",
+      "slug": "elon-musk",
+      "tickers": [
+        "SPCX",
+        "SPCX",
+        "SPCX"
+      ],
+      "positionsCount": 6,
+      "employersCount": 8
+    },
+    {
+      "qid": "Q132533440",
+      "name": "Bret Johnsen",
+      "slug": "bret-johnsen",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 1,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q111928349",
+      "name": "Antonio Gracias",
+      "slug": "antonio-gracias",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q104626485",
+      "name": "Ira Ehrenpreis",
+      "slug": "ira-ehrenpreis",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 2,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q9079904",
+      "name": "Steve Jurvetson",
+      "slug": "steve-jurvetson",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q6702205",
+      "name": "Luke Nosek",
+      "slug": "luke-nosek",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q1557944",
+      "name": "Gwynne Shotwell",
+      "slug": "gwynne-shotwell",
+      "tickers": [
+        "SPCX"
+      ],
+      "positionsCount": 2,
+      "employersCount": 4
     }
   ]
 }

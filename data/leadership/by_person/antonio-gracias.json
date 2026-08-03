@@ -1,6 +1,6 @@
 {
-  "qid": "Q109619406",
-  "name": "Nancy Schlichting",
+  "qid": "Q111928349",
+  "name": "Antonio Gracias",
   "dateOfBirth": null,
   "birthPlace": null,
   "image": null,
@@ -8,12 +8,13 @@
     "businessperson"
   ],
   "education": [
-    "Duke University",
-    "Cornell University"
+    "University of Chicago Law School",
+    "Waseda University",
+    "Georgetown University in Qatar"
   ],
   "employers": [],
   "positions": [],
   "currentTickers": [
-    "WBA"
+    "SPCX"
   ]
 }

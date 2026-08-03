@@ -1,42 +1,39 @@
 {
-  "qid": "Q1682415",
-  "name": "Jan du Plessis",
-  "dateOfBirth": "1954-01-22",
-  "birthPlace": "Cape Town",
+  "qid": "Q132533440",
+  "name": "Bret Johnsen",
+  "dateOfBirth": null,
+  "birthPlace": null,
   "image": null,
   "occupations": [
-    "manager",
-    "entrepreneur"
+    "businessperson"
   ],
-  "education": [
-    "Stellenbosch University"
-  ],
+  "education": [],
   "employers": [
     {
-      "company": "Lloyds Bank",
+      "company": "SpaceX",
       "start": null,
       "end": null
     },
     {
-      "company": "Rio Tinto Group",
+      "company": "Mindspeed Technologies",
       "start": null,
       "end": null
     },
     {
-      "company": "BT Group",
+      "company": "Broadcom",
       "start": null,
       "end": null
     }
   ],
   "positions": [
     {
-      "title": "president",
+      "title": "chief financial officer",
       "company": null,
       "start": null,
       "end": null
     }
   ],
   "currentTickers": [
-    "RIO"
+    "SPCX"
   ]
 }

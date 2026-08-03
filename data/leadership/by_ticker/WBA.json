@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-07-27T10:01:11.948468Z",
+  "fetchedAt": "2026-08-03T10:10:14.811662Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
-          "entrepreneur",
-          "engineer"
+          "chief executive officer",
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -65,9 +65,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Birla Institute of Technology and Science",
           "Carnegie Mellon University",
-          "University of Massachusetts Amherst",
-          "Birla Institute of Technology and Science"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Duke University"
+          "Duke University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -226,8 +226,8 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
           "Stanford Law School",
@@ -292,8 +292,8 @@
         "education": [
           "The Wharton School",
           "West Virginia University",
-          "West Virginia University School of Medicine",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "West Virginia University School of Medicine"
         ],
         "employers": [],
         "positions": [
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "chief executive officer",
           "businessperson",
-          "entrepreneur",
-          "engineer"
+          "chief executive officer",
+          "engineer",
+          "entrepreneur"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -376,8 +376,8 @@
         "birthPlace": "Shiraz",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Valerie%20Jarrett%20official%20portrait%20small.jpg",
         "occupations": [
-          "politician",
-          "lawyer"
+          "lawyer",
+          "politician"
         ],
         "education": [
           "University of Michigan",
