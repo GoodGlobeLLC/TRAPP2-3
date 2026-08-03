@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-07-27T08:29:39.284764Z",
+  "fetchedAt": "2026-08-03T08:27:53.291340Z",
   "people": [
     {
       "qid": "Q357616",
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "association football player"
+          "association football player",
+          "politician"
         ],
         "education": [
           "Free University of Brussels"
@@ -164,9 +164,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "lawyer",
           "jurist",
           "diplomat",
+          "lawyer",
           "politician"
         ],
         "education": [

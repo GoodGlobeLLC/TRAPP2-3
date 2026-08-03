@@ -1,0 +1,55 @@
+{
+  "qid": "Q531247",
+  "name": "Ray Mabus",
+  "dateOfBirth": "1948-10-11",
+  "birthPlace": "Starkville",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MabusRay.jpg",
+  "occupations": [
+    "military officer",
+    "diplomat",
+    "businessperson",
+    "politician",
+    "actor"
+  ],
+  "education": [
+    "University of Mississippi",
+    "Johns Hopkins University",
+    "Harvard Law School"
+  ],
+  "employers": [],
+  "positions": [
+    {
+      "title": "State Auditor of Mississippi",
+      "company": null,
+      "start": "1984-01-10",
+      "end": "1988-01-12"
+    },
+    {
+      "title": "United States Secretary of the Navy",
+      "company": null,
+      "start": "2009-05-19",
+      "end": "2017-01-20"
+    },
+    {
+      "title": "United States Ambassador to Saudi Arabia",
+      "company": null,
+      "start": "1994-07-05",
+      "end": "1996-04-25"
+    },
+    {
+      "title": "ambassador",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "Governor of Mississippi",
+      "company": null,
+      "start": "1988-01-12",
+      "end": "1992-01-14"
+    }
+  ],
+  "currentTickers": [
+    "HLT"
+  ]
+}

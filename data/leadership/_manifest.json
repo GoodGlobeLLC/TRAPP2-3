@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-03T06:59:57.221819Z",
-  "totalPeople": 148,
+  "generatedAt": "2026-08-03T08:27:53.297793Z",
+  "totalPeople": 161,
   "totalTickers": 41,
-  "lastRangeFilter": "A-G",
-  "thisRunPeople": 70,
-  "thisRunTickers": 85,
+  "lastRangeFilter": "H-M",
+  "thisRunPeople": 34,
+  "thisRunTickers": 56,
   "index": [
     {
       "qid": "Q370191",
@@ -51,6 +51,7 @@
       "name": "Christopher J. Nassetta",
       "slug": "christopher-j-nassetta",
       "tickers": [
+        "HLT",
         "HLT"
       ],
       "positionsCount": 0,
@@ -1497,6 +1498,138 @@
         "FRO"
       ],
       "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q16211302",
+      "name": "Jonathan D. Gray",
+      "slug": "jonathan-d-gray",
+      "tickers": [
+        "HLT",
+        "HLT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q531247",
+      "name": "Ray Mabus",
+      "slug": "ray-mabus",
+      "tickers": [
+        "HLT"
+      ],
+      "positionsCount": 5,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q14086",
+      "name": "Marissa Mayer",
+      "slug": "marissa-mayer",
+      "tickers": [
+        "HLT"
+      ],
+      "positionsCount": 2,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q5301995",
+      "name": "Douglas Steenland",
+      "slug": "douglas-steenland",
+      "tickers": [
+        "HLT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q109625577",
+      "name": "Melanie Healey",
+      "slug": "melanie-healey",
+      "tickers": [
+        "HLT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q51841506",
+      "name": "Antonio Neri",
+      "slug": "antonio-neri",
+      "tickers": [
+        "HP",
+        "HP"
+      ],
+      "positionsCount": 2,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q7129117",
+      "name": "Pamela Carter",
+      "slug": "pamela-carter",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5525500",
+      "name": "Gary Reiner",
+      "slug": "gary-reiner",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q558501",
+      "name": "Ann Livermore",
+      "slug": "ann-livermore",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q533750",
+      "name": "Patricia Russo",
+      "slug": "patricia-russo",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 2,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q92637",
+      "name": "Ray Ozzie",
+      "slug": "ray-ozzie",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q19561225",
+      "name": "Lip-Bu Tan",
+      "slug": "lip-bu-tan",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q7298890",
+      "name": "Raymond J. Lane",
+      "slug": "raymond-j-lane",
+      "tickers": [
+        "HP"
+      ],
+      "positionsCount": 0,
       "employersCount": 0
     }
   ]

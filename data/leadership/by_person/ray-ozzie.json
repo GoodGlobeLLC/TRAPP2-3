@@ -1,0 +1,28 @@
+{
+  "qid": "Q92637",
+  "name": "Ray Ozzie",
+  "dateOfBirth": "1955-11-20",
+  "birthPlace": "Chicago",
+  "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Ozzie%2C%20Web%202.0%20Conference.jpg",
+  "occupations": [
+    "programmer",
+    "computer scientist",
+    "engineer",
+    "businessperson"
+  ],
+  "education": [
+    "Maine South High School",
+    "University of Illinois Urbana-Champaign"
+  ],
+  "employers": [
+    {
+      "company": "Microsoft",
+      "start": null,
+      "end": null
+    }
+  ],
+  "positions": [],
+  "currentTickers": [
+    "HP"
+  ]
+}
