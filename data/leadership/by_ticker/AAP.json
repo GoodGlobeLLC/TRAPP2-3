@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-07-27T07:03:34.543274Z",
+  "fetchedAt": "2026-08-03T06:59:57.195711Z",
   "people": [
     {
       "qid": "Q265852",
@@ -15,18 +15,18 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
         "occupations": [
           "presenter",
-          "computer scientist",
           "manager",
-          "businessperson",
           "chief executive officer",
-          "engineer"
+          "engineer",
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -67,8 +67,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -100,8 +100,8 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "economist",
-          "businessperson"
+          "businessperson",
+          "economist"
         ],
         "education": [
           "Booth School of Business",
@@ -183,8 +183,8 @@
           "businessperson"
         ],
         "education": [
-          "University of Washington",
           "University of California, San Francisco",
+          "University of Washington",
           "Princeton University"
         ],
         "employers": [
@@ -251,17 +251,17 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "climate activist",
           "orator",
           "blogger",
-          "university teacher",
-          "farmer",
+          "climate activist",
           "environmentalist",
           "financier",
+          "farmer",
           "journalist",
+          "university teacher",
           "politician",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
           "Harvard College",
@@ -342,90 +342,6 @@
       }
     },
     {
-      "qid": "Q483382",
-      "name": "Steve Wozniak",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q483382",
-        "name": "Steve Wozniak",
-        "dateOfBirth": "1950-08-11",
-        "birthPlace": "San Jose",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
-        "occupations": [
-          "inventor",
-          "entrepreneur",
-          "computer scientist",
-          "engineer",
-          "actor",
-          "programmer",
-          "electronics technician",
-          "businessperson",
-          "teacher"
-        ],
-        "education": [
-          "University of Colorado",
-          "De Anza College",
-          "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
-        ],
-        "employers": [
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "University of Technology Sydney",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q332591",
-      "name": "Ronald Wayne",
-      "role_at_company": "Founder",
-      "source_field": "founders",
-      "career": {
-        "qid": "Q332591",
-        "name": "Ronald Wayne",
-        "dateOfBirth": "1934-05-17",
-        "birthPlace": "Cleveland",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
-        "occupations": [
-          "entrepreneur",
-          "engineer",
-          "computer scientist",
-          "writer"
-        ],
-        "education": [
-          "High School of Art and Design"
-        ],
-        "employers": [
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
       "qid": "Q19837",
       "name": "Steve Jobs",
       "role_at_company": "Founder",
@@ -437,25 +353,30 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
         "occupations": [
-          "founder",
-          "film producer",
-          "financier",
-          "computer scientist",
           "designer",
+          "film producer",
           "technology entrepreneur",
-          "inventor",
+          "financier",
+          "founder",
           "general manager",
           "executive producer",
-          "entrepreneur"
+          "computer scientist",
+          "entrepreneur",
+          "inventor"
         ],
         "education": [
+          "Homestead High School",
           "Reed College",
-          "De Anza College",
-          "Homestead High School"
+          "De Anza College"
         ],
         "employers": [
           {
             "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -466,11 +387,6 @@
           },
           {
             "company": "Pixar",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
             "start": null,
             "end": null
           }
@@ -491,16 +407,100 @@
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "1995-11-29",
-            "end": "1997-01-01"
+            "start": "1997-09-16",
+            "end": "2011-08-24"
           },
           {
             "title": "chief executive officer",
             "company": null,
-            "start": "1997-09-16",
-            "end": "2011-08-24"
+            "start": "1995-11-29",
+            "end": "1997-01-01"
           }
         ]
+      }
+    },
+    {
+      "qid": "Q483382",
+      "name": "Steve Wozniak",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q483382",
+        "name": "Steve Wozniak",
+        "dateOfBirth": "1950-08-11",
+        "birthPlace": "San Jose",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
+        "occupations": [
+          "programmer",
+          "electronics technician",
+          "inventor",
+          "engineer",
+          "computer scientist",
+          "entrepreneur",
+          "businessperson",
+          "actor",
+          "teacher"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "University of Colorado",
+          "De Anza College",
+          "University of Colorado Boulder",
+          "Homestead High School"
+        ],
+        "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q332591",
+      "name": "Ronald Wayne",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q332591",
+        "name": "Ronald Wayne",
+        "dateOfBirth": "1934-05-17",
+        "birthPlace": "Cleveland",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/RonaldWayneMacworld2009.jpg",
+        "occupations": [
+          "computer scientist",
+          "entrepreneur",
+          "engineer",
+          "writer"
+        ],
+        "education": [
+          "High School of Art and Design"
+        ],
+        "employers": [
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
       }
     }
   ]

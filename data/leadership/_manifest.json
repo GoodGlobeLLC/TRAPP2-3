@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-27T10:01:11.957673Z",
-  "totalPeople": 146,
-  "totalTickers": 39,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 38,
-  "thisRunTickers": 109,
+  "generatedAt": "2026-08-03T06:59:57.221819Z",
+  "totalPeople": 148,
+  "totalTickers": 41,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 70,
+  "thisRunTickers": 85,
   "index": [
     {
       "qid": "Q370191",
@@ -1477,6 +1477,27 @@
       ],
       "positionsCount": 0,
       "employersCount": 1
+    },
+    {
+      "qid": "Q55615074",
+      "name": "Jihan Wu",
+      "slug": "jihan-wu",
+      "tickers": [
+        "BTDR",
+        "BTDR"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q130241022",
+      "name": "Lars H. Barstad",
+      "slug": "lars-h-barstad",
+      "tickers": [
+        "FRO"
+      ],
+      "positionsCount": 1,
+      "employersCount": 0
     }
   ]
 }

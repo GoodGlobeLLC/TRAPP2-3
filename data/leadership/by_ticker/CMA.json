@@ -1,219 +1,7 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-07-27T07:03:34.548657Z",
+  "fetchedAt": "2026-08-03T06:59:57.202976Z",
   "people": [
-    {
-      "qid": "Q5621289",
-      "name": "Gustave Gingras",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q5621289",
-        "name": "Gustave Gingras",
-        "dateOfBirth": "1918-01-18",
-        "birthPlace": "Montreal",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
-        "occupations": [
-          "neurosurgeon",
-          "physician"
-        ],
-        "education": [
-          "Universit\u00e9 de Montr\u00e9al"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "president",
-            "company": null,
-            "start": "1972-01-01",
-            "end": "1973-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5314258",
-      "name": "Duncan Archibald Graham",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q5314258",
-        "name": "Duncan Archibald Graham",
-        "dateOfBirth": "1882-01-08",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
-        "occupations": [
-          "physician",
-          "pathologist"
-        ],
-        "education": [
-          "University of Toronto"
-        ],
-        "employers": [
-          {
-            "company": "University of Toronto",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": [
-          {
-            "title": "Sir John and Lady Eaton Professor and Chair of Medicine",
-            "company": null,
-            "start": "1919-01-01",
-            "end": "1947-01-01"
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1940-01-01",
-            "end": "1941-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q5218130",
-      "name": "Daniel McNeill Parker",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q5218130",
-        "name": "Daniel McNeill Parker",
-        "dateOfBirth": "1822-04-28",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "physician",
-          "politician"
-        ],
-        "education": [
-          "University of Edinburgh"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q4963535",
-      "name": "Brian Day",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q4963535",
-        "name": "Brian Day",
-        "dateOfBirth": "1947-01-29",
-        "birthPlace": "Liverpool",
-        "image": null,
-        "occupations": [
-          "surgeon"
-        ],
-        "education": [
-          "School of Medicine, University of Manchester",
-          "University of British Columbia"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "president",
-            "company": null,
-            "start": "2007-01-01",
-            "end": "2008-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q4898408",
-      "name": "Bette Stephenson",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q4898408",
-        "name": "Bette Stephenson",
-        "dateOfBirth": "1924-07-31",
-        "birthPlace": "Aurora",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
-        "occupations": [
-          "politician",
-          "physician"
-        ],
-        "education": [
-          "University of Toronto"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "member of the Ontario Provincial Parliament",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "1974-01-01",
-            "end": "1975-01-01"
-          }
-        ]
-      }
-    },
-    {
-      "qid": "Q3568677",
-      "name": "William Hales Hingston",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q3568677",
-        "name": "William Hales Hingston",
-        "dateOfBirth": "1829-06-29",
-        "birthPlace": "Hinchinbrooke",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
-        "occupations": [
-          "banker",
-          "surgeon",
-          "writer",
-          "politician",
-          "physician"
-        ],
-        "education": [
-          "McGill University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "1896-06-23",
-            "end": "1900-11-06"
-          },
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "1904-11-03",
-            "end": "1907-02-19"
-          },
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "1900-11-07",
-            "end": "1904-11-02"
-          },
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "1896-01-02",
-            "end": "1896-06-22"
-          },
-          {
-            "title": "Mayor of Montreal",
-            "company": null,
-            "start": "1875-01-01",
-            "end": "1877-01-01"
-          }
-        ]
-      }
-    },
     {
       "qid": "Q55259271",
       "name": "Robert Palmer Howard",
@@ -320,12 +108,12 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "physician",
-          "journalist"
+          "journalist",
+          "physician"
         ],
         "education": [
-          "University of Sydney",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -356,8 +144,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "surgeon",
-          "historian"
+          "historian",
+          "surgeon"
         ],
         "education": [
           "New York University"
@@ -434,6 +222,276 @@
       }
     },
     {
+      "qid": "Q5621289",
+      "name": "Gustave Gingras",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5621289",
+        "name": "Gustave Gingras",
+        "dateOfBirth": "1918-01-18",
+        "birthPlace": "Montreal",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
+        "occupations": [
+          "physician",
+          "neurosurgeon"
+        ],
+        "education": [
+          "Universit\u00e9 de Montr\u00e9al"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "1972-01-01",
+            "end": "1973-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5314258",
+      "name": "Duncan Archibald Graham",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5314258",
+        "name": "Duncan Archibald Graham",
+        "dateOfBirth": "1882-01-08",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
+        "occupations": [
+          "physician",
+          "pathologist"
+        ],
+        "education": [
+          "University of Toronto"
+        ],
+        "employers": [
+          {
+            "company": "University of Toronto",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "Sir John and Lady Eaton Professor and Chair of Medicine",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1947-01-01"
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1940-01-01",
+            "end": "1941-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q5218130",
+      "name": "Daniel McNeill Parker",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q5218130",
+        "name": "Daniel McNeill Parker",
+        "dateOfBirth": "1822-04-28",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "University of Edinburgh"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4963535",
+      "name": "Brian Day",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4963535",
+        "name": "Brian Day",
+        "dateOfBirth": "1947-01-29",
+        "birthPlace": "Liverpool",
+        "image": null,
+        "occupations": [
+          "surgeon"
+        ],
+        "education": [
+          "School of Medicine, University of Manchester",
+          "University of British Columbia"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": "2007-01-01",
+            "end": "2008-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q4898408",
+      "name": "Bette Stephenson",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q4898408",
+        "name": "Bette Stephenson",
+        "dateOfBirth": "1924-07-31",
+        "birthPlace": "Aurora",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
+        "occupations": [
+          "politician",
+          "physician"
+        ],
+        "education": [
+          "University of Toronto"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Ontario Provincial Parliament",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "1974-01-01",
+            "end": "1975-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q3568677",
+      "name": "William Hales Hingston",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q3568677",
+        "name": "William Hales Hingston",
+        "dateOfBirth": "1829-06-29",
+        "birthPlace": "Hinchinbrooke",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
+        "occupations": [
+          "banker",
+          "surgeon",
+          "politician",
+          "physician",
+          "writer"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1896-06-23",
+            "end": "1900-11-06"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1904-11-03",
+            "end": "1907-02-19"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1900-11-07",
+            "end": "1904-11-02"
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "1896-01-02",
+            "end": "1896-06-22"
+          },
+          {
+            "title": "Mayor of Montreal",
+            "company": null,
+            "start": "1875-01-01",
+            "end": "1877-01-01"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q62061334",
+      "name": "George Edgeworth Fenwick",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q62061334",
+        "name": "George Edgeworth Fenwick",
+        "dateOfBirth": "1825-01-01",
+        "birthPlace": "Quebec City",
+        "image": null,
+        "occupations": [
+          "physician",
+          "university teacher"
+        ],
+        "education": [
+          "McGill University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q61645235",
+      "name": "Gigi Osler",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q61645235",
+        "name": "Gigi Osler",
+        "dateOfBirth": "1968-09-09",
+        "birthPlace": "Winnipeg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
+        "occupations": [
+          "university teacher",
+          "surgeon",
+          "physician"
+        ],
+        "education": [
+          "University of Manitoba"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "2025-04-28",
+            "end": null
+          },
+          {
+            "title": "member of the Senate of Canada",
+            "company": null,
+            "start": "2022-09-26",
+            "end": "2025-04-27"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q3525153",
       "name": "Thomas George Roddick",
       "role_at_company": "Chairperson",
@@ -447,8 +505,8 @@
         "occupations": [
           "university teacher",
           "surgeon",
-          "politician",
           "dean",
+          "politician",
           "physician"
         ],
         "education": [
@@ -485,64 +543,6 @@
       }
     },
     {
-      "qid": "Q62061334",
-      "name": "George Edgeworth Fenwick",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q62061334",
-        "name": "George Edgeworth Fenwick",
-        "dateOfBirth": "1825-01-01",
-        "birthPlace": "Quebec City",
-        "image": null,
-        "occupations": [
-          "university teacher",
-          "physician"
-        ],
-        "education": [
-          "McGill University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q61645235",
-      "name": "Gigi Osler",
-      "role_at_company": "Chairperson",
-      "source_field": "executives",
-      "career": {
-        "qid": "Q61645235",
-        "name": "Gigi Osler",
-        "dateOfBirth": "1968-09-09",
-        "birthPlace": "Winnipeg",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
-        "occupations": [
-          "surgeon",
-          "physician",
-          "university teacher"
-        ],
-        "education": [
-          "University of Manitoba"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "2025-04-28",
-            "end": null
-          },
-          {
-            "title": "member of the Senate of Canada",
-            "company": null,
-            "start": "2022-09-26",
-            "end": "2025-04-27"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q128672",
       "name": "Charles Tupper",
       "role_at_company": "Chairperson",
@@ -555,8 +555,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
           "diplomat",
-          "lawyer",
           "politician",
+          "lawyer",
           "physician"
         ],
         "education": [
@@ -682,9 +682,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
           "polo player",
-          "military officer",
           "naval officer",
-          "prince consort"
+          "prince consort",
+          "military officer"
         ],
         "education": [
           "Cheam School",
