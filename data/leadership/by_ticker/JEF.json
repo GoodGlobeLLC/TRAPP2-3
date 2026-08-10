@@ -1,6 +1,6 @@
 {
   "ticker": "JEF",
-  "fetchedAt": "2026-08-03T08:27:53.285908Z",
+  "fetchedAt": "2026-08-10T06:25:36.971426Z",
   "people": [
     {
       "qid": "Q7323856",
@@ -20,9 +20,9 @@
         ],
         "education": [
           "University of Rochester",
+          "Stanford University",
           "Pascack Hills High School",
-          "Stanford Graduate School of Business",
-          "Stanford University"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
