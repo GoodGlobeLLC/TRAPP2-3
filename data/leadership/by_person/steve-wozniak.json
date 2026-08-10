@@ -8,21 +8,26 @@
     "programmer",
     "electronics technician",
     "inventor",
+    "entrepreneur",
     "engineer",
     "computer scientist",
-    "entrepreneur",
     "businessperson",
-    "actor",
-    "teacher"
+    "teacher",
+    "actor"
   ],
   "education": [
-    "University of California, Berkeley",
     "University of Colorado",
     "De Anza College",
     "University of Colorado Boulder",
-    "Homestead High School"
+    "Homestead High School",
+    "University of California, Berkeley"
   ],
   "employers": [
+    {
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
     {
       "company": "Hewlett-Packard",
       "start": null,
@@ -30,11 +35,6 @@
     },
     {
       "company": "University of Technology Sydney",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Atari, Inc.",
       "start": null,
       "end": null
     },

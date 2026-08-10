@@ -1,6 +1,6 @@
 {
   "ticker": "ADV",
-  "fetchedAt": "2026-08-03T06:59:57.197340Z",
+  "fetchedAt": "2026-08-10T05:27:06.924381Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -155,8 +155,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "business executive"
+          "business executive",
+          "lawyer"
         ],
         "education": [],
         "employers": [

@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-08-03T06:59:57.202976Z",
+  "fetchedAt": "2026-08-10T05:27:06.929504Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -108,12 +108,12 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
-          "University of Edinburgh",
-          "University of Sydney"
+          "University of Sydney",
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -391,9 +391,9 @@
         "occupations": [
           "banker",
           "surgeon",
+          "writer",
           "politician",
-          "physician",
-          "writer"
+          "physician"
         ],
         "education": [
           "McGill University"
@@ -445,8 +445,8 @@
         "birthPlace": "Quebec City",
         "image": null,
         "occupations": [
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "McGill University"
