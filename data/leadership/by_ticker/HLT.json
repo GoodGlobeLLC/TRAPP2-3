@@ -1,6 +1,6 @@
 {
   "ticker": "HLT",
-  "fetchedAt": "2026-08-10T06:25:36.969076Z",
+  "fetchedAt": "2026-08-17T05:34:00.395022Z",
   "people": [
     {
       "qid": "Q52084464",
@@ -65,9 +65,9 @@
           "actor"
         ],
         "education": [
-          "University of Mississippi",
           "Johns Hopkins University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": [
@@ -116,8 +116,8 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "engineer",
           "business executive",
+          "engineer",
           "computer scientist"
         ],
         "education": [
@@ -213,8 +213,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Calvin University",
