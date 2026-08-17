@@ -7,9 +7,9 @@
   "occupations": [
     "children's writer",
     "political scientist",
+    "journalist",
     "film producer",
     "university teacher",
-    "journalist",
     "historian",
     "businessperson",
     "entrepreneur",
@@ -40,11 +40,6 @@
       "end": null
     },
     {
-      "company": "New York University",
-      "start": "2010-01-01",
-      "end": null
-    },
-    {
       "company": "Expedia Group",
       "start": "2017-03-01",
       "end": null
@@ -52,6 +47,11 @@
     {
       "company": "Columbia University Mailman School of Public Health",
       "start": "2012-01-01",
+      "end": null
+    },
+    {
+      "company": "New York University",
+      "start": "2010-01-01",
       "end": null
     },
     {

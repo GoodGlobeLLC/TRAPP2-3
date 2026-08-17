@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-08-10T05:27:06.929504Z",
+  "fetchedAt": "2026-08-17T04:43:48.373269Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -391,9 +391,9 @@
         "occupations": [
           "banker",
           "surgeon",
-          "writer",
           "politician",
-          "physician"
+          "physician",
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -467,9 +467,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "University of Manitoba"
@@ -503,10 +503,10 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "university teacher",
           "surgeon",
-          "dean",
+          "university teacher",
           "politician",
+          "dean",
           "physician"
         ],
         "education": [
