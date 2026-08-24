@@ -1,6 +1,6 @@
 {
   "ticker": "SPCX",
-  "fetchedAt": "2026-08-17T07:03:21.048798Z",
+  "fetchedAt": "2026-08-24T07:05:59.135593Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,9 +14,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
           "dub actor",
-          "technology entrepreneur",
           "programmer",
           "financier",
           "investor",
@@ -49,6 +49,16 @@
             "end": null
           },
           {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -57,16 +67,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
           },
           {
             "company": "Tesla",
@@ -136,17 +136,17 @@
         "education": [],
         "employers": [
           {
+            "company": "SpaceX",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Mindspeed Technologies",
             "start": null,
             "end": null
           },
           {
             "company": "Broadcom",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "SpaceX",
             "start": null,
             "end": null
           }
@@ -287,8 +287,8 @@
         "birthPlace": "Evanston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
+          "businessperson",
           "military flight engineer"
         ],
         "education": [
@@ -345,9 +345,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
           "dub actor",
-          "technology entrepreneur",
           "programmer",
           "financier",
           "investor",
@@ -380,6 +380,16 @@
             "end": null
           },
           {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -388,16 +398,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
           },
           {
             "company": "Tesla",
@@ -462,9 +462,9 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "technology entrepreneur",
           "philanthropist",
           "dub actor",
-          "technology entrepreneur",
           "programmer",
           "financier",
           "investor",
@@ -497,6 +497,16 @@
             "end": null
           },
           {
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
+          {
             "company": "SolarCity",
             "start": null,
             "end": null
@@ -505,16 +515,6 @@
             "company": "OpenAI",
             "start": "2015-12-11",
             "end": "2019-01-01"
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
           },
           {
             "company": "Tesla",
