@@ -1,6 +1,6 @@
 {
   "ticker": "HLT",
-  "fetchedAt": "2026-08-17T05:34:00.395022Z",
+  "fetchedAt": "2026-08-24T05:37:41.136414Z",
   "people": [
     {
       "qid": "Q52084464",
@@ -60,14 +60,14 @@
         "occupations": [
           "diplomat",
           "military officer",
-          "businessperson",
           "politician",
+          "businessperson",
           "actor"
         ],
         "education": [
+          "University of Mississippi",
           "Johns Hopkins University",
-          "Harvard Law School",
-          "University of Mississippi"
+          "Harvard Law School"
         ],
         "employers": [],
         "positions": [
@@ -117,12 +117,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
           "business executive",
-          "engineer",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
-          "Stanford University",
-          "Wausau West High School"
+          "Wausau West High School",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -213,8 +213,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "lawyer",
-          "entrepreneur"
+          "entrepreneur",
+          "lawyer"
         ],
         "education": [
           "Calvin University",

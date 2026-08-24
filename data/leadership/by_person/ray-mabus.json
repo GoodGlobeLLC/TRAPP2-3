@@ -7,14 +7,14 @@
   "occupations": [
     "diplomat",
     "military officer",
-    "businessperson",
     "politician",
+    "businessperson",
     "actor"
   ],
   "education": [
+    "University of Mississippi",
     "Johns Hopkins University",
-    "Harvard Law School",
-    "University of Mississippi"
+    "Harvard Law School"
   ],
   "employers": [],
   "positions": [

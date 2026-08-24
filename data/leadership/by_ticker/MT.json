@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-08-17T05:34:00.400761Z",
+  "fetchedAt": "2026-08-24T05:37:41.139749Z",
   "people": [
     {
       "qid": "Q357616",
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague"
+          "Lyc\u00e9e Saint-Louis-de-Gonzague",
+          "HEC Paris"
         ],
         "employers": [
           {
@@ -165,8 +165,8 @@
         "occupations": [
           "foreign minister",
           "jurist",
-          "lawyer",
           "diplomat",
+          "lawyer",
           "politician"
         ],
         "education": [

@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-08-17T05:34:00.395453Z",
+  "fetchedAt": "2026-08-24T05:37:41.136673Z",
   "people": [
     {
       "qid": "Q51841506",
@@ -14,8 +14,8 @@
         "birthPlace": "Bah\u00eda Blanca",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Neri%2C%20Hewlett%20Packard%20Enterprise.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "National Technological University"
@@ -108,8 +108,8 @@
         ],
         "education": [
           "University of North Carolina at Chapel Hill",
-          "Stanford University",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -173,10 +173,10 @@
         "birthPlace": "Chicago",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Ozzie%2C%20Web%202.0%20Conference.jpg",
         "occupations": [
-          "programmer",
           "computer scientist",
-          "businessperson",
-          "engineer"
+          "programmer",
+          "engineer",
+          "businessperson"
         ],
         "education": [
           "Maine South High School",
@@ -204,8 +204,8 @@
         "birthPlace": "Bah\u00eda Blanca",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Neri%2C%20Hewlett%20Packard%20Enterprise.jpg",
         "occupations": [
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
           "National Technological University"
