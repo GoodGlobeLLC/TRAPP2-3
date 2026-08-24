@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-08-17T04:43:48.373269Z",
+  "fetchedAt": "2026-08-24T04:43:43.388253Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -108,8 +108,8 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "physician",
-          "journalist"
+          "journalist",
+          "physician"
         ],
         "education": [
           "University of Sydney",
@@ -233,8 +233,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "neurosurgeon",
-          "physician"
+          "physician",
+          "neurosurgeon"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -262,8 +262,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "physician",
-          "pathologist"
+          "pathologist",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -389,8 +389,8 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "banker",
           "surgeon",
+          "banker",
           "politician",
           "physician",
           "writer"
@@ -467,9 +467,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "surgeon",
           "physician",
-          "university teacher"
+          "university teacher",
+          "surgeon"
         ],
         "education": [
           "University of Manitoba"
@@ -503,10 +503,10 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "surgeon",
           "university teacher",
-          "politician",
+          "surgeon",
           "dean",
+          "politician",
           "physician"
         ],
         "education": [

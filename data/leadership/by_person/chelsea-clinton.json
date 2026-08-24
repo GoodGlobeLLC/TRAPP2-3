@@ -7,12 +7,12 @@
   "occupations": [
     "children's writer",
     "political scientist",
-    "journalist",
     "film producer",
+    "journalist",
     "university teacher",
     "historian",
-    "businessperson",
     "entrepreneur",
+    "businessperson",
     "writer"
   ],
   "education": [
@@ -50,14 +50,14 @@
       "end": null
     },
     {
-      "company": "New York University",
-      "start": "2010-01-01",
-      "end": null
-    },
-    {
       "company": "NBC",
       "start": "2011-11-01",
       "end": "2014-08-01"
+    },
+    {
+      "company": "New York University",
+      "start": "2010-01-01",
+      "end": null
     }
   ],
   "positions": [],
