@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-08-24T05:37:41.139749Z",
+  "fetchedAt": "2026-08-31T11:31:43.751153Z",
   "people": [
     {
       "qid": "Q357616",
@@ -40,9 +40,9 @@
           "businessperson"
         ],
         "education": [
+          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta",
-          "St. Xavier's College, Kolkata"
+          "University of Calcutta"
         ],
         "employers": [
           {
@@ -88,10 +88,10 @@
           "businessperson"
         ],
         "education": [
+          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
-          "Lyc\u00e9e Saint-Louis-de-Gonzague",
-          "HEC Paris"
+          "Lyc\u00e9e Saint-Louis-de-Gonzague"
         ],
         "employers": [
           {
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "association football player",
-          "politician"
+          "politician",
+          "association football player"
         ],
         "education": [
           "Free University of Brussels"
@@ -164,9 +164,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "jurist",
-          "diplomat",
           "lawyer",
+          "diplomat",
+          "jurist",
           "politician"
         ],
         "education": [
@@ -260,9 +260,9 @@
           "businessperson"
         ],
         "education": [
+          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta",
-          "St. Xavier's College, Kolkata"
+          "University of Calcutta"
         ],
         "employers": [
           {
