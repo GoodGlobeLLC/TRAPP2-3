@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-08-24T07:05:59.134711Z",
+  "fetchedAt": "2026-08-31T13:11:58.651838Z",
   "people": [
     {
       "qid": "Q137910641",
@@ -39,13 +39,12 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
         "occupations": [
-          "lawyer",
-          "financier"
+          "financier",
+          "lawyer"
         ],
         "education": [
           "University High School",
           "University of Washington Michael G. Foster School of Business",
-          "University of Washington",
           "Harvard Law School"
         ],
         "employers": [
@@ -75,8 +74,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",
@@ -106,8 +105,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Northwestern University",

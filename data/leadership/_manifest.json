@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-31T11:31:43.756431Z",
+  "generatedAt": "2026-08-31T13:11:58.668258Z",
   "totalPeople": 168,
   "totalTickers": 42,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 34,
-  "thisRunTickers": 56,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 46,
+  "thisRunTickers": 109,
   "index": [
     {
       "qid": "Q370191",
@@ -1682,7 +1682,7 @@
         "SPCX"
       ],
       "positionsCount": 0,
-      "employersCount": 2
+      "employersCount": 4
     },
     {
       "qid": "Q6702205",

@@ -1,6 +1,6 @@
 {
   "ticker": "SPCX",
-  "fetchedAt": "2026-08-24T07:05:59.135593Z",
+  "fetchedAt": "2026-08-31T13:11:58.654123Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,49 +14,39 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "dub actor",
           "programmer",
           "financier",
           "investor",
+          "technology entrepreneur",
           "civil servant",
-          "inventor",
+          "philanthropist",
+          "dub actor",
           "entrepreneur",
+          "inventor",
           "engineer",
           "politician"
         ],
         "education": [
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
             "start": "1998-12-01",
             "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SolarCity",
@@ -69,13 +59,23 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           }
         ],
@@ -199,9 +199,9 @@
           "venture capitalist"
         ],
         "education": [
+          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business",
-          "University of California, Los Angeles"
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": [
@@ -232,7 +232,9 @@
         "birthPlace": "Arizona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
         "occupations": [
-          "businessperson"
+          "businessperson",
+          "philanthropist",
+          "business executive"
         ],
         "education": [
           "St. Mark's School of Texas",
@@ -240,6 +242,16 @@
           "Stanford University"
         ],
         "employers": [
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Draper Fisher Jurvetson",
             "start": null,
@@ -287,8 +299,8 @@
         "birthPlace": "Evanston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
         "occupations": [
-          "entrepreneur",
           "businessperson",
+          "entrepreneur",
           "military flight engineer"
         ],
         "education": [
@@ -345,49 +357,39 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "dub actor",
           "programmer",
           "financier",
           "investor",
+          "technology entrepreneur",
           "civil servant",
-          "inventor",
+          "philanthropist",
+          "dub actor",
           "entrepreneur",
+          "inventor",
           "engineer",
           "politician"
         ],
         "education": [
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
             "start": "1998-12-01",
             "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SolarCity",
@@ -400,13 +402,23 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           }
         ],
@@ -462,49 +474,39 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "technology entrepreneur",
-          "philanthropist",
-          "dub actor",
           "programmer",
           "financier",
           "investor",
+          "technology entrepreneur",
           "civil servant",
-          "inventor",
+          "philanthropist",
+          "dub actor",
           "entrepreneur",
+          "inventor",
           "engineer",
           "politician"
         ],
         "education": [
+          "University of Pretoria",
+          "Queen's University",
+          "The Wharton School",
+          "University of Pennsylvania",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Queen's University",
-          "The Wharton School",
-          "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
-            "end": null
-          },
-          {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "PayPal",
             "start": "1998-12-01",
             "end": null
-          },
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
           },
           {
             "company": "SolarCity",
@@ -517,13 +519,23 @@
             "end": "2019-01-01"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
             "end": null
           },
           {
             "company": "SpaceX",
             "start": "2002-06-01",
+            "end": null
+          },
+          {
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           }
         ],

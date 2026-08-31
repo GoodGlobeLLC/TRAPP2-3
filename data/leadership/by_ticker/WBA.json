@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-08-24T07:05:59.137201Z",
+  "fetchedAt": "2026-08-31T13:11:58.657641Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,8 +14,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "businessperson"
         ],
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -226,16 +226,16 @@
         "birthPlace": "Detroit",
         "image": null,
         "occupations": [
-          "businessperson",
-          "chemist"
+          "chemist",
+          "businessperson"
         ],
         "education": [
+          "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
-          "University of Chicago",
-          "Stanford Law School",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "University of Chicago"
         ],
         "employers": [
           {
@@ -290,9 +290,9 @@
           "economist"
         ],
         "education": [
+          "University of Pennsylvania",
           "The Wharton School",
           "West Virginia University",
-          "University of Pennsylvania",
           "West Virginia University School of Medicine"
         ],
         "employers": [],
@@ -318,8 +318,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "entrepreneur",
           "chief executive officer",
+          "entrepreneur",
           "engineer",
           "businessperson"
         ],
@@ -383,8 +383,8 @@
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
           "University of Michigan Law School",
-          "University of Michigan",
-          "Stanford University"
+          "Stanford University",
+          "University of Michigan"
         ],
         "employers": [],
         "positions": [
