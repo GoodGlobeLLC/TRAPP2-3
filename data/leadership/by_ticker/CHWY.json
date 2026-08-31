@@ -1,6 +1,6 @@
 {
   "ticker": "CHWY",
-  "fetchedAt": "2026-08-24T04:43:43.388095Z",
+  "fetchedAt": "2026-08-31T10:38:33.099350Z",
   "people": [
     {
       "qid": "Q99691919",
@@ -43,8 +43,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Cohen%202019.jpg",
         "occupations": [
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [],
         "employers": [
