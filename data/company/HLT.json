@@ -1,7 +1,7 @@
 {
   "ticker": "HLT",
   "qid": "Q1057464",
-  "fetchedAt": "2026-08-01T05:36:50.150101Z",
+  "fetchedAt": "2026-09-01T07:44:34.049533Z",
   "source": "wikidata",
   "name": "Hilton Worldwide",
   "description": "American multinational hospitality company",
@@ -54,13 +54,13 @@
   ],
   "products": [
     {
-      "name": "franchising"
+      "name": "hotel"
     },
     {
       "name": "resort"
     },
     {
-      "name": "hotel"
+      "name": "franchising"
     }
   ],
   "countries": [

@@ -1,7 +1,7 @@
 {
   "ticker": "ALLY",
   "qid": "Q2032800",
-  "fetchedAt": "2026-08-01T05:25:11.565759Z",
+  "fetchedAt": "2026-09-01T07:14:54.006217Z",
   "source": "wikidata",
   "name": "Ally Financial",
   "description": "American financial services company",
@@ -10,7 +10,7 @@
   "inception": "1919-01-01",
   "employees": null,
   "industry": "Consumer Lending",
-  "headquarters": "New York City",
+  "headquarters": "Detroit",
   "executives": [],
   "board": [],
   "founders": [],

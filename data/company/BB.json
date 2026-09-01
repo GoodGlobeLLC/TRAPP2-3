@@ -1,7 +1,7 @@
 {
   "ticker": "BB",
   "qid": "Q502121",
-  "fetchedAt": "2026-08-01T05:27:11.192177Z",
+  "fetchedAt": "2026-09-01T07:18:24.362216Z",
   "source": "wikidata",
   "name": "BlackBerry",
   "description": "enterprise software and the Internet of things company",
@@ -25,13 +25,13 @@
   ],
   "products": [
     {
-      "name": "telecommunications device"
+      "name": "mobile phone"
     },
     {
       "name": "software"
     },
     {
-      "name": "mobile phone"
+      "name": "telecommunications device"
     }
   ],
   "countries": []

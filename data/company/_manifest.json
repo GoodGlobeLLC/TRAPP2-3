@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-01T06:00:27.568662Z",
+  "generatedAt": "2026-09-01T07:53:15.386182Z",
   "source": "wikidata",
   "tickers": {
     "AXL": {
       "ok": true,
       "msg": "QID=Q6142858, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:26:32.381463Z"
+      "fetchedAt": "2026-09-01T07:17:20.553855Z"
     },
     "CTLT": {
       "ok": true,
       "msg": "QID=Q19866242, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:30:41.153859Z"
+      "fetchedAt": "2026-09-01T07:26:51.024666Z"
     },
     "WBA": {
       "ok": true,
@@ -20,17 +20,17 @@
     "CNHI": {
       "ok": true,
       "msg": "QID=Q5154827, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:29:57.653381Z"
+      "fetchedAt": "2026-09-01T07:25:11.098888Z"
     },
     "K": {
       "ok": true,
       "msg": "QID=Q546880, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:39:26.568842Z"
+      "fetchedAt": "2026-09-01T07:49:03.504555Z"
     },
     "HAYN": {
       "ok": true,
       "msg": "QID=Q1591976, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:36:14.019613Z"
+      "fetchedAt": "2026-09-01T07:43:16.059255Z"
     },
     "SQ": {
       "ok": true,
@@ -40,12 +40,12 @@
     "JNPR": {
       "ok": true,
       "msg": "QID=Q1049080, 1 execs, 0 board, 5 products",
-      "fetchedAt": "2026-08-01T05:39:11.598392Z"
+      "fetchedAt": "2026-09-01T07:48:38.809842Z"
     },
     "CFLT": {
       "ok": true,
       "msg": "QID=Q94758727, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:28:59.996259Z"
+      "fetchedAt": "2026-09-01T07:23:37.153706Z"
     },
     "PARA": {
       "ok": true,
@@ -60,12 +60,12 @@
     "IPG": {
       "ok": true,
       "msg": "QID=Q6017055, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:38:14.281466Z"
+      "fetchedAt": "2026-09-01T07:47:01.862939Z"
     },
     "CYBR": {
       "ok": true,
       "msg": "QID=Q138757247, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:30:48.539856Z"
+      "fetchedAt": "2026-09-01T07:26:59.608315Z"
     },
     "SPLK": {
       "ok": true,
@@ -80,7 +80,7 @@
     "KNBE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:39:45.736221Z"
+      "fetchedAt": "2026-09-01T07:49:27.442371Z"
     },
     "RIO": {
       "ok": true,
@@ -95,7 +95,7 @@
     "CLF": {
       "ok": true,
       "msg": "QID=Q108940005, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:29:43.216357Z"
+      "fetchedAt": "2026-09-01T07:24:51.715660Z"
     },
     "X": {
       "ok": true,
@@ -120,17 +120,17 @@
     "GOLD": {
       "ok": true,
       "msg": "QID=Q808908, 0 execs, 0 board, 2 products",
-      "fetchedAt": "2026-08-01T05:35:04.561782Z"
+      "fetchedAt": "2026-09-01T07:38:09.006938Z"
     },
     "AEM": {
       "ok": true,
       "msg": "QID=Q38676, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:24:33.563270Z"
+      "fetchedAt": "2026-09-01T07:11:40.780254Z"
     },
     "FNV": {
       "ok": true,
       "msg": "QID=Q5484477, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:33:15.663048Z"
+      "fetchedAt": "2026-09-01T07:30:50.930988Z"
     },
     "WPM": {
       "ok": false,
@@ -140,7 +140,7 @@
     "KGC": {
       "ok": true,
       "msg": "QID=Q546880, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:39:41.960355Z"
+      "fetchedAt": "2026-09-01T07:49:24.056602Z"
     },
     "RGLD": {
       "ok": true,
@@ -150,7 +150,7 @@
     "IAU": {
       "ok": true,
       "msg": "QID=Q2303765, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:37:27.603107Z"
+      "fetchedAt": "2026-09-01T07:45:35.310539Z"
     },
     "SIVR": {
       "ok": false,
@@ -160,17 +160,17 @@
     "EQT": {
       "ok": true,
       "msg": "QID=Q1275733, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:32:10.389034Z"
+      "fetchedAt": "2026-09-01T07:28:55.724547Z"
     },
     "EXE": {
       "ok": true,
       "msg": "QID=Q2962826, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:32:28.258535Z"
+      "fetchedAt": "2026-09-01T07:29:20.813761Z"
     },
     "AR": {
       "ok": true,
       "msg": "QID=Q39046155, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:26:09.537312Z"
+      "fetchedAt": "2026-09-01T07:16:31.416944Z"
     },
     "RGC": {
       "ok": true,
@@ -185,12 +185,12 @@
     "ET": {
       "ok": true,
       "msg": "QID=Q245233, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:32:15.930674Z"
+      "fetchedAt": "2026-09-01T07:29:02.736400Z"
     },
     "EXPE": {
       "ok": true,
       "msg": "QID=Q8085893, 2 execs, 1 board, 0 products",
-      "fetchedAt": "2026-08-01T05:32:31.764816Z"
+      "fetchedAt": "2026-09-01T07:29:25.681986Z"
     },
     "RYAAY": {
       "ok": true,
@@ -205,7 +205,7 @@
     "HLT": {
       "ok": true,
       "msg": "QID=Q1057464, 2 execs, 6 board, 3 products",
-      "fetchedAt": "2026-08-01T05:36:50.150617Z"
+      "fetchedAt": "2026-09-01T07:44:34.050180Z"
     },
     "ZIM": {
       "ok": true,
@@ -220,7 +220,7 @@
     "GSL": {
       "ok": true,
       "msg": "QID=Q117392567, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:35:50.306350Z"
+      "fetchedAt": "2026-09-01T07:42:15.982938Z"
     },
     "SBLK": {
       "ok": false,
@@ -230,12 +230,12 @@
     "GNK": {
       "ok": true,
       "msg": "QID=Q5564162, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:34:35.337749Z"
+      "fetchedAt": "2026-09-01T07:36:43.515240Z"
     },
     "FRO": {
       "ok": true,
       "msg": "QID=Q529157, 1 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:33:52.595002Z"
+      "fetchedAt": "2026-09-01T07:32:17.490226Z"
     },
     "STNG": {
       "ok": false,
@@ -245,7 +245,7 @@
     "ADDYY": {
       "ok": true,
       "msg": "QID=Q3895, 1 execs, 0 board, 4 products",
-      "fetchedAt": "2026-08-01T05:23:57.539213Z"
+      "fetchedAt": "2026-09-01T07:10:41.657216Z"
     },
     "VFC": {
       "ok": true,
@@ -260,7 +260,7 @@
     "GPS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:35:30.942086Z"
+      "fetchedAt": "2026-09-01T07:41:43.319416Z"
     },
     "NC.PA": {
       "ok": false,
@@ -275,12 +275,12 @@
     "CFR.SW": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:29:02.537601Z"
+      "fetchedAt": "2026-09-01T07:23:39.723897Z"
     },
     "KER.PA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:39:29.393360Z"
+      "fetchedAt": "2026-09-01T07:49:06.037817Z"
     },
     "PRX.AS": {
       "ok": false,
@@ -290,7 +290,7 @@
     "CPRI": {
       "ok": true,
       "msg": "QID=Q96100167, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:30:13.269422Z"
+      "fetchedAt": "2026-09-01T07:25:40.710413Z"
     },
     "XYL": {
       "ok": true,
@@ -305,7 +305,7 @@
     "AWK": {
       "ok": true,
       "msg": "QID=Q467238, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:26:25.246219Z"
+      "fetchedAt": "2026-09-01T07:16:57.726452Z"
     },
     "WTRG": {
       "ok": true,
@@ -350,7 +350,7 @@
     "L3HRS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:40:19.993865Z"
+      "fetchedAt": "2026-09-01T07:50:10.032279Z"
     },
     "2317.TW": {
       "ok": false,
@@ -380,7 +380,7 @@
     "BLNK": {
       "ok": true,
       "msg": "QID=Q62065645, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:27:45.185989Z"
+      "fetchedAt": "2026-09-01T07:19:29.570864Z"
     },
     "4063.T": {
       "ok": false,
@@ -393,434 +393,434 @@
       "fetchedAt": "2026-08-01T05:54:51.800095Z"
     },
     "AAP": {
-      "ok": true,
-      "msg": "QID=Q312, 2 execs, 6 board, 20 products",
-      "fetchedAt": "2026-08-01T05:23:15.356186Z"
+      "ok": false,
+      "msg": "empty facts for QID Q312",
+      "fetchedAt": "2026-09-01T07:09:36.130393Z"
     },
     "ABCB": {
       "ok": true,
       "msg": "QID=Q27150140, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:23:28.413045Z"
+      "fetchedAt": "2026-09-01T07:09:54.883719Z"
     },
     "ABR": {
       "ok": true,
       "msg": "QID=Q109626902, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:23:41.547469Z"
+      "fetchedAt": "2026-09-01T07:10:15.561893Z"
     },
     "ACIC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:23:54.314805Z"
+      "fetchedAt": "2026-09-01T07:10:37.584002Z"
     },
     "ADT": {
       "ok": true,
       "msg": "QID=Q290680, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:24:10.457242Z"
+      "fetchedAt": "2026-09-01T07:11:03.622724Z"
     },
     "ADV": {
       "ok": true,
       "msg": "QID=Q128896, 1 execs, 9 board, 6 products",
-      "fetchedAt": "2026-08-01T05:24:20.901928Z"
+      "fetchedAt": "2026-09-01T07:11:21.656346Z"
     },
     "AGL": {
       "ok": true,
       "msg": "QID=Q292374, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:24:46.371880Z"
+      "fetchedAt": "2026-09-01T07:12:08.723076Z"
     },
     "AGO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:24:58.095829Z"
+      "fetchedAt": "2026-09-01T07:12:37.105325Z"
     },
     "ALLY": {
       "ok": true,
       "msg": "QID=Q2032800, 0 execs, 0 board, 4 products",
-      "fetchedAt": "2026-08-01T05:25:11.566262Z"
+      "fetchedAt": "2026-09-01T07:14:54.006818Z"
     },
     "ALT": {
       "ok": true,
       "msg": "QID=Q12720501, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:25:23.824381Z"
+      "fetchedAt": "2026-09-01T07:15:09.911991Z"
     },
     "ALXO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:25:33.311095Z"
+      "fetchedAt": "2026-09-01T07:15:25.187824Z"
     },
     "ANF": {
       "ok": true,
       "msg": "QID=Q319344, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:25:45.704422Z"
+      "fetchedAt": "2026-09-01T07:15:42.177563Z"
     },
     "AON": {
       "ok": true,
       "msg": "QID=Q1359479, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:25:56.626217Z"
+      "fetchedAt": "2026-09-01T07:16:00.767311Z"
     },
     "ASTS": {
       "ok": true,
       "msg": "QID=Q112659289, 0 execs, 0 board, 2 products",
-      "fetchedAt": "2026-08-01T05:26:13.048548Z"
+      "fetchedAt": "2026-09-01T07:16:36.456393Z"
     },
     "B": {
       "ok": true,
       "msg": "QID=Q2926166, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:26:44.864655Z"
+      "fetchedAt": "2026-09-01T07:17:39.304502Z"
     },
     "BABO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:26:56.156231Z"
+      "fetchedAt": "2026-09-01T07:18:00.593668Z"
     },
     "BATRK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:26:58.628711Z"
+      "fetchedAt": "2026-09-01T07:18:04.289351Z"
     },
     "BB": {
       "ok": true,
       "msg": "QID=Q502121, 1 execs, 0 board, 3 products",
-      "fetchedAt": "2026-08-01T05:27:11.192660Z"
+      "fetchedAt": "2026-09-01T07:18:24.362752Z"
     },
     "BCAB": {
       "ok": true,
       "msg": "QID=Q104480051, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:27:16.749607Z"
+      "fetchedAt": "2026-09-01T07:18:34.965829Z"
     },
     "BIDU": {
       "ok": true,
       "msg": "QID=Q14772, 0 execs, 0 board, 2 products",
-      "fetchedAt": "2026-08-01T05:27:20.262516Z"
+      "fetchedAt": "2026-09-01T07:18:40.587055Z"
     },
     "BIRK": {
       "ok": true,
       "msg": "QID=Q648458, 2 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:27:32.930914Z"
+      "fetchedAt": "2026-09-01T07:19:05.920066Z"
     },
     "BMEA": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:27:50.872928Z"
+      "fetchedAt": "2026-09-01T07:19:41.037762Z"
     },
     "BOOM": {
       "ok": true,
       "msg": "QID=Q4943376, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:28:02.079975Z"
+      "fetchedAt": "2026-09-01T07:20:01.800721Z"
     },
     "BRKR": {
       "ok": true,
       "msg": "QID=Q431454, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:28:05.161197Z"
+      "fetchedAt": "2026-09-01T07:20:07.608500Z"
     },
     "BTDR": {
       "ok": true,
       "msg": "QID=Q133042901, 1 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:28:09.620548Z"
+      "fetchedAt": "2026-09-01T07:20:15.499719Z"
     },
     "BYND": {
       "ok": true,
       "msg": "QID=Q4854535, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:28:20.876503Z"
+      "fetchedAt": "2026-09-01T07:22:36.735769Z"
     },
     "CCJ": {
       "ok": true,
       "msg": "QID=Q1028449, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:28:33.880901Z"
+      "fetchedAt": "2026-09-01T07:22:54.886698Z"
     },
     "CCU": {
       "ok": true,
       "msg": "QID=Q2990393, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:28:42.990966Z"
+      "fetchedAt": "2026-09-01T07:23:07.949584Z"
     },
     "CENN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:28:55.462927Z"
+      "fetchedAt": "2026-09-01T07:23:26.019226Z"
     },
     "CGBS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:29:05.109189Z"
+      "fetchedAt": "2026-09-01T07:23:41.974137Z"
     },
     "CHRS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:29:17.315433Z"
+      "fetchedAt": "2026-09-01T07:24:11.654522Z"
     },
     "CHSN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:29:23.800632Z"
+      "fetchedAt": "2026-09-01T07:24:19.420076Z"
     },
     "CHWY": {
       "ok": true,
       "msg": "QID=Q28130158, 1 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:29:36.664670Z"
+      "fetchedAt": "2026-09-01T07:24:42.535043Z"
     },
     "CMA": {
       "ok": true,
       "msg": "QID=Q2867874, 19 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:29:47.855846Z"
+      "fetchedAt": "2026-09-01T07:24:58.516257Z"
     },
     "CMPO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:29:54.205716Z"
+      "fetchedAt": "2026-09-01T07:25:07.647973Z"
     },
     "COHN": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:30:09.570199Z"
+      "fetchedAt": "2026-09-01T07:25:36.019381Z"
     },
     "CRK": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:30:25.063764Z"
+      "fetchedAt": "2026-09-01T07:26:06.511198Z"
     },
     "CRVO": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:30:38.005935Z"
+      "fetchedAt": "2026-09-01T07:26:47.673427Z"
     },
     "DB": {
       "ok": true,
       "msg": "QID=Q9322, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:30:56.208331Z"
+      "fetchedAt": "2026-09-01T07:27:08.901410Z"
     },
     "DEO": {
       "ok": true,
       "msg": "QID=Q161140, 2 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:31:08.729287Z"
+      "fetchedAt": "2026-09-01T07:27:24.510221Z"
     },
     "DLTR": {
       "ok": true,
       "msg": "QID=Q5289230, 1 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:31:13.379350Z"
+      "fetchedAt": "2026-09-01T07:27:28.901365Z"
     },
     "DNTH": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:31:15.929346Z"
+      "fetchedAt": "2026-09-01T07:27:31.147450Z"
     },
     "DOM": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:31:28.017269Z"
+      "fetchedAt": "2026-09-01T07:27:44.500980Z"
     },
     "DRUG": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:31:39.066600Z"
+      "fetchedAt": "2026-09-01T07:28:12.360953Z"
     },
     "DVA": {
       "ok": true,
       "msg": "QID=Q1204376, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:31:44.786517Z"
+      "fetchedAt": "2026-09-01T07:28:19.020318Z"
     },
     "EADSY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:31:47.248968Z"
+      "fetchedAt": "2026-09-01T07:28:21.580364Z"
     },
     "ECVT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:31:52.007255Z"
+      "fetchedAt": "2026-09-01T07:28:27.220012Z"
     },
     "ENVX": {
       "ok": true,
       "msg": "QID=Q124624329, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:31:55.188055Z"
+      "fetchedAt": "2026-09-01T07:28:31.314672Z"
     },
     "EOSE": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:32:06.881367Z"
+      "fetchedAt": "2026-09-01T07:28:48.709233Z"
     },
     "FAMI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:32:43.960709Z"
+      "fetchedAt": "2026-09-01T07:29:42.736580Z"
     },
     "FMCC": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:32:47.707409Z"
+      "fetchedAt": "2026-09-01T07:29:47.654231Z"
     },
     "FND": {
       "ok": true,
       "msg": "QID=Q56280964, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:32:59.739654Z"
+      "fetchedAt": "2026-09-01T07:30:05.367728Z"
     },
     "FNMA": {
       "ok": true,
       "msg": "QID=Q621096, 1 execs, 13 board, 1 products",
-      "fetchedAt": "2026-08-01T05:33:03.182479Z"
+      "fetchedAt": "2026-09-01T07:30:10.328824Z"
     },
     "FOSL": {
       "ok": true,
       "msg": "QID=Q356212, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:33:28.108451Z"
+      "fetchedAt": "2026-09-01T07:31:12.192935Z"
     },
     "FOUR": {
       "ok": true,
       "msg": "QID=Q1424786, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:33:39.649383Z"
+      "fetchedAt": "2026-09-01T07:31:44.540012Z"
     },
     "FTDR": {
       "ok": true,
       "msg": "QID=Q111387671, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:33:57.324658Z"
+      "fetchedAt": "2026-09-01T07:32:23.421519Z"
     },
     "FTEL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:34:09.367462Z"
+      "fetchedAt": "2026-09-01T07:32:40.950840Z"
     },
     "FXI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:34:22.469386Z"
+      "fetchedAt": "2026-09-01T07:33:09.905266Z"
     },
     "GOGO": {
       "ok": true,
       "msg": "QID=Q27065, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:34:47.779657Z"
+      "fetchedAt": "2026-09-01T07:37:41.136042Z"
     },
     "GOOS": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:35:17.778973Z"
+      "fetchedAt": "2026-09-01T07:38:40.221111Z"
     },
     "GRNY": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:35:33.477935Z"
+      "fetchedAt": "2026-09-01T07:41:49.240113Z"
     },
     "GRPN": {
       "ok": true,
       "msg": "QID=Q852787, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:35:36.674665Z"
+      "fetchedAt": "2026-09-01T07:41:53.013203Z"
     },
     "HAIN": {
       "ok": true,
       "msg": "QID=Q292428, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:36:01.696433Z"
+      "fetchedAt": "2026-09-01T07:42:31.778060Z"
     },
     "HEIA": {
       "ok": true,
       "msg": "QID=Q180855, 2 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:36:27.467689Z"
+      "fetchedAt": "2026-09-01T07:43:36.863125Z"
     },
     "HIMS": {
       "ok": true,
       "msg": "QID=Q64363662, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:36:37.434365Z"
+      "fetchedAt": "2026-09-01T07:43:52.833666Z"
     },
     "HP": {
       "ok": true,
       "msg": "QID=Q19923099, 1 execs, 8 board, 6 products",
-      "fetchedAt": "2026-08-01T05:36:54.907033Z"
+      "fetchedAt": "2026-09-01T07:44:43.209770Z"
     },
     "HPP": {
       "ok": true,
       "msg": "QID=Q55614037, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:37:07.717650Z"
+      "fetchedAt": "2026-09-01T07:45:03.538323Z"
     },
     "HTZ": {
       "ok": true,
       "msg": "QID=Q95205133, 1 execs, 2 board, 0 products",
-      "fetchedAt": "2026-08-01T05:37:21.986921Z"
+      "fetchedAt": "2026-09-01T07:45:22.320977Z"
     },
     "IBIT": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:37:40.879175Z"
+      "fetchedAt": "2026-09-01T07:45:55.366870Z"
     },
     "IBRX": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:37:47.460332Z"
+      "fetchedAt": "2026-09-01T07:46:04.753658Z"
     },
     "IDT": {
       "ok": true,
       "msg": "QID=Q2796478, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:37:52.330275Z"
+      "fetchedAt": "2026-09-01T07:46:23.724747Z"
     },
     "IEP": {
       "ok": true,
       "msg": "QID=Q859363, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:37:57.074594Z"
+      "fetchedAt": "2026-09-01T07:46:34.442111Z"
     },
     "INDO": {
       "ok": true,
       "msg": "QID=Q96100320, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:38:07.812880Z"
+      "fetchedAt": "2026-09-01T07:46:53.439073Z"
     },
     "IVV": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:38:25.997498Z"
+      "fetchedAt": "2026-09-01T07:47:27.045331Z"
     },
     "JACK": {
       "ok": true,
       "msg": "QID=Q1538507, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:38:39.975143Z"
+      "fetchedAt": "2026-09-01T07:47:51.810146Z"
     },
     "JBLU": {
       "ok": true,
       "msg": "QID=Q161086, 1 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:38:44.339864Z"
+      "fetchedAt": "2026-09-01T07:47:57.947006Z"
     },
     "JD": {
       "ok": true,
       "msg": "QID=Q3598926, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:38:50.761010Z"
+      "fetchedAt": "2026-09-01T07:48:08.900811Z"
     },
     "JEF": {
       "ok": true,
       "msg": "QID=Q325789, 1 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:39:03.542858Z"
+      "fetchedAt": "2026-09-01T07:48:26.187972Z"
     },
     "JFBR": {
       "ok": true,
       "msg": "QID=Q124445202, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:39:06.466545Z"
+      "fetchedAt": "2026-09-01T07:48:29.269868Z"
     },
     "JTAI": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:39:14.148301Z"
+      "fetchedAt": "2026-09-01T07:48:41.244327Z"
     },
     "KNSL": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:39:57.668469Z"
+      "fetchedAt": "2026-09-01T07:49:44.162555Z"
     },
     "KOSS": {
       "ok": true,
       "msg": "QID=Q1672602, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:40:10.932332Z"
+      "fetchedAt": "2026-09-01T07:50:01.996833Z"
     },
     "KSS": {
       "ok": true,
       "msg": "QID=Q3544337, 0 execs, 0 board, 1 products",
-      "fetchedAt": "2026-08-01T05:40:17.449950Z"
+      "fetchedAt": "2026-09-01T07:50:07.494893Z"
     },
     "LAC": {
       "ok": true,
       "msg": "QID=Q6647933, 0 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:40:33.023586Z"
+      "fetchedAt": "2026-09-01T07:50:34.616003Z"
     },
     "LAES": {
       "ok": false,
       "msg": "no Wikidata QID found",
-      "fetchedAt": "2026-08-01T05:40:45.270558Z"
+      "fetchedAt": "2026-09-01T07:52:57.574744Z"
     },
     "LAZR": {
       "ok": true,
       "msg": "QID=Q106240666, 1 execs, 0 board, 0 products",
-      "fetchedAt": "2026-08-01T05:40:58.697443Z"
+      "fetchedAt": "2026-09-01T07:53:13.885891Z"
     },
     "LDTC": {
       "ok": false,

@@ -1,7 +1,7 @@
 {
   "ticker": "HP",
   "qid": "Q19923099",
-  "fetchedAt": "2026-08-01T05:36:54.906535Z",
+  "fetchedAt": "2026-09-01T07:44:43.209226Z",
   "source": "wikidata",
   "name": "Hewlett Packard Enterprise",
   "description": "American information technology company",
@@ -61,16 +61,16 @@
       "name": "network-attached storage"
     },
     {
-      "name": "cloud computing"
-    },
-    {
-      "name": "storage area network"
-    },
-    {
       "name": "server computer"
     },
     {
       "name": "networking hardware"
+    },
+    {
+      "name": "cloud computing"
+    },
+    {
+      "name": "storage area network"
     },
     {
       "name": "supercomputer"

@@ -1,7 +1,7 @@
 {
   "ticker": "ADV",
   "qid": "Q128896",
-  "fetchedAt": "2026-08-01T05:24:20.901482Z",
+  "fetchedAt": "2026-09-01T07:11:21.655893Z",
   "source": "wikidata",
   "name": "AMD",
   "description": "American multinational semiconductor company",
@@ -10,7 +10,7 @@
   "inception": "1969-05-01",
   "employees": 15500,
   "industry": "semiconductor industry",
-  "headquarters": "Sunnyvale",
+  "headquarters": "Santa Clara",
   "executives": [
     {
       "name": "Lisa Su",

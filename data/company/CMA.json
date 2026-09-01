@@ -1,7 +1,7 @@
 {
   "ticker": "CMA",
   "qid": "Q2867874",
-  "fetchedAt": "2026-08-01T05:29:47.855504Z",
+  "fetchedAt": "2026-09-01T07:24:58.515860Z",
   "source": "wikidata",
   "name": "Canadian Medical Association",
   "description": "association of doctors in Canada",
@@ -45,6 +45,22 @@
       "role": "Chairperson"
     },
     {
+      "name": "Thomas George Roddick",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Charles Tupper",
+      "role": "Chairperson"
+    },
+    {
+      "name": "George Edgeworth Fenwick",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Gigi Osler",
+      "role": "Chairperson"
+    },
+    {
       "name": "Gustave Gingras",
       "role": "Chairperson"
     },
@@ -66,22 +82,6 @@
     },
     {
       "name": "William Hales Hingston",
-      "role": "Chairperson"
-    },
-    {
-      "name": "George Edgeworth Fenwick",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Gigi Osler",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Thomas George Roddick",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Charles Tupper",
       "role": "Chairperson"
     },
     {
