@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-08-31T13:11:58.657641Z",
+  "fetchedAt": "2026-09-07T11:59:30.098222Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,10 +14,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur",
           "engineer",
-          "businessperson"
+          "entrepreneur",
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stony Brook University",
-          "Stanford University"
+          "Stanford University",
+          "Stony Brook University"
         ],
         "employers": [],
         "positions": []
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Cornell University",
-          "Duke University"
+          "Duke University",
+          "Cornell University"
         ],
         "employers": [],
         "positions": []
@@ -230,12 +230,12 @@
           "businessperson"
         ],
         "education": [
-          "Stanford Law School",
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
+          "University of Chicago",
           "University of Pennsylvania",
-          "University of Chicago"
+          "Stanford Law School"
         ],
         "employers": [
           {
@@ -318,10 +318,10 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "chief executive officer",
-          "entrepreneur",
           "engineer",
-          "businessperson"
+          "entrepreneur",
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "Polytechnic University of Milan"
