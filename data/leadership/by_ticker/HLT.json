@@ -1,6 +1,6 @@
 {
   "ticker": "HLT",
-  "fetchedAt": "2026-08-31T11:31:43.744900Z",
+  "fetchedAt": "2026-09-07T09:58:01.234659Z",
   "people": [
     {
       "qid": "Q52084464",
@@ -60,9 +60,9 @@
         "occupations": [
           "diplomat",
           "military officer",
-          "actor",
           "politician",
-          "businessperson"
+          "businessperson",
+          "actor"
         ],
         "education": [
           "University of Mississippi",

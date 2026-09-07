@@ -1,6 +1,6 @@
 {
   "ticker": "HTZ",
-  "fetchedAt": "2026-08-31T11:31:43.745737Z",
+  "fetchedAt": "2026-09-07T09:58:01.235629Z",
   "people": [
     {
       "qid": "Q6377142",
@@ -41,8 +41,8 @@
           "business executive"
         ],
         "education": [
-          "University of Chicago",
           "Columbia University",
+          "University of Chicago",
           "Booth School of Business"
         ],
         "employers": [],

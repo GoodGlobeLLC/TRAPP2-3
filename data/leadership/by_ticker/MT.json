@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-08-31T11:31:43.751153Z",
+  "fetchedAt": "2026-09-07T09:58:01.242007Z",
   "people": [
     {
       "qid": "Q357616",
@@ -36,13 +36,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
@@ -88,9 +88,9 @@
           "businessperson"
         ],
         "education": [
-          "HEC Paris",
           "Lyc\u00e9e Louis-le-Grand",
           "\u00c9cole nationale d'administration",
+          "HEC Paris",
           "Lyc\u00e9e Saint-Louis-de-Gonzague"
         ],
         "employers": [
@@ -128,8 +128,8 @@
         "birthPlace": "Luxembourg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jeannot%20Kreck%C3%A9%20%28cropped%29.jpg",
         "occupations": [
-          "politician",
-          "association football player"
+          "association football player",
+          "politician"
         ],
         "education": [
           "Free University of Brussels"
@@ -164,9 +164,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "lawyer",
-          "diplomat",
           "jurist",
+          "diplomat",
+          "lawyer",
           "politician"
         ],
         "education": [
@@ -256,13 +256,13 @@
         "birthPlace": "Rajgarh",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lakshmi%20Mittal%20LM.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "St. Xavier's College, Kolkata",
           "Indian Institute of Social Welfare and Business Management",
-          "University of Calcutta"
+          "University of Calcutta",
+          "St. Xavier's College, Kolkata"
         ],
         "employers": [
           {
