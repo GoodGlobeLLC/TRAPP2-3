@@ -5,12 +5,12 @@
   "birthPlace": "Mobile",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
   "occupations": [
+    "businessperson",
     "presenter",
-    "engineer",
     "manager",
-    "computer scientist",
     "chief executive officer",
-    "businessperson"
+    "engineer",
+    "computer scientist"
   ],
   "education": [
     "Rostrevor College",
@@ -36,7 +36,7 @@
       "title": "chief executive officer",
       "company": null,
       "start": "2011-08-24",
-      "end": "2026-09-01"
+      "end": "2026-08-31"
     }
   ],
   "currentTickers": [

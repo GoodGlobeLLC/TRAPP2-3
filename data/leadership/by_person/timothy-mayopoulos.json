@@ -5,24 +5,14 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "entrepreneur",
-    "lawyer"
+    "lawyer",
+    "entrepreneur"
   ],
   "education": [
     "Cornell University",
     "New York University School of Law"
   ],
   "employers": [
-    {
-      "company": "Credit Suisse",
-      "start": "2000-01-01",
-      "end": "2001-01-01"
-    },
-    {
-      "company": "Deutsche Bank",
-      "start": "2002-01-01",
-      "end": "2004-01-01"
-    },
     {
       "company": "Bank of America",
       "start": "2004-01-01",
@@ -52,6 +42,16 @@
       "company": "Donaldson, Lufkin & Jenrette",
       "start": "1996-01-01",
       "end": "2000-01-01"
+    },
+    {
+      "company": "Credit Suisse",
+      "start": "2000-01-01",
+      "end": "2001-01-01"
+    },
+    {
+      "company": "Deutsche Bank",
+      "start": "2002-01-01",
+      "end": "2004-01-01"
     }
   ],
   "positions": [
@@ -80,10 +80,10 @@
       "end": null
     },
     {
-      "title": "general counsel",
+      "title": "member of the board of trustees",
       "company": null,
-      "start": "2009-01-01",
-      "end": "2010-01-01"
+      "start": null,
+      "end": null
     },
     {
       "title": "chief executive officer",
@@ -104,10 +104,10 @@
       "end": "2010-01-01"
     },
     {
-      "title": "member of the board of trustees",
+      "title": "general counsel",
       "company": null,
-      "start": null,
-      "end": null
+      "start": "2009-01-01",
+      "end": "2010-01-01"
     }
   ],
   "currentTickers": [
