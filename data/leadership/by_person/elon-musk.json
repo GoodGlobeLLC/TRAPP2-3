@@ -7,17 +7,18 @@
   "occupations": [
     "technology entrepreneur",
     "philanthropist",
-    "dub actor",
     "programmer",
-    "civil servant",
+    "inventor",
     "financier",
     "investor",
-    "inventor",
-    "entrepreneur",
+    "civil servant",
     "engineer",
-    "politician"
+    "entrepreneur",
+    "politician",
+    "dub actor"
   ],
   "education": [
+    "University of Pennsylvania",
     "Queen's University",
     "The Wharton School",
     "Smith School of Business",
@@ -25,7 +26,6 @@
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
     "University of Pretoria",
-    "University of Pennsylvania",
     "Stanford University"
   ],
   "employers": [
@@ -35,8 +35,18 @@
       "end": "2025-05-30"
     },
     {
+      "company": "Tesla",
+      "start": "2004-04-23",
+      "end": null
+    },
+    {
       "company": "Neuralink",
       "start": "2016-07-01",
+      "end": null
+    },
+    {
+      "company": "The Boring Company",
+      "start": "2016-12-17",
       "end": null
     },
     {
@@ -50,23 +60,13 @@
       "end": "2019-01-01"
     },
     {
-      "company": "The Boring Company",
-      "start": "2016-12-17",
-      "end": null
-    },
-    {
-      "company": "Tesla",
-      "start": "2004-04-23",
+      "company": "SpaceX",
+      "start": "2002-06-01",
       "end": null
     },
     {
       "company": "PayPal",
       "start": "1998-12-01",
-      "end": null
-    },
-    {
-      "company": "SpaceX",
-      "start": "2002-06-01",
       "end": null
     }
   ],

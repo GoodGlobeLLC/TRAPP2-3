@@ -5,13 +5,13 @@
   "birthPlace": "Los Angeles",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
   "occupations": [
-    "lawyer",
-    "financier"
+    "financier",
+    "lawyer"
   ],
   "education": [
-    "Harvard Law School",
     "University High School",
-    "University of Washington Michael G. Foster School of Business"
+    "University of Washington Michael G. Foster School of Business",
+    "Harvard Law School"
   ],
   "employers": [
     {

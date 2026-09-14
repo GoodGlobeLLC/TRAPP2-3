@@ -1,6 +1,6 @@
 {
   "ticker": "WBA",
-  "fetchedAt": "2026-09-07T11:59:30.098222Z",
+  "fetchedAt": "2026-09-14T12:14:40.884533Z",
   "people": [
     {
       "qid": "Q3497982",
@@ -14,8 +14,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
+          "engineer",
           "businessperson",
           "chief executive officer"
         ],
@@ -45,8 +45,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford University",
-          "Stony Brook University"
+          "Stony Brook University",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -106,8 +106,8 @@
           "businessperson"
         ],
         "education": [
-          "Duke University",
-          "Cornell University"
+          "Cornell University",
+          "Duke University"
         ],
         "employers": [],
         "positions": []
@@ -233,9 +233,9 @@
           "Spelman College",
           "Cass Technical High School",
           "Booth School of Business",
+          "Stanford Law School",
           "University of Chicago",
-          "University of Pennsylvania",
-          "Stanford Law School"
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -290,9 +290,9 @@
           "economist"
         ],
         "education": [
-          "University of Pennsylvania",
           "The Wharton School",
           "West Virginia University",
+          "University of Pennsylvania",
           "West Virginia University School of Medicine"
         ],
         "employers": [],
@@ -318,8 +318,8 @@
         "birthPlace": "Pescara",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stefano%20Pessina%20bluebackground.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
+          "engineer",
           "businessperson",
           "chief executive officer"
         ],
@@ -380,11 +380,11 @@
           "politician"
         ],
         "education": [
+          "University of Michigan",
+          "Stanford University",
           "Northfield Mount Hermon School",
           "University of Chicago Laboratory Schools",
-          "University of Michigan Law School",
-          "Stanford University",
-          "University of Michigan"
+          "University of Michigan Law School"
         ],
         "employers": [],
         "positions": [

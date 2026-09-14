@@ -16,12 +16,7 @@
   ],
   "employers": [
     {
-      "company": "Draper Fisher Jurvetson",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Bain & Company",
+      "company": "NeXT",
       "start": null,
       "end": null
     },
@@ -31,7 +26,12 @@
       "end": null
     },
     {
-      "company": "NeXT",
+      "company": "Draper Fisher Jurvetson",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Bain & Company",
       "start": null,
       "end": null
     }
