@@ -1,6 +1,6 @@
 {
   "ticker": "MT",
-  "fetchedAt": "2026-09-07T09:58:01.242007Z",
+  "fetchedAt": "2026-09-14T10:20:24.964707Z",
   "people": [
     {
       "qid": "Q357616",
@@ -164,9 +164,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Karel-de-gucht.jpg",
         "occupations": [
           "foreign minister",
-          "jurist",
           "diplomat",
           "lawyer",
+          "jurist",
           "politician"
         ],
         "education": [

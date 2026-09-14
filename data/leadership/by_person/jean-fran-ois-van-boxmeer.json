@@ -2,7 +2,7 @@
   "qid": "Q4457610",
   "name": "Jean-Fran\u00e7ois van Boxmeer",
   "dateOfBirth": "1961-09-10",
-  "birthPlace": "Ixelles",
+  "birthPlace": null,
   "image": null,
   "occupations": [
     "entrepreneur"
@@ -12,11 +12,6 @@
   ],
   "employers": [
     {
-      "company": "Mondelez International",
-      "start": "2010-01-01",
-      "end": null
-    },
-    {
       "company": "Vodafone",
       "start": "2020-01-01",
       "end": null
@@ -25,6 +20,11 @@
       "company": "Heineken International",
       "start": "2005-01-01",
       "end": "2020-01-01"
+    },
+    {
+      "company": "Mondelez International",
+      "start": "2010-01-01",
+      "end": null
     }
   ],
   "positions": [
