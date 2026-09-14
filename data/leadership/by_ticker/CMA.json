@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-09-07T08:56:04.356275Z",
+  "fetchedAt": "2026-09-14T09:35:14.160379Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -233,11 +233,11 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "politician",
           "university teacher",
+          "dean",
+          "politician",
           "surgeon",
-          "physician",
-          "dean"
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -285,9 +285,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
           "diplomat",
-          "lawyer",
+          "politician",
           "physician",
-          "politician"
+          "lawyer"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -433,9 +433,9 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
-          "physician"
+          "physician",
+          "university teacher"
         ],
         "education": [
           "University of Manitoba"
@@ -498,8 +498,8 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Picture%20of%20Dr.%20Duncan%20Graham.jpg",
         "occupations": [
-          "physician",
-          "pathologist"
+          "pathologist",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -539,8 +539,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Edinburgh"
@@ -590,8 +590,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "politician",
-          "physician"
+          "physician",
+          "politician"
         ],
         "education": [
           "University of Toronto"
@@ -627,9 +627,9 @@
         "occupations": [
           "banker",
           "surgeon",
-          "politician",
           "physician",
-          "writer"
+          "writer",
+          "politician"
         ],
         "education": [
           "McGill University"
@@ -681,9 +681,9 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "polo player",
           "naval officer",
           "prince consort",
+          "polo player",
           "military officer"
         ],
         "education": [
