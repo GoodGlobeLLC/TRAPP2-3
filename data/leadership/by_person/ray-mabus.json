@@ -6,15 +6,15 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MabusRay.jpg",
   "occupations": [
     "military officer",
-    "businessperson",
     "diplomat",
-    "actor",
-    "politician"
+    "businessperson",
+    "politician",
+    "actor"
   ],
   "education": [
-    "University of Mississippi",
     "Johns Hopkins University",
-    "Harvard Law School"
+    "Harvard Law School",
+    "University of Mississippi"
   ],
   "employers": [],
   "positions": [

@@ -1,6 +1,6 @@
 {
   "ticker": "HLT",
-  "fetchedAt": "2026-09-14T10:20:24.957625Z",
+  "fetchedAt": "2026-09-21T10:27:30.629387Z",
   "people": [
     {
       "qid": "Q52084464",
@@ -59,15 +59,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/MabusRay.jpg",
         "occupations": [
           "military officer",
-          "businessperson",
           "diplomat",
-          "actor",
-          "politician"
+          "businessperson",
+          "politician",
+          "actor"
         ],
         "education": [
-          "University of Mississippi",
           "Johns Hopkins University",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Mississippi"
         ],
         "employers": [],
         "positions": [
@@ -116,8 +116,8 @@
         "birthPlace": "Wausau",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/TechCrunch%20SF%202013%204S2A3709%20Marissa%20Mayer.jpg",
         "occupations": [
-          "engineer",
           "computer scientist",
+          "engineer",
           "business executive"
         ],
         "education": [
@@ -213,8 +213,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
           "Calvin University",
