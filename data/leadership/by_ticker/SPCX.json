@@ -1,6 +1,6 @@
 {
   "ticker": "SPCX",
-  "fetchedAt": "2026-09-14T12:14:40.880330Z",
+  "fetchedAt": "2026-09-21T12:27:04.375382Z",
   "people": [
     {
       "qid": "Q317521",
@@ -16,26 +16,26 @@
         "occupations": [
           "technology entrepreneur",
           "philanthropist",
-          "programmer",
-          "inventor",
+          "dub actor",
+          "politician",
+          "civil servant",
           "financier",
           "investor",
-          "civil servant",
-          "engineer",
+          "inventor",
           "entrepreneur",
-          "politician",
-          "dub actor"
+          "engineer",
+          "programmer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
           "University of Pretoria",
-          "Stanford University"
+          "Queen's University",
+          "The Wharton School",
+          "Stanford University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -44,13 +44,13 @@
             "end": "2025-05-30"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -69,13 +69,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -136,17 +136,17 @@
         "education": [],
         "employers": [
           {
+            "company": "SpaceX",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Mindspeed Technologies",
             "start": null,
             "end": null
           },
           {
             "company": "Broadcom",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "SpaceX",
             "start": null,
             "end": null
           }
@@ -199,9 +199,9 @@
           "venture capitalist"
         ],
         "education": [
-          "University of California, Los Angeles",
           "Stanford Law School",
-          "Stanford Graduate School of Business"
+          "Stanford Graduate School of Business",
+          "University of California, Los Angeles"
         ],
         "employers": [],
         "positions": [
@@ -233,8 +233,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
         "occupations": [
           "business executive",
-          "businessperson",
-          "philanthropist"
+          "philanthropist",
+          "businessperson"
         ],
         "education": [
           "St. Mark's School of Texas",
@@ -309,16 +309,6 @@
         ],
         "employers": [
           {
-            "company": "Chrysler",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
             "company": "Microcosm",
             "start": "1998-01-01",
             "end": "2002-01-01"
@@ -327,6 +317,16 @@
             "company": "The Aerospace Corporation",
             "start": "1988-01-01",
             "end": "1998-01-01"
+          },
+          {
+            "company": "Chrysler",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-01-01",
+            "end": null
           }
         ],
         "positions": [
@@ -359,26 +359,26 @@
         "occupations": [
           "technology entrepreneur",
           "philanthropist",
-          "programmer",
-          "inventor",
+          "dub actor",
+          "politician",
+          "civil servant",
           "financier",
           "investor",
-          "civil servant",
-          "engineer",
+          "inventor",
           "entrepreneur",
-          "politician",
-          "dub actor"
+          "engineer",
+          "programmer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
           "University of Pretoria",
-          "Stanford University"
+          "Queen's University",
+          "The Wharton School",
+          "Stanford University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -387,13 +387,13 @@
             "end": "2025-05-30"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -412,13 +412,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -476,26 +476,26 @@
         "occupations": [
           "technology entrepreneur",
           "philanthropist",
-          "programmer",
-          "inventor",
+          "dub actor",
+          "politician",
+          "civil servant",
           "financier",
           "investor",
-          "civil servant",
-          "engineer",
+          "inventor",
           "entrepreneur",
-          "politician",
-          "dub actor"
+          "engineer",
+          "programmer"
         ],
         "education": [
-          "University of Pennsylvania",
-          "Queen's University",
-          "The Wharton School",
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
           "University of Pretoria",
-          "Stanford University"
+          "Queen's University",
+          "The Wharton School",
+          "Stanford University",
+          "University of Pennsylvania"
         ],
         "employers": [
           {
@@ -504,13 +504,13 @@
             "end": "2025-05-30"
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "Neuralink",
+            "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Neuralink",
-            "start": "2016-07-01",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           },
           {
@@ -529,13 +529,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           }
         ],

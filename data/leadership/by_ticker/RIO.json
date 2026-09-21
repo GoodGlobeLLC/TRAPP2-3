@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-09-14T12:14:40.877089Z",
+  "fetchedAt": "2026-09-21T12:27:04.372637Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -169,18 +169,6 @@
             "end": "1922-01-01"
           },
           {
-            "title": "Minister of Reconstruction",
-            "company": null,
-            "start": "1919-01-01",
-            "end": "1919-01-01"
-          },
-          {
-            "title": "member of the 31st Parliament of the United Kingdom",
-            "company": null,
-            "start": "1918-12-14",
-            "end": "1920-03-15"
-          },
-          {
             "title": "President of the Board of Trade",
             "company": null,
             "start": "1919-05-26",
@@ -191,6 +179,18 @@
             "company": null,
             "start": "1917-10-25",
             "end": "1918-11-25"
+          },
+          {
+            "title": "Minister of Reconstruction",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1919-01-01"
+          },
+          {
+            "title": "member of the 31st Parliament of the United Kingdom",
+            "company": null,
+            "start": "1918-12-14",
+            "end": "1920-03-15"
           }
         ]
       }
