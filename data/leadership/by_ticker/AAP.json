@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-09-14T09:35:14.152726Z",
+  "fetchedAt": "2026-09-21T09:39:17.192574Z",
   "people": [
     {
       "qid": "Q265852",
@@ -16,17 +16,17 @@
         "occupations": [
           "presenter",
           "manager",
-          "engineer",
           "chief executive officer",
           "computer scientist",
+          "engineer",
           "businessperson"
         ],
         "education": [
-          "Auburn University",
-          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business"
+          "Fuqua School of Business",
+          "Auburn University",
+          "Duke University"
         ],
         "employers": [
           {
@@ -62,13 +62,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "businessperson",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -99,13 +99,13 @@
         "birthPlace": "Chicago",
         "image": null,
         "occupations": [
-          "businessperson",
-          "economist"
+          "economist",
+          "businessperson"
         ],
         "education": [
+          "Booth School of Business",
           "University of Chicago",
-          "Wellesley College",
-          "Booth School of Business"
+          "Wellesley College"
         ],
         "employers": [
           {
@@ -177,13 +177,13 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
-          "biochemist",
           "businessperson",
-          "molecular biologist"
+          "molecular biologist",
+          "biochemist"
         ],
         "education": [
-          "University of California, San Francisco",
-          "Princeton University"
+          "Princeton University",
+          "University of California, San Francisco"
         ],
         "employers": [
           {
@@ -249,24 +249,24 @@
         "birthPlace": "Washington, D.C.",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Gore%2C%20Vice%20President%20of%20the%20United%20States%2C%20official%20portrait%201994.jpg",
         "occupations": [
-          "journalist",
           "climate activist",
-          "university teacher",
           "orator",
+          "university teacher",
           "farmer",
-          "environmentalist",
           "financier",
           "blogger",
+          "environmentalist",
+          "journalist",
           "politician",
           "writer",
           "businessperson"
         ],
         "education": [
-          "Harvard College",
-          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School"
+          "Defense Information School",
+          "Harvard College",
+          "Vanderbilt University"
         ],
         "employers": [
           {
@@ -287,6 +287,12 @@
             "company": null,
             "start": "1983-01-03",
             "end": "1985-01-03"
+          },
+          {
+            "title": "United States senator",
+            "company": null,
+            "start": "1987-01-03",
+            "end": "1989-01-03"
           },
           {
             "title": "Vice President of the United States",
@@ -319,12 +325,6 @@
             "end": "1993-01-02"
           },
           {
-            "title": "United States senator",
-            "company": null,
-            "start": "1987-01-03",
-            "end": "1989-01-03"
-          },
-          {
             "title": "United States representative",
             "company": null,
             "start": "1977-01-03",
@@ -335,6 +335,84 @@
             "company": null,
             "start": "1981-01-03",
             "end": "1983-01-03"
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q19837",
+      "name": "Steve Jobs",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q19837",
+        "name": "Steve Jobs",
+        "dateOfBirth": "1955-02-24",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jobs%20Headshot%202010-CROP2.jpg",
+        "occupations": [
+          "technology entrepreneur",
+          "designer",
+          "founder",
+          "film producer",
+          "financier",
+          "entrepreneur",
+          "general manager",
+          "executive producer",
+          "computer scientist",
+          "inventor"
+        ],
+        "education": [
+          "Homestead High School",
+          "Reed College",
+          "De Anza College"
+        ],
+        "employers": [
+          {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1985-01-01",
+            "end": "1997-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1977-01-03",
+            "end": "1985-01-01"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1997-09-16",
+            "end": "2011-08-24"
+          },
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "1995-11-29",
+            "end": "1997-01-01"
           }
         ]
       }
@@ -351,22 +429,22 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "programmer",
           "entrepreneur",
-          "electronics technician",
-          "engineer",
-          "inventor",
           "computer scientist",
+          "programmer",
+          "engineer",
+          "electronics technician",
+          "inventor",
           "businessperson",
           "actor",
           "teacher"
         ],
         "education": [
-          "University of California, Berkeley",
           "University of Colorado",
           "De Anza College",
           "University of Colorado Boulder",
-          "Homestead High School"
+          "Homestead High School",
+          "University of California, Berkeley"
         ],
         "employers": [
           {

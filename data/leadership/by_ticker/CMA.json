@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-09-14T09:35:14.160379Z",
+  "fetchedAt": "2026-09-21T09:39:17.196994Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -112,8 +112,8 @@
           "physician"
         ],
         "education": [
-          "University of Sydney",
-          "University of Edinburgh"
+          "University of Edinburgh",
+          "University of Sydney"
         ],
         "employers": [
           {
@@ -144,8 +144,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -233,10 +233,10 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "university teacher",
-          "dean",
           "politician",
+          "university teacher",
           "surgeon",
+          "dean",
           "physician"
         ],
         "education": [
@@ -284,8 +284,8 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "diplomat",
           "politician",
+          "diplomat",
           "physician",
           "lawyer"
         ],
@@ -434,8 +434,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
           "surgeon",
-          "physician",
-          "university teacher"
+          "university teacher",
+          "physician"
         ],
         "education": [
           "University of Manitoba"
@@ -469,8 +469,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gustave%20Gingras%20DHC%20006%20000027.jpg",
         "occupations": [
-          "physician",
-          "neurosurgeon"
+          "neurosurgeon",
+          "physician"
         ],
         "education": [
           "Universit\u00e9 de Montr\u00e9al"
@@ -626,9 +626,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
           "banker",
+          "writer",
           "surgeon",
           "physician",
-          "writer",
           "politician"
         ],
         "education": [
@@ -681,10 +681,10 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "naval officer",
-          "prince consort",
           "polo player",
-          "military officer"
+          "military officer",
+          "naval officer",
+          "prince consort"
         ],
         "education": [
           "Cheam School",

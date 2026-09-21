@@ -5,13 +5,13 @@
   "birthPlace": "Seattle",
   "image": null,
   "occupations": [
-    "biochemist",
     "businessperson",
-    "molecular biologist"
+    "molecular biologist",
+    "biochemist"
   ],
   "education": [
-    "University of California, San Francisco",
-    "Princeton University"
+    "Princeton University",
+    "University of California, San Francisco"
   ],
   "employers": [
     {

@@ -5,12 +5,12 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "entrepreneur",
-    "lawyer"
+    "lawyer",
+    "entrepreneur"
   ],
   "education": [
-    "New York University School of Law",
-    "Cornell University"
+    "Cornell University",
+    "New York University School of Law"
   ],
   "employers": [
     {
@@ -22,11 +22,6 @@
       "company": "Deutsche Bank",
       "start": "2002-01-01",
       "end": "2004-01-01"
-    },
-    {
-      "company": "Bank of America",
-      "start": "2004-01-01",
-      "end": "2009-01-01"
     },
     {
       "company": "Fannie Mae",
@@ -52,27 +47,14 @@
       "company": "Donaldson, Lufkin & Jenrette",
       "start": "1996-01-01",
       "end": "2000-01-01"
+    },
+    {
+      "company": "Bank of America",
+      "start": "2004-01-01",
+      "end": "2009-01-01"
     }
   ],
   "positions": [
-    {
-      "title": "chief executive officer",
-      "company": null,
-      "start": "2023-03-13",
-      "end": null
-    },
-    {
-      "title": "company secretary",
-      "company": null,
-      "start": "2009-01-01",
-      "end": "2010-01-01"
-    },
-    {
-      "title": "chairperson",
-      "company": null,
-      "start": "2012-01-01",
-      "end": "2018-01-01"
-    },
     {
       "title": "board of directors member",
       "company": null,
@@ -92,10 +74,22 @@
       "end": "2018-01-01"
     },
     {
-      "title": "member of the board of trustees",
+      "title": "chief executive officer",
       "company": null,
-      "start": null,
+      "start": "2023-03-13",
       "end": null
+    },
+    {
+      "title": "company secretary",
+      "company": null,
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "title": "chairperson",
+      "company": null,
+      "start": "2012-01-01",
+      "end": "2018-01-01"
     },
     {
       "title": "chief administrative officer",
@@ -108,6 +102,12 @@
       "company": null,
       "start": "2009-01-01",
       "end": "2010-01-01"
+    },
+    {
+      "title": "member of the board of trustees",
+      "company": null,
+      "start": null,
+      "end": null
     }
   ],
   "currentTickers": [

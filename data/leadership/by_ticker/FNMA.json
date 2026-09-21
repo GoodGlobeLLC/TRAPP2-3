@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-09-14T09:35:14.165222Z",
+  "fetchedAt": "2026-09-21T09:39:17.201323Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,12 +14,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "New York University School of Law",
-          "Cornell University"
+          "Cornell University",
+          "New York University School of Law"
         ],
         "employers": [
           {
@@ -31,11 +31,6 @@
             "company": "Deutsche Bank",
             "start": "2002-01-01",
             "end": "2004-01-01"
-          },
-          {
-            "company": "Bank of America",
-            "start": "2004-01-01",
-            "end": "2009-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -61,27 +56,14 @@
             "company": "Donaldson, Lufkin & Jenrette",
             "start": "1996-01-01",
             "end": "2000-01-01"
+          },
+          {
+            "company": "Bank of America",
+            "start": "2004-01-01",
+            "end": "2009-01-01"
           }
         ],
         "positions": [
-          {
-            "title": "chief executive officer",
-            "company": null,
-            "start": "2023-03-13",
-            "end": null
-          },
-          {
-            "title": "company secretary",
-            "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
-          },
-          {
-            "title": "chairperson",
-            "company": null,
-            "start": "2012-01-01",
-            "end": "2018-01-01"
-          },
           {
             "title": "board of directors member",
             "company": null,
@@ -101,10 +83,22 @@
             "end": "2018-01-01"
           },
           {
-            "title": "member of the board of trustees",
+            "title": "chief executive officer",
             "company": null,
-            "start": null,
+            "start": "2023-03-13",
             "end": null
+          },
+          {
+            "title": "company secretary",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "chairperson",
+            "company": null,
+            "start": "2012-01-01",
+            "end": "2018-01-01"
           },
           {
             "title": "chief administrative officer",
@@ -117,6 +111,12 @@
             "company": null,
             "start": "2009-01-01",
             "end": "2010-01-01"
+          },
+          {
+            "title": "member of the board of trustees",
+            "company": null,
+            "start": null,
+            "end": null
           }
         ]
       }
@@ -133,8 +133,8 @@
         "birthPlace": "Manchester",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Antony%20Jenkins.jpg",
         "occupations": [
-          "entrepreneur",
-          "banker"
+          "banker",
+          "entrepreneur"
         ],
         "education": [
           "Cranfield School of Management",
@@ -170,12 +170,12 @@
         "birthPlace": "Sheffield",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon%20Johnson%2C%202024%20Nobel%20Prize%20Laureate%20in%20Economics%204%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
-          "university teacher"
+          "university teacher",
+          "economist"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
+          "University of Manchester",
           "University of Oxford"
         ],
         "employers": [
@@ -217,10 +217,10 @@
         "birthPlace": "Wichita",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
-          "economist",
           "university teacher",
-          "politician",
           "businessperson",
+          "economist",
+          "politician",
           "lawyer"
         ],
         "education": [
@@ -284,12 +284,12 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "businessperson",
-          "adjunct professor"
+          "adjunct professor",
+          "businessperson"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "College of Europe",
+          "London School of Economics and Political Science",
           "Yale University"
         ],
         "employers": [],
@@ -311,8 +311,8 @@
           "businessperson"
         ],
         "education": [
-          "Wheaton College",
-          "Harvard University"
+          "Harvard University",
+          "Wheaton College"
         ],
         "employers": [],
         "positions": []
@@ -334,9 +334,9 @@
           "economist"
         ],
         "education": [
+          "John F. Kennedy School of Government",
           "Stanford University",
-          "University of Oxford",
-          "John F. Kennedy School of Government"
+          "University of Oxford"
         ],
         "employers": [],
         "positions": []
@@ -476,8 +476,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "university teacher",
           "law professor",
+          "university teacher",
           "jurist"
         ],
         "education": [],

@@ -5,12 +5,12 @@
   "birthPlace": "Murcia",
   "image": null,
   "occupations": [
-    "businessperson",
-    "adjunct professor"
+    "adjunct professor",
+    "businessperson"
   ],
   "education": [
-    "London School of Economics and Political Science",
     "College of Europe",
+    "London School of Economics and Political Science",
     "Yale University"
   ],
   "employers": [],
