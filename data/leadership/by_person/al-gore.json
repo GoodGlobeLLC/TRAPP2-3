@@ -7,22 +7,22 @@
   "occupations": [
     "climate activist",
     "orator",
-    "university teacher",
-    "farmer",
     "financier",
     "blogger",
     "environmentalist",
+    "farmer",
     "journalist",
+    "university teacher",
     "politician",
-    "writer",
-    "businessperson"
+    "businessperson",
+    "writer"
   ],
   "education": [
+    "Harvard College",
+    "Vanderbilt University",
     "Vanderbilt University Divinity School",
     "St. Albans School",
-    "Defense Information School",
-    "Harvard College",
-    "Vanderbilt University"
+    "Defense Information School"
   ],
   "employers": [
     {

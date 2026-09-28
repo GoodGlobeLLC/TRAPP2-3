@@ -7,14 +7,14 @@
   "occupations": [
     "technology entrepreneur",
     "designer",
-    "founder",
-    "film producer",
-    "financier",
-    "entrepreneur",
     "general manager",
     "executive producer",
-    "computer scientist",
-    "inventor"
+    "film producer",
+    "founder",
+    "financier",
+    "entrepreneur",
+    "inventor",
+    "computer scientist"
   ],
   "education": [
     "Homestead High School",
@@ -23,12 +23,7 @@
   ],
   "employers": [
     {
-      "company": "Atari, Inc.",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Pixar",
+      "company": "Apple Inc.",
       "start": null,
       "end": null
     },
@@ -38,7 +33,12 @@
       "end": null
     },
     {
-      "company": "Apple Inc.",
+      "company": "Atari, Inc.",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Pixar",
       "start": null,
       "end": null
     }

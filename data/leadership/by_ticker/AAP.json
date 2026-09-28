@@ -1,6 +1,6 @@
 {
   "ticker": "AAP",
-  "fetchedAt": "2026-09-21T09:39:17.192574Z",
+  "fetchedAt": "2026-09-28T10:31:53.139658Z",
   "people": [
     {
       "qid": "Q265852",
@@ -12,32 +12,32 @@
         "name": "Tim Cook",
         "dateOfBirth": "1960-11-01",
         "birthPlace": "Mobile",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20March%202026%20%28cropped%29.jpg",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Cook%20in%20New%20York%20City%20-%202026%20%28cropped%29.jpg",
         "occupations": [
-          "presenter",
           "manager",
+          "presenter",
           "chief executive officer",
           "computer scientist",
-          "engineer",
-          "businessperson"
+          "businessperson",
+          "engineer"
         ],
         "education": [
+          "Auburn University",
+          "Duke University",
           "Rostrevor College",
           "Robertsdale High School",
-          "Fuqua School of Business",
-          "Auburn University",
-          "Duke University"
+          "Fuqua School of Business"
         ],
         "employers": [
-          {
-            "company": "IBM",
-            "start": "1982-01-01",
-            "end": "1994-01-01"
-          },
           {
             "company": "Apple Inc.",
             "start": "1998-01-01",
             "end": null
+          },
+          {
+            "company": "IBM",
+            "start": "1982-01-01",
+            "end": "1994-01-01"
           }
         ],
         "positions": [
@@ -62,9 +62,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "businessperson",
-          "molecular biologist",
-          "biochemist"
+          "molecular biologist"
         ],
         "education": [
           "Princeton University",
@@ -177,9 +177,9 @@
         "birthPlace": "Seattle",
         "image": null,
         "occupations": [
+          "biochemist",
           "businessperson",
-          "molecular biologist",
-          "biochemist"
+          "molecular biologist"
         ],
         "education": [
           "Princeton University",
@@ -251,22 +251,22 @@
         "occupations": [
           "climate activist",
           "orator",
-          "university teacher",
-          "farmer",
           "financier",
           "blogger",
           "environmentalist",
+          "farmer",
           "journalist",
+          "university teacher",
           "politician",
-          "writer",
-          "businessperson"
+          "businessperson",
+          "writer"
         ],
         "education": [
+          "Harvard College",
+          "Vanderbilt University",
           "Vanderbilt University Divinity School",
           "St. Albans School",
-          "Defense Information School",
-          "Harvard College",
-          "Vanderbilt University"
+          "Defense Information School"
         ],
         "employers": [
           {
@@ -353,14 +353,14 @@
         "occupations": [
           "technology entrepreneur",
           "designer",
-          "founder",
-          "film producer",
-          "financier",
-          "entrepreneur",
           "general manager",
           "executive producer",
-          "computer scientist",
-          "inventor"
+          "film producer",
+          "founder",
+          "financier",
+          "entrepreneur",
+          "inventor",
+          "computer scientist"
         ],
         "education": [
           "Homestead High School",
@@ -369,12 +369,7 @@
         ],
         "employers": [
           {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Pixar",
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           },
@@ -384,7 +379,12 @@
             "end": null
           },
           {
-            "company": "Apple Inc.",
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Pixar",
             "start": null,
             "end": null
           }
@@ -429,41 +429,41 @@
         "birthPlace": "San Jose",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Wozniak.jpg",
         "occupations": [
-          "entrepreneur",
-          "computer scientist",
           "programmer",
-          "engineer",
-          "electronics technician",
+          "entrepreneur",
           "inventor",
-          "businessperson",
+          "electronics technician",
+          "computer scientist",
+          "engineer",
           "actor",
-          "teacher"
+          "teacher",
+          "businessperson"
         ],
         "education": [
+          "University of California, Berkeley",
+          "Homestead High School",
           "University of Colorado",
           "De Anza College",
-          "University of Colorado Boulder",
-          "Homestead High School",
-          "University of California, Berkeley"
+          "University of Colorado Boulder"
         ],
         "employers": [
-          {
-            "company": "Atari, Inc.",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Apple Inc.",
-            "start": null,
-            "end": null
-          },
           {
             "company": "Hewlett-Packard",
             "start": null,
             "end": null
           },
           {
+            "company": "Atari, Inc.",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "University of Technology Sydney",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Apple Inc.",
             "start": null,
             "end": null
           }

@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-09-21T09:39:17.196994Z",
+  "fetchedAt": "2026-09-28T10:31:53.149598Z",
   "people": [
     {
       "qid": "Q55259271",
@@ -108,12 +108,12 @@
         "birthPlace": "Hamilton",
         "image": null,
         "occupations": [
-          "journalist",
-          "physician"
+          "physician",
+          "journalist"
         ],
         "education": [
-          "University of Edinburgh",
-          "University of Sydney"
+          "University of Sydney",
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -144,8 +144,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "surgeon",
-          "historian"
+          "historian",
+          "surgeon"
         ],
         "education": [
           "New York University"
@@ -233,10 +233,10 @@
         "birthPlace": "Harbour Grace",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
-          "politician",
-          "university teacher",
           "surgeon",
+          "university teacher",
           "dean",
+          "politician",
           "physician"
         ],
         "education": [
@@ -284,10 +284,10 @@
         "birthPlace": "Amherst",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chas%20Tupper%20-%20GG%20Bain.jpg",
         "occupations": [
-          "politician",
+          "lawyer",
           "diplomat",
-          "physician",
-          "lawyer"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -433,8 +433,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "surgeon",
           "university teacher",
+          "surgeon",
           "physician"
         ],
         "education": [
@@ -539,8 +539,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Edinburgh"
@@ -590,8 +590,8 @@
         "birthPlace": "Aurora",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bette%20Stephenson%20QP%201986-04-24%20%2825m32s%29.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [
           "University of Toronto"
@@ -626,10 +626,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
           "banker",
-          "writer",
+          "politician",
           "surgeon",
           "physician",
-          "politician"
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -682,9 +682,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
           "polo player",
-          "military officer",
           "naval officer",
-          "prince consort"
+          "prince consort",
+          "military officer"
         ],
         "education": [
           "Cheam School",
