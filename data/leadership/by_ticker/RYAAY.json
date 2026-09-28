@@ -1,6 +1,6 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-09-21T12:27:04.373315Z",
+  "fetchedAt": "2026-09-28T13:20:23.999222Z",
   "people": [
     {
       "qid": "Q137910641",
@@ -43,9 +43,9 @@
           "financier"
         ],
         "education": [
-          "Harvard Law School",
           "University High School",
-          "University of Washington Michael G. Foster School of Business"
+          "University of Washington Michael G. Foster School of Business",
+          "Harvard Law School"
         ],
         "employers": [
           {
@@ -74,8 +74,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Northwestern University",
@@ -105,8 +105,8 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "businessperson",
-          "entrepreneur"
+          "entrepreneur",
+          "businessperson"
         ],
         "education": [
           "Northwestern University",
