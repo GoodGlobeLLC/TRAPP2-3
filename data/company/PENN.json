@@ -1,23 +1,47 @@
 {
   "ticker": "PENN",
-  "qid": "Q7163201",
-  "fetchedAt": "2026-08-01T05:49:02.455733Z",
+  "qid": "Q49117",
+  "fetchedAt": "2026-10-01T08:35:22.755279Z",
   "source": "wikidata",
-  "name": "Penn Entertainment",
-  "description": "American entertainment company and operator of integrated entertainment, sports content, and casino gaming based in Pennsylvania.",
-  "website": "http://www.pngaming.com/",
-  "isin": "US7075691094",
-  "inception": "1972-01-01",
-  "employees": null,
-  "industry": null,
-  "headquarters": "Wyomissing",
+  "name": "University of Pennsylvania",
+  "description": "private research university in Philadelphia, Pennsylvania, United States",
+  "website": "https://upenn.edu",
+  "isin": null,
+  "inception": "1740-11-14",
+  "employees": 19456,
+  "industry": "higher education",
+  "headquarters": "Philadelphia",
   "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "casino"
+      "name": "William Shippen"
+    },
+    {
+      "name": "William Allen"
+    },
+    {
+      "name": "Thomas Lawrence"
+    },
+    {
+      "name": "Tench Francis, Sr."
+    },
+    {
+      "name": "Philip Syng"
+    },
+    {
+      "name": "Benjamin Franklin"
+    },
+    {
+      "name": "Phineas Bond"
+    },
+    {
+      "name": "John Inglis"
+    },
+    {
+      "name": "James Logan"
     }
   ],
+  "products": [],
   "countries": []
 }

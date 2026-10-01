@@ -1,7 +1,7 @@
 {
   "ticker": "ADDYY",
   "qid": "Q3895",
-  "fetchedAt": "2026-09-01T07:10:41.656595Z",
+  "fetchedAt": "2026-10-01T08:09:24.606405Z",
   "source": "wikidata",
   "name": "Adidas AG",
   "description": "German multinational corporation",
@@ -25,13 +25,13 @@
   ],
   "products": [
     {
-      "name": "sports equipment"
-    },
-    {
       "name": "sportswear"
     },
     {
       "name": "footwear"
+    },
+    {
+      "name": "sports equipment"
     },
     {
       "name": "personal care product"

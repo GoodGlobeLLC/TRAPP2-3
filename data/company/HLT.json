@@ -1,71 +1,19 @@
 {
   "ticker": "HLT",
-  "qid": "Q1057464",
-  "fetchedAt": "2026-09-01T07:44:34.049533Z",
+  "qid": "Q11976595",
+  "fetchedAt": "2026-10-01T08:23:01.853798Z",
   "source": "wikidata",
-  "name": "Hilton Worldwide",
-  "description": "American multinational hospitality company",
-  "website": "https://www.hilton.com",
-  "isin": "US43300A2033",
-  "inception": "1919-01-01",
-  "employees": 182000,
-  "industry": "hospitality industry",
-  "headquarters": "McLean",
-  "executives": [
-    {
-      "name": "Christopher J. Nassetta",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Jonathan D. Gray",
-      "role": "Chairperson"
-    }
-  ],
-  "board": [
-    {
-      "name": "Ray Mabus",
-      "role": "Board Member"
-    },
-    {
-      "name": "Marissa Mayer",
-      "role": "Board Member"
-    },
-    {
-      "name": "Christopher J. Nassetta",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jonathan D. Gray",
-      "role": "Board Member"
-    },
-    {
-      "name": "Douglas Steenland",
-      "role": "Board Member"
-    },
-    {
-      "name": "Melanie Healey",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "Conrad Hilton"
-    }
-  ],
-  "products": [
-    {
-      "name": "hotel"
-    },
-    {
-      "name": "resort"
-    },
-    {
-      "name": "franchising"
-    }
-  ],
-  "countries": [
-    {
-      "name": "worldwide"
-    }
-  ]
+  "name": "Norwegian School of Leadership and Theology",
+  "description": "school in Stabekk, B\u00e6rum, Norway",
+  "website": "https://hlt.no",
+  "isin": null,
+  "inception": "2008-01-01",
+  "employees": 35,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

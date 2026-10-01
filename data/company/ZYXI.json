@@ -1,7 +1,7 @@
 {
   "ticker": "ZYXI",
   "qid": "Q17147182",
-  "fetchedAt": "2026-08-01T06:00:26.067944Z",
+  "fetchedAt": "2026-10-01T08:48:17.489429Z",
   "source": "wikidata",
   "name": "Zynex",
   "description": "American medical device manufacturer",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "2001-01-01",
   "employees": null,
-  "industry": "health technology",
+  "industry": "medical technology",
   "headquarters": "Lone Tree",
   "executives": [],
   "board": [],

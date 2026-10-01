@@ -1,7 +1,7 @@
 {
   "ticker": "MSTR",
   "qid": "Q1192211",
-  "fetchedAt": "2026-08-01T05:44:01.961691Z",
+  "fetchedAt": "2026-10-01T08:30:33.271137Z",
   "source": "wikidata",
   "name": "Strategy",
   "description": "American technology company",
@@ -9,7 +9,7 @@
   "isin": "US5949724083",
   "inception": "1989-01-01",
   "employees": 1539,
-  "industry": "data visualization",
+  "industry": "software industry",
   "headquarters": "Tysons",
   "executives": [
     {
@@ -28,13 +28,13 @@
   ],
   "products": [
     {
-      "name": "mobile app"
-    },
-    {
       "name": "data analysis software"
     },
     {
       "name": "business intelligence software"
+    },
+    {
+      "name": "mobile app"
     },
     {
       "name": "application software"

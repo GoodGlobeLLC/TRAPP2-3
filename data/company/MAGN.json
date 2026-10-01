@@ -1,7 +1,7 @@
 {
   "ticker": "MAGN",
   "qid": "Q1884500",
-  "fetchedAt": "2026-08-01T05:42:52.578375Z",
+  "fetchedAt": "2026-10-01T08:29:24.314983Z",
   "source": "wikidata",
   "name": "Magnitogorsk Iron and Steel Works",
   "description": "one of Russia's largest steel companies",
@@ -22,9 +22,6 @@
       "name": "iron ore"
     },
     {
-      "name": "iron"
-    },
-    {
       "name": "m\u00f6ller"
     },
     {
@@ -32,6 +29,9 @@
     },
     {
       "name": "steel"
+    },
+    {
+      "name": "iron"
     }
   ],
   "countries": []

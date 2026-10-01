@@ -1,23 +1,19 @@
 {
   "ticker": "KOSS",
-  "qid": "Q1672602",
-  "fetchedAt": "2026-09-01T07:50:01.996252Z",
+  "qid": "Q20088996",
+  "fetchedAt": "2026-10-01T08:26:35.066119Z",
   "source": "wikidata",
-  "name": "Koss Corporation",
-  "description": "American company",
-  "website": "http://www.koss.com/",
+  "name": "Konongo Odumase Senior High School",
+  "description": "a coeducational second cycle institution at Konongo, Ashanti Region in Ghana",
+  "website": null,
   "isin": null,
-  "inception": "1953-01-01",
+  "inception": "1953-02-23",
   "employees": null,
-  "industry": "electronics",
-  "headquarters": "Milwaukee",
+  "industry": null,
+  "headquarters": "Odumase",
   "executives": [],
   "board": [],
   "founders": [],
-  "products": [
-    {
-      "name": "headphone"
-    }
-  ],
+  "products": [],
   "countries": []
 }

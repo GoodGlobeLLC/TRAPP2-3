@@ -1,7 +1,7 @@
 {
   "ticker": "BIDU",
   "qid": "Q14772",
-  "fetchedAt": "2026-09-01T07:18:40.586481Z",
+  "fetchedAt": "2026-10-01T08:13:00.122184Z",
   "source": "wikidata",
   "name": "Baidu",
   "description": "Chinese web services company",
@@ -20,10 +20,10 @@
   ],
   "products": [
     {
-      "name": "software"
+      "name": "search engine"
     },
     {
-      "name": "search engine"
+      "name": "software"
     }
   ],
   "countries": []

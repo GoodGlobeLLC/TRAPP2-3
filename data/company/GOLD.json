@@ -1,7 +1,7 @@
 {
   "ticker": "GOLD",
   "qid": "Q808908",
-  "fetchedAt": "2026-09-01T07:38:09.006364Z",
+  "fetchedAt": "2026-10-01T08:21:15.059949Z",
   "source": "wikidata",
   "name": "Barrick Mining Corporation",
   "description": "company",
@@ -20,10 +20,10 @@
   ],
   "products": [
     {
-      "name": "copper"
+      "name": "gold"
     },
     {
-      "name": "gold"
+      "name": "copper"
     }
   ],
   "countries": []

@@ -1,7 +1,19 @@
 {
   "ticker": "IVV",
-  "fetchedAt": "2026-09-01T07:47:27.044575Z",
+  "qid": "Q47486217",
+  "fetchedAt": "2026-10-01T08:24:43.156367Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "Institute for Flemish Folk Art",
+  "description": "non-governmental organization in Belgium",
+  "website": "http://www.instituutvlaamsevolkskunst.be/",
+  "isin": null,
+  "inception": null,
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

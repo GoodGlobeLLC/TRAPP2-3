@@ -1,7 +1,7 @@
 {
   "ticker": "ADV",
   "qid": "Q128896",
-  "fetchedAt": "2026-09-01T07:11:21.655893Z",
+  "fetchedAt": "2026-10-01T08:09:49.107214Z",
   "source": "wikidata",
   "name": "AMD",
   "description": "American multinational semiconductor company",
@@ -74,10 +74,10 @@
       "name": "graphics processing unit"
     },
     {
-      "name": "chipset"
+      "name": "microprocessor"
     },
     {
-      "name": "microprocessor"
+      "name": "chipset"
     },
     {
       "name": "computer hardware"

@@ -1,27 +1,19 @@
 {
   "ticker": "CFLT",
-  "qid": "Q94758727",
-  "fetchedAt": "2026-09-01T07:23:37.153178Z",
+  "qid": "Q140934370",
+  "fetchedAt": "2026-10-01T08:14:40.440073Z",
   "source": "wikidata",
-  "name": "Confluent Inc.",
-  "description": "American multinational technology corporation",
-  "website": "http://www.confluent.io/",
-  "isin": "US20717M1036",
+  "name": "Canadian Forces Logistics Training Centre",
+  "description": "Canadian military unit",
+  "website": "https://www.canada.ca/en/department-national-defence/services/benefits-military/education-training/establishments/canadian-forces-logistics-training-centre.html",
+  "isin": null,
   "inception": null,
   "employees": null,
   "industry": null,
-  "headquarters": "Mountain View",
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Neha Narkhede"
-    }
-  ],
-  "products": [
-    {
-      "name": "Apache Kafka"
-    }
-  ],
+  "founders": [],
+  "products": [],
   "countries": []
 }

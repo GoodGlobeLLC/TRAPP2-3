@@ -1,23 +1,23 @@
 {
   "ticker": "CCU",
-  "qid": "Q2990393",
-  "fetchedAt": "2026-09-01T07:23:07.949059Z",
+  "qid": "Q707140",
+  "fetchedAt": "2026-10-01T08:14:23.081889Z",
   "source": "wikidata",
-  "name": "CCU",
-  "description": "Chilean drinks and beer company",
-  "website": "http://www.ccu.cl",
-  "isin": "US2044291043",
-  "inception": "1902-01-01",
-  "employees": null,
-  "industry": "brewing industry",
-  "headquarters": "Santiago",
+  "name": "Chinese Culture University",
+  "description": "private university in Taipei, Taiwan",
+  "website": "http://www.pccu.edu.tw",
+  "isin": null,
+  "inception": "1962-01-01",
+  "employees": 666,
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "beer"
+      "name": "Chang Chi-yun"
     }
   ],
+  "products": [],
   "countries": []
 }

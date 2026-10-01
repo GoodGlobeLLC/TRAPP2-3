@@ -1,7 +1,19 @@
 {
   "ticker": "TARS",
-  "fetchedAt": "2026-08-01T05:55:43.148627Z",
+  "qid": "Q12741862",
+  "fetchedAt": "2026-10-01T08:42:00.514217Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "TARS",
+  "description": "Romanian-Soviet airline",
+  "website": null,
+  "isin": null,
+  "inception": "1945-08-08",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

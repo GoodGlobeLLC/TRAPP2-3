@@ -1,32 +1,23 @@
 {
   "ticker": "BIRK",
-  "qid": "Q648458",
-  "fetchedAt": "2026-09-01T07:19:05.919514Z",
+  "qid": "Q8008568",
+  "fetchedAt": "2026-10-01T08:13:15.056000Z",
   "source": "wikidata",
-  "name": "Birkenstock",
-  "description": "German shoe manufacturer",
-  "website": "https://www.birkenstock.com/",
-  "isin": "JE00BS44BN30",
-  "inception": "1774-01-01",
-  "employees": 5500,
-  "industry": "footwear industry",
-  "headquarters": "Neustadt (Wied)",
-  "executives": [
-    {
-      "name": "Oliver Reichert",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Karl Birkenstock",
-      "role": "Chief Executive Officer"
-    }
-  ],
+  "name": "William Ellis School",
+  "description": "school in Camden, UK",
+  "website": "http://www.williamellis.camden.sch.uk/",
+  "isin": null,
+  "inception": "1862-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
   "board": [],
-  "founders": [],
-  "products": [
+  "founders": [
     {
-      "name": "footwear"
+      "name": "William Ellis"
     }
   ],
+  "products": [],
   "countries": []
 }

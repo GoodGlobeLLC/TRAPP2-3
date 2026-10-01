@@ -1,79 +1,132 @@
 {
   "ticker": "HP",
-  "qid": "Q19923099",
-  "fetchedAt": "2026-09-01T07:44:43.209226Z",
+  "qid": "Q80978",
+  "fetchedAt": "2026-10-01T08:23:11.802786Z",
   "source": "wikidata",
-  "name": "Hewlett Packard Enterprise",
+  "name": "Hewlett-Packard",
   "description": "American information technology company",
-  "website": "https://www.hpe.com/",
-  "isin": "US42824C1099",
-  "inception": "2015-11-01",
-  "employees": 60000,
+  "website": "https://www.hp.com/",
+  "isin": "US40434L1052",
+  "inception": "1939-07-02",
+  "employees": 48000,
   "industry": "computer hardware industry",
-  "headquarters": "Spring",
+  "headquarters": "Palo Alto",
   "executives": [
     {
-      "name": "Antonio Neri",
+      "name": "Enrique Lores",
       "role": "Chief Executive Officer"
     }
   ],
   "board": [
     {
-      "name": "Pamela Carter",
+      "name": "Mary Anne Citrino",
       "role": "Board Member"
     },
     {
-      "name": "Gary Reiner",
+      "name": "Chip Bergh",
       "role": "Board Member"
     },
     {
-      "name": "Ann Livermore",
+      "name": "Shumeet Banerji",
       "role": "Board Member"
     },
     {
-      "name": "Patricia Russo",
+      "name": "Kim Rucker",
       "role": "Board Member"
     },
     {
-      "name": "Ray Ozzie",
+      "name": "Enrique Lores",
       "role": "Board Member"
     },
     {
-      "name": "Antonio Neri",
+      "name": "Subra Suresh",
       "role": "Board Member"
     },
     {
-      "name": "Lip-Bu Tan",
+      "name": "Stacy Brown-Philpot",
       "role": "Board Member"
     },
     {
-      "name": "Raymond J. Lane",
+      "name": "Stephanie A. Burns",
+      "role": "Board Member"
+    },
+    {
+      "name": "Rick Clemmer",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bruce Broussard",
+      "role": "Board Member"
+    },
+    {
+      "name": "Robert Bennett",
+      "role": "Board Member"
+    },
+    {
+      "name": "Jami Miscik",
+      "role": "Board Member"
+    },
+    {
+      "name": "A\u00edda \u00c1lvarez",
       "role": "Board Member"
     }
   ],
   "founders": [
     {
-      "name": "Hewlett-Packard"
+      "name": "David Packard"
+    },
+    {
+      "name": "William Redington Hewlett"
     }
   ],
   "products": [
     {
-      "name": "network-attached storage"
-    },
-    {
-      "name": "server computer"
+      "name": "tablet computer"
     },
     {
       "name": "networking hardware"
     },
     {
-      "name": "cloud computing"
+      "name": "systems integrator"
     },
     {
-      "name": "storage area network"
+      "name": "pocket computer"
     },
     {
-      "name": "supercomputer"
+      "name": "image scanner"
+    },
+    {
+      "name": "digital camera"
+    },
+    {
+      "name": "computer storage media"
+    },
+    {
+      "name": "server"
+    },
+    {
+      "name": "smartphone"
+    },
+    {
+      "name": "software"
+    },
+    {
+      "name": "mobile phone"
+    },
+    {
+      "name": "personal computer"
+    },
+    {
+      "name": "computer hardware"
+    },
+    {
+      "name": "printer"
+    },
+    {
+      "name": "laptop"
+    },
+    {
+      "name": "computer"
     }
   ],
   "countries": []

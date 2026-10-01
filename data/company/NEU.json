@@ -1,23 +1,24 @@
 {
   "ticker": "NEU",
-  "qid": "Q17562023",
-  "fetchedAt": "2026-08-01T05:45:17.424395Z",
+  "qid": "Q37548",
+  "fetchedAt": "2026-10-01T08:31:34.459267Z",
   "source": "wikidata",
-  "name": "NewMarket Corporation",
-  "description": "American chemical company",
-  "website": "http://www.newmarket.com/",
+  "name": "Northeastern University",
+  "description": "private university in Boston, Massachusetts, USA",
+  "website": "https://www.northeastern.edu/",
   "isin": null,
-  "inception": "1887-01-01",
-  "employees": null,
-  "industry": "chemical industry",
-  "headquarters": "Richmond",
-  "executives": [],
-  "board": [],
-  "founders": [],
-  "products": [
+  "inception": "1898-01-01",
+  "employees": 1830,
+  "industry": "higher education",
+  "headquarters": "Boston",
+  "executives": [
     {
-      "name": "petroleum industry"
+      "name": "Joseph Elias Aoun",
+      "role": "Chairperson"
     }
   ],
+  "board": [],
+  "founders": [],
+  "products": [],
   "countries": []
 }

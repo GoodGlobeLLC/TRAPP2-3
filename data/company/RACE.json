@@ -1,30 +1,28 @@
 {
   "ticker": "RACE",
-  "qid": "Q22243729",
-  "fetchedAt": "2026-08-01T05:50:49.070570Z",
+  "qid": "Q427318",
+  "fetchedAt": "2026-10-01T08:37:14.687551Z",
   "source": "wikidata",
-  "name": "Q22243729",
-  "description": "Dutch holding company that controls Ferrari",
-  "website": "https://corporate.ferrari.com/",
-  "isin": "NL0011509302",
-  "inception": "2013-05-24",
+  "name": "Royal Academy of Exact, Physical and Natural Sciences",
+  "description": "academy of sciences of Spain",
+  "website": "https://rac.es/",
+  "isin": null,
+  "inception": "1847-01-01",
   "employees": null,
-  "industry": "automotive industry",
-  "headquarters": "Maranello",
-  "executives": [],
+  "industry": null,
+  "headquarters": "Real Academia de Ciencias Exactas, F\u00edsicas y Naturales building",
+  "executives": [
+    {
+      "name": "Jes\u00fas Mar\u00eda Sanz-Serna",
+      "role": "Chairperson"
+    }
+  ],
   "board": [],
   "founders": [
     {
-      "name": "Fiat S.p.A."
+      "name": "Isabella II of Spain"
     }
   ],
-  "products": [
-    {
-      "name": "supercar"
-    },
-    {
-      "name": "sports car"
-    }
-  ],
+  "products": [],
   "countries": []
 }

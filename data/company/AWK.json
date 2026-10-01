@@ -1,23 +1,19 @@
 {
   "ticker": "AWK",
-  "qid": "Q467238",
-  "fetchedAt": "2026-09-01T07:16:57.725874Z",
+  "qid": "Q320642",
+  "fetchedAt": "2026-10-01T08:11:49.641434Z",
   "source": "wikidata",
-  "name": "American Water Works",
-  "description": "company",
-  "website": "http://www.amwater.com/",
-  "isin": "US0304201033",
-  "inception": "1886-01-01",
+  "name": "North Rhine-Westphalia Academy for Sciences and Arts",
+  "description": "academy of sciences",
+  "website": "https://www.awk.nrw/",
+  "isin": null,
+  "inception": "1993-01-01",
   "employees": null,
-  "industry": "public utility",
-  "headquarters": "Camden",
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
   "founders": [],
-  "products": [
-    {
-      "name": "water"
-    }
-  ],
+  "products": [],
   "countries": []
 }

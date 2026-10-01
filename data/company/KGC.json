@@ -1,27 +1,19 @@
 {
   "ticker": "KGC",
-  "qid": "Q546880",
-  "fetchedAt": "2026-09-01T07:49:24.056077Z",
+  "qid": "Q20612532",
+  "fetchedAt": "2026-10-01T08:26:06.470959Z",
   "source": "wikidata",
-  "name": "Kinross Gold",
-  "description": "company",
-  "website": "http://www.kinross.com",
-  "isin": "CA4969024047",
-  "inception": "1993-01-01",
-  "employees": 9300,
-  "industry": "mining",
-  "headquarters": "Toronto",
+  "name": "Khulna Government College",
+  "description": "Govt. College in Khulna, Bangladesh",
+  "website": "https://www.khlgcedubd.org",
+  "isin": null,
+  "inception": "1968-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [
-    {
-      "name": "Robert Buchan"
-    }
-  ],
-  "products": [
-    {
-      "name": "gold"
-    }
-  ],
+  "founders": [],
+  "products": [],
   "countries": []
 }

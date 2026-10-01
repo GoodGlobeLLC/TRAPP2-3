@@ -1,53 +1,19 @@
 {
   "ticker": "MT",
-  "qid": "Q27893",
-  "fetchedAt": "2026-08-01T05:44:18.368050Z",
+  "qid": "Q1784748",
+  "fetchedAt": "2026-10-01T08:30:42.740567Z",
   "source": "wikidata",
-  "name": "ArcelorMittal",
-  "description": "multinational steel manufacturing corporation",
-  "website": "https://corporate.arcelormittal.com/",
-  "isin": "LU1598757687",
-  "inception": "2006-01-01",
-  "employees": 125416,
-  "industry": "iron and steel industry",
-  "headquarters": "Luxembourg",
-  "executives": [
-    {
-      "name": "Aditya Mittal",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Lakshmi Mittal",
-      "role": "Chairperson"
-    }
-  ],
-  "board": [
-    {
-      "name": "Bruno Lafont",
-      "role": "Board Member"
-    },
-    {
-      "name": "Jeannot Kreck\u00e9",
-      "role": "Board Member"
-    },
-    {
-      "name": "Karel De Gucht",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "Lakshmi Mittal"
-    }
-  ],
-  "products": [
-    {
-      "name": "high speed steel"
-    }
-  ],
-  "countries": [
-    {
-      "name": "worldwide"
-    }
-  ]
+  "name": "Q1784748",
+  "description": "public university located in Murfreesboro, Tennessee, United States",
+  "website": "https://www.mtsu.edu/",
+  "isin": null,
+  "inception": "1911-09-11",
+  "employees": 2189,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "BTDR",
   "qid": "Q133042901",
-  "fetchedAt": "2026-09-01T07:20:15.499305Z",
+  "fetchedAt": "2026-10-01T08:13:55.644103Z",
   "source": "wikidata",
   "name": "Bitdeer",
   "description": "Singapore-based cryptocurrency mining and AI cloud infrastructure company",
@@ -9,7 +9,7 @@
   "isin": "KYG114481008",
   "inception": "2021-01-01",
   "employees": 211,
-  "industry": "cryptocurrency mining",
+  "industry": "cloud computing",
   "headquarters": "Singapore",
   "executives": [
     {

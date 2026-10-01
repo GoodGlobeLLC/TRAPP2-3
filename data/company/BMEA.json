@@ -1,7 +1,19 @@
 {
   "ticker": "BMEA",
-  "fetchedAt": "2026-09-01T07:19:41.037102Z",
+  "qid": "Q1967977",
+  "fetchedAt": "2026-10-01T08:13:33.879189Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "National Academy of Sciences of Belarus",
+  "description": "national academy of Belarus",
+  "website": "https://nasb.gov.by/rus/about/glavnaya/",
+  "isin": null,
+  "inception": "1929-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": "Minsk",
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

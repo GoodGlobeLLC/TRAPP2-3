@@ -1,7 +1,7 @@
 {
   "ticker": "SPCX",
   "qid": "Q193701",
-  "fetchedAt": "2026-08-01T05:54:51.799549Z",
+  "fetchedAt": "2026-10-01T08:41:01.425475Z",
   "source": "wikidata",
   "name": "SpaceX",
   "description": "American spaceflight and AI company",
@@ -19,18 +19,6 @@
   ],
   "board": [
     {
-      "name": "Bret Johnsen",
-      "role": "Board Member"
-    },
-    {
-      "name": "Antonio Gracias",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ira Ehrenpreis",
-      "role": "Board Member"
-    },
-    {
       "name": "Steve Jurvetson",
       "role": "Board Member"
     },
@@ -40,6 +28,18 @@
     },
     {
       "name": "Gwynne Shotwell",
+      "role": "Board Member"
+    },
+    {
+      "name": "Bret Johnsen",
+      "role": "Board Member"
+    },
+    {
+      "name": "Antonio Gracias",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ira Ehrenpreis",
       "role": "Board Member"
     },
     {

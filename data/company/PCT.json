@@ -1,7 +1,19 @@
 {
   "ticker": "PCT",
-  "fetchedAt": "2026-08-01T05:48:46.313993Z",
+  "qid": "Q141253174",
+  "fetchedAt": "2026-10-01T08:35:16.873258Z",
   "source": "wikidata",
-  "_noEntity": true,
-  "name": null
+  "name": "Global Pacific Shipping JSC",
+  "description": "Vietnamese joint-stock company",
+  "website": null,
+  "isin": "VN000000PCT8",
+  "inception": null,
+  "employees": null,
+  "industry": "transportation and storage",
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

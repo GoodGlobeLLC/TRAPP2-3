@@ -1,128 +1,19 @@
 {
   "ticker": "AAP",
-  "qid": "Q312",
-  "fetchedAt": "2026-08-01T05:23:15.355647Z",
+  "qid": "Q98665879",
+  "fetchedAt": "2026-10-01T08:08:36.349666Z",
   "source": "wikidata",
-  "name": "Apple Inc.",
-  "description": "American multinational technology company based in Cupertino, California",
-  "website": "https://apple.com/tw/",
-  "isin": "US0378331005",
-  "inception": "1976-04-01",
-  "employees": 164000,
-  "industry": "software development",
-  "headquarters": "Cupertino",
-  "executives": [
-    {
-      "name": "Tim Cook",
-      "role": "Chief Executive Officer"
-    },
-    {
-      "name": "Arthur D. Levinson",
-      "role": "Chairperson"
-    }
-  ],
-  "board": [
-    {
-      "name": "Susan Wagner",
-      "role": "Board Member"
-    },
-    {
-      "name": "Ronald Sugar",
-      "role": "Board Member"
-    },
-    {
-      "name": "James A. Bell",
-      "role": "Board Member"
-    },
-    {
-      "name": "Arthur D. Levinson",
-      "role": "Board Member"
-    },
-    {
-      "name": "Andrea Jung",
-      "role": "Board Member"
-    },
-    {
-      "name": "Al Gore",
-      "role": "Board Member"
-    }
-  ],
-  "founders": [
-    {
-      "name": "Steve Jobs"
-    },
-    {
-      "name": "Steve Wozniak"
-    },
-    {
-      "name": "Ronald Wayne"
-    }
-  ],
-  "products": [
-    {
-      "name": "Apple Watch"
-    },
-    {
-      "name": "networking hardware"
-    },
-    {
-      "name": "HomePod"
-    },
-    {
-      "name": "wearable computer"
-    },
-    {
-      "name": "consumer electronics"
-    },
-    {
-      "name": "AirPods"
-    },
-    {
-      "name": "Apple Pay"
-    },
-    {
-      "name": "Apple TV"
-    },
-    {
-      "name": "personal computer"
-    },
-    {
-      "name": "peripheral"
-    },
-    {
-      "name": "Mac"
-    },
-    {
-      "name": "personal digital assistant"
-    },
-    {
-      "name": "tablet computer"
-    },
-    {
-      "name": "iPod touch"
-    },
-    {
-      "name": "smartphone"
-    },
-    {
-      "name": "iMac"
-    },
-    {
-      "name": "iPod"
-    },
-    {
-      "name": "software"
-    },
-    {
-      "name": "computer hardware"
-    },
-    {
-      "name": "iPhone"
-    }
-  ],
-  "countries": [
-    {
-      "name": "worldwide"
-    }
-  ]
+  "name": "Smithsonian American Art and Portrait Gallery Library",
+  "description": "part of the Smithsonian Libraries and Archives, supporting the research of the Smithsonian American Art Museum, the National Portrait Gallery and the Archives of American Art",
+  "website": "https://library.si.edu/libraries/american-art-and-portrait-gallery",
+  "isin": null,
+  "inception": "1920-01-01",
+  "employees": null,
+  "industry": null,
+  "headquarters": null,
+  "executives": [],
+  "board": [],
+  "founders": [],
+  "products": [],
+  "countries": []
 }

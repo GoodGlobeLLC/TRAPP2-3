@@ -1,7 +1,7 @@
 {
   "ticker": "JEF",
   "qid": "Q325789",
-  "fetchedAt": "2026-09-01T07:48:26.187371Z",
+  "fetchedAt": "2026-10-01T08:25:23.020897Z",
   "source": "wikidata",
   "name": "Jefferies & Company",
   "description": "company",
@@ -10,7 +10,7 @@
   "inception": "1962-01-01",
   "employees": null,
   "industry": "investment",
-  "headquarters": "New York City",
+  "headquarters": "Frankfurt",
   "executives": [
     {
       "name": "Richard B. Handler",
