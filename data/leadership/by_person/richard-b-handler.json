@@ -5,15 +5,15 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "chief executive officer",
     "investment banker",
-    "financier"
+    "financier",
+    "chief executive officer"
   ],
   "education": [
     "University of Rochester",
+    "Stanford University",
     "Pascack Hills High School",
-    "Stanford Graduate School of Business",
-    "Stanford University"
+    "Stanford Graduate School of Business"
   ],
   "employers": [],
   "positions": [],
