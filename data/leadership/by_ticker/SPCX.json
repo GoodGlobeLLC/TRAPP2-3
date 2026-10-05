@@ -1,6 +1,6 @@
 {
   "ticker": "SPCX",
-  "fetchedAt": "2026-09-28T13:20:24.002506Z",
+  "fetchedAt": "2026-10-05T14:04:00.188288Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,13 +14,13 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
+          "philanthropist",
+          "technology entrepreneur",
           "dub actor",
           "financier",
           "investor",
-          "technology entrepreneur",
           "programmer",
-          "civil servant",
-          "philanthropist",
           "inventor",
           "entrepreneur",
           "engineer",
@@ -31,22 +31,32 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -59,23 +69,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -120,6 +120,131 @@
       }
     },
     {
+      "qid": "Q9079904",
+      "name": "Steve Jurvetson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q9079904",
+        "name": "Steve Jurvetson",
+        "dateOfBirth": "1967-03-01",
+        "birthPlace": "Arizona",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
+        "occupations": [
+          "business executive",
+          "philanthropist",
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "St. Mark's School of Texas",
+          "Stanford Graduate School of Business"
+        ],
+        "employers": [
+          {
+            "company": "Hewlett-Packard",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "NeXT",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Draper Fisher Jurvetson",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6702205",
+      "name": "Luke Nosek",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6702205",
+        "name": "Luke Nosek",
+        "dateOfBirth": "1975-01-01",
+        "birthPlace": "Tarn\u00f3w",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Graphing%20Social%20Patterns%2007%20-%20IMG%209586%20%281527725262%29.jpg",
+        "occupations": [
+          "engineer"
+        ],
+        "education": [
+          "University of Illinois Urbana-Champaign"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q1557944",
+      "name": "Gwynne Shotwell",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q1557944",
+        "name": "Gwynne Shotwell",
+        "dateOfBirth": "1963-11-23",
+        "birthPlace": "Evanston",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson",
+          "military flight engineer"
+        ],
+        "education": [
+          "Robert R. McCormick School of Engineering and Applied Science",
+          "Libertyville High School"
+        ],
+        "employers": [
+          {
+            "company": "Microcosm",
+            "start": "1998-01-01",
+            "end": "2002-01-01"
+          },
+          {
+            "company": "The Aerospace Corporation",
+            "start": "1988-01-01",
+            "end": "1998-01-01"
+          },
+          {
+            "company": "Chrysler",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-01-01",
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief operating officer",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "president",
+            "company": null,
+            "start": "2008-01-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q132533440",
       "name": "Bret Johnsen",
       "role_at_company": "Board Member",
@@ -136,17 +261,17 @@
         "education": [],
         "employers": [
           {
-            "company": "SpaceX",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Mindspeed Technologies",
             "start": null,
             "end": null
           },
           {
             "company": "Broadcom",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "SpaceX",
             "start": null,
             "end": null
           }
@@ -221,131 +346,6 @@
       }
     },
     {
-      "qid": "Q9079904",
-      "name": "Steve Jurvetson",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q9079904",
-        "name": "Steve Jurvetson",
-        "dateOfBirth": "1967-03-01",
-        "birthPlace": "Arizona",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
-        "occupations": [
-          "business executive",
-          "businessperson",
-          "philanthropist"
-        ],
-        "education": [
-          "Stanford University",
-          "St. Mark's School of Texas",
-          "Stanford Graduate School of Business"
-        ],
-        "employers": [
-          {
-            "company": "NeXT",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Hewlett-Packard",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Draper Fisher Jurvetson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bain & Company",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6702205",
-      "name": "Luke Nosek",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6702205",
-        "name": "Luke Nosek",
-        "dateOfBirth": "1975-01-01",
-        "birthPlace": "Tarn\u00f3w",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Graphing%20Social%20Patterns%2007%20-%20IMG%209586%20%281527725262%29.jpg",
-        "occupations": [
-          "engineer"
-        ],
-        "education": [
-          "University of Illinois Urbana-Champaign"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q1557944",
-      "name": "Gwynne Shotwell",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q1557944",
-        "name": "Gwynne Shotwell",
-        "dateOfBirth": "1963-11-23",
-        "birthPlace": "Evanston",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
-        "occupations": [
-          "businessperson",
-          "entrepreneur",
-          "military flight engineer"
-        ],
-        "education": [
-          "Robert R. McCormick School of Engineering and Applied Science",
-          "Libertyville High School"
-        ],
-        "employers": [
-          {
-            "company": "Chrysler",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-01-01",
-            "end": null
-          },
-          {
-            "company": "Microcosm",
-            "start": "1998-01-01",
-            "end": "2002-01-01"
-          },
-          {
-            "company": "The Aerospace Corporation",
-            "start": "1988-01-01",
-            "end": "1998-01-01"
-          }
-        ],
-        "positions": [
-          {
-            "title": "chief operating officer",
-            "company": null,
-            "start": null,
-            "end": null
-          },
-          {
-            "title": "president",
-            "company": null,
-            "start": "2008-01-01",
-            "end": null
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q317521",
       "name": "Elon Musk",
       "role_at_company": "Board Member",
@@ -357,13 +357,13 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
+          "philanthropist",
+          "technology entrepreneur",
           "dub actor",
           "financier",
           "investor",
-          "technology entrepreneur",
           "programmer",
-          "civil servant",
-          "philanthropist",
           "inventor",
           "entrepreneur",
           "engineer",
@@ -374,22 +374,32 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -402,23 +412,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-06-01",
             "end": null
           }
         ],
@@ -474,13 +474,13 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
+          "civil servant",
+          "philanthropist",
+          "technology entrepreneur",
           "dub actor",
           "financier",
           "investor",
-          "technology entrepreneur",
           "programmer",
-          "civil servant",
-          "philanthropist",
           "inventor",
           "entrepreneur",
           "engineer",
@@ -491,22 +491,32 @@
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
-          "Stanford University",
           "Queen's University",
           "The Wharton School",
+          "University of Pretoria",
           "University of Pennsylvania",
-          "University of Pretoria"
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
+          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
+            "company": "PayPal",
+            "start": "1998-12-01",
+            "end": null
+          },
+          {
+            "company": "The Boring Company",
+            "start": "2016-12-17",
+            "end": null
           },
           {
             "company": "SolarCity",
@@ -519,23 +529,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "The Boring Company",
-            "start": "2016-12-17",
-            "end": null
-          },
-          {
-            "company": "PayPal",
-            "start": "1998-12-01",
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
             "company": "Tesla",
             "start": "2004-04-23",
-            "end": null
-          },
-          {
-            "company": "SpaceX",
-            "start": "2002-06-01",
             "end": null
           }
         ],

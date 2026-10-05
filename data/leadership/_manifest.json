@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T12:02:37.081451Z",
-  "totalPeople": 169,
-  "totalTickers": 43,
-  "lastRangeFilter": "H-M",
-  "thisRunPeople": 29,
-  "thisRunTickers": 56,
+  "generatedAt": "2026-10-05T14:04:00.209194Z",
+  "totalPeople": 174,
+  "totalTickers": 47,
+  "lastRangeFilter": "N-Z",
+  "thisRunPeople": 51,
+  "thisRunTickers": 109,
   "index": [
     {
       "qid": "Q370191",
@@ -1713,6 +1713,56 @@
       ],
       "positionsCount": 0,
       "employersCount": 1
+    },
+    {
+      "qid": "Q6281101",
+      "name": "Joseph Elias Aoun",
+      "slug": "joseph-elias-aoun",
+      "tickers": [
+        "NEU"
+      ],
+      "positionsCount": 1,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q6914927",
+      "name": "Morton O. Schapiro",
+      "slug": "morton-o-schapiro",
+      "tickers": [
+        "NU"
+      ],
+      "positionsCount": 0,
+      "employersCount": 2
+    },
+    {
+      "qid": "Q8018403",
+      "name": "William Shippen",
+      "slug": "william-shippen",
+      "tickers": [
+        "PENN"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q34969",
+      "name": "Benjamin Franklin",
+      "slug": "benjamin-franklin",
+      "tickers": [
+        "PENN"
+      ],
+      "positionsCount": 7,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q5930408",
+      "name": "Jes\u00fas Mar\u00eda Sanz-Serna",
+      "slug": "jes-s-mar-a-sanz-serna",
+      "tickers": [
+        "RACE"
+      ],
+      "positionsCount": 3,
+      "employersCount": 2
     }
   ]
 }

@@ -1,5 +1,49 @@
 {
   "ticker": "NEU",
-  "fetchedAt": "2026-09-28T13:20:23.985036Z",
-  "people": []
+  "fetchedAt": "2026-10-05T14:04:00.173920Z",
+  "people": [
+    {
+      "qid": "Q6281101",
+      "name": "Joseph Elias Aoun",
+      "role_at_company": "Chairperson",
+      "source_field": "executives",
+      "career": {
+        "qid": "Q6281101",
+        "name": "Joseph Elias Aoun",
+        "dateOfBirth": "1953-03-26",
+        "birthPlace": "Beirut",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Aoun%20%282897155178%29%20%28cropped%29.jpg",
+        "occupations": [
+          "linguist",
+          "philosopher",
+          "university president"
+        ],
+        "education": [
+          "Saint Joseph University of Beirut",
+          "Massachusetts Institute of Technology",
+          "University of Paris"
+        ],
+        "employers": [
+          {
+            "company": "Northeastern University",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "University of Southern California",
+            "start": null,
+            "end": "2006-01-01"
+          }
+        ],
+        "positions": [
+          {
+            "title": "president",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
 }
