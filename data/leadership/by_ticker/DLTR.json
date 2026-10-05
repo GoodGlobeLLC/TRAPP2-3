@@ -1,6 +1,6 @@
 {
   "ticker": "DLTR",
-  "fetchedAt": "2026-09-28T10:31:53.152425Z",
+  "fetchedAt": "2026-10-05T11:10:41.190203Z",
   "people": [
     {
       "qid": "Q123520943",
@@ -11,7 +11,7 @@
         "qid": "Q123520943",
         "name": "Macon Foscue Brock, Jr.",
         "dateOfBirth": "1942-04-11",
-        "birthPlace": null,
+        "birthPlace": "Norfolk",
         "image": null,
         "occupations": [
           "philanthropist",
@@ -37,7 +37,7 @@
         "qid": "Q123520943",
         "name": "Macon Foscue Brock, Jr.",
         "dateOfBirth": "1942-04-11",
-        "birthPlace": null,
+        "birthPlace": "Norfolk",
         "image": null,
         "occupations": [
           "philanthropist",

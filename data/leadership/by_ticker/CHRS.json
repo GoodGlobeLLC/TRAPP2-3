@@ -1,5 +1,35 @@
 {
   "ticker": "CHRS",
-  "fetchedAt": "2026-09-28T10:31:53.148785Z",
-  "people": []
+  "fetchedAt": "2026-10-05T11:10:41.186612Z",
+  "people": [
+    {
+      "qid": "Q141592937",
+      "name": "Kenneth Basalik",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q141592937",
+        "name": "Kenneth Basalik",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "archaeologist",
+          "researcher"
+        ],
+        "education": [
+          "University of Pennsylvania",
+          "Temple University"
+        ],
+        "employers": [
+          {
+            "company": "Cultural Heritage Research Services",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }
