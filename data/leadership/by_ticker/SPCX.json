@@ -1,6 +1,6 @@
 {
   "ticker": "SPCX",
-  "fetchedAt": "2026-10-05T14:04:00.188288Z",
+  "fetchedAt": "2026-10-12T14:55:47.806443Z",
   "people": [
     {
       "qid": "Q317521",
@@ -14,48 +14,47 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
-          "philanthropist",
           "technology entrepreneur",
+          "philanthropist",
           "dub actor",
-          "financier",
           "investor",
-          "programmer",
-          "inventor",
+          "financier",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "programmer",
+          "civil servant",
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "University of Pennsylvania",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -69,13 +68,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -131,9 +130,9 @@
         "birthPlace": "Arizona",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
         "occupations": [
-          "business executive",
+          "businessperson",
           "philanthropist",
-          "businessperson"
+          "business executive"
         ],
         "education": [
           "Stanford University",
@@ -142,7 +141,12 @@
         ],
         "employers": [
           {
-            "company": "Hewlett-Packard",
+            "company": "Draper Fisher Jurvetson",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Bain & Company",
             "start": null,
             "end": null
           },
@@ -152,12 +156,7 @@
             "end": null
           },
           {
-            "company": "Draper Fisher Jurvetson",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "Bain & Company",
+            "company": "Hewlett-Packard",
             "start": null,
             "end": null
           }
@@ -198,25 +197,15 @@
         "birthPlace": "Evanston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gwynne%20Shotwell%20at%20pre-launch%20briefing%20for%20CRS-2%20mission%20%28KSC-2013-1704%29.jpg",
         "occupations": [
+          "military flight engineer",
           "entrepreneur",
-          "businessperson",
-          "military flight engineer"
+          "businessperson"
         ],
         "education": [
           "Robert R. McCormick School of Engineering and Applied Science",
           "Libertyville High School"
         ],
         "employers": [
-          {
-            "company": "Microcosm",
-            "start": "1998-01-01",
-            "end": "2002-01-01"
-          },
-          {
-            "company": "The Aerospace Corporation",
-            "start": "1988-01-01",
-            "end": "1998-01-01"
-          },
           {
             "company": "Chrysler",
             "start": null,
@@ -226,6 +215,16 @@
             "company": "SpaceX",
             "start": "2002-01-01",
             "end": null
+          },
+          {
+            "company": "Microcosm",
+            "start": "1998-01-01",
+            "end": "2002-01-01"
+          },
+          {
+            "company": "The Aerospace Corporation",
+            "start": "1988-01-01",
+            "end": "1998-01-01"
           }
         ],
         "positions": [
@@ -261,17 +260,17 @@
         "education": [],
         "employers": [
           {
+            "company": "SpaceX",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Mindspeed Technologies",
             "start": null,
             "end": null
           },
           {
             "company": "Broadcom",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "SpaceX",
             "start": null,
             "end": null
           }
@@ -357,48 +356,47 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
-          "philanthropist",
           "technology entrepreneur",
+          "philanthropist",
           "dub actor",
-          "financier",
           "investor",
-          "programmer",
-          "inventor",
+          "financier",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "programmer",
+          "civil servant",
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "University of Pennsylvania",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -412,13 +410,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
@@ -474,48 +472,47 @@
         "birthPlace": "Pretoria",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20%2854816836217%29%20%28cropped%202%29%20%28b%29.jpg",
         "occupations": [
-          "civil servant",
-          "philanthropist",
           "technology entrepreneur",
+          "philanthropist",
           "dub actor",
-          "financier",
           "investor",
-          "programmer",
-          "inventor",
+          "financier",
           "entrepreneur",
-          "engineer",
-          "politician"
+          "programmer",
+          "civil servant",
+          "politician",
+          "engineer"
         ],
         "education": [
           "Smith School of Business",
           "Bryanston High School",
           "Waterkloof House Preparatory School",
           "Pretoria Boys High School",
+          "University of Pennsylvania",
           "Queen's University",
           "The Wharton School",
           "University of Pretoria",
-          "University of Pennsylvania",
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "Department of Government Efficiency",
-            "start": "2025-01-20",
-            "end": "2025-05-30"
-          },
           {
             "company": "Neuralink",
             "start": "2016-07-01",
             "end": null
           },
           {
-            "company": "PayPal",
-            "start": "1998-12-01",
-            "end": null
+            "company": "Department of Government Efficiency",
+            "start": "2025-01-20",
+            "end": "2025-05-30"
           },
           {
             "company": "The Boring Company",
             "start": "2016-12-17",
+            "end": null
+          },
+          {
+            "company": "SpaceX",
+            "start": "2002-06-01",
             "end": null
           },
           {
@@ -529,13 +526,13 @@
             "end": "2019-01-01"
           },
           {
-            "company": "SpaceX",
-            "start": "2002-06-01",
+            "company": "Tesla",
+            "start": "2004-04-23",
             "end": null
           },
           {
-            "company": "Tesla",
-            "start": "2004-04-23",
+            "company": "PayPal",
+            "start": "1998-12-01",
             "end": null
           }
         ],
