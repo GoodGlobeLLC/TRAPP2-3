@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-05T11:10:41.192452Z",
+  "fetchedAt": "2026-10-12T11:40:33.002656Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -10,13 +10,31 @@
       "career": {
         "qid": "Q115614624",
         "name": "Ariane Gorin",
-        "dateOfBirth": null,
+        "dateOfBirth": "1975-01-01",
         "birthPlace": null,
         "image": null,
-        "occupations": [],
-        "education": [],
-        "employers": [],
-        "positions": []
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "University of California, Berkeley",
+          "Kellogg School of Management"
+        ],
+        "employers": [
+          {
+            "company": "Expedia Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-05-01",
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -31,9 +49,9 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
+          "entrepreneur",
           "film producer",
-          "business executive",
-          "entrepreneur"
+          "business executive"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -41,17 +59,17 @@
         ],
         "employers": [
           {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Paramount Pictures",
             "start": null,
             "end": null
           },
           {
             "company": "American Broadcasting Company",
-            "start": null,
-            "end": null
-          },
-          {
-            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -72,20 +90,20 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
           "children's writer",
-          "film producer",
-          "journalist",
           "university teacher",
+          "journalist",
+          "film producer",
+          "businessperson",
+          "entrepreneur",
           "political scientist",
           "historian",
-          "entrepreneur",
-          "businessperson",
           "writer"
         ],
         "education": [
+          "Stanford University",
           "Sidwell Friends School",
           "Robert F. Wagner Graduate School of Public Service",
           "University College, Oxford",
-          "Stanford University",
           "Mann Arts and Science Magnet Middle School",
           "Columbia University Mailman School of Public Health"
         ],
@@ -101,8 +119,8 @@
             "end": "2006-01-01"
           },
           {
-            "company": "Avenue Capital Group",
-            "start": "2006-01-01",
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           },
           {
@@ -116,8 +134,8 @@
             "end": null
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Avenue Capital Group",
+            "start": "2006-01-01",
             "end": null
           },
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-10-05T11:10:41.193304Z",
+  "fetchedAt": "2026-10-12T11:40:33.003567Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -14,12 +14,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "lawyer"
+          "lawyer",
+          "entrepreneur"
         ],
         "education": [
-          "Cornell University",
-          "New York University School of Law"
+          "New York University School of Law",
+          "Cornell University"
         ],
         "employers": [
           {
@@ -89,22 +89,16 @@
             "end": null
           },
           {
-            "title": "general counsel",
+            "title": "member of the board of trustees",
             "company": null,
-            "start": "2009-01-01",
-            "end": "2010-01-01"
+            "start": null,
+            "end": null
           },
           {
             "title": "chief executive officer",
             "company": null,
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "title": "member of the board of trustees",
-            "company": null,
-            "start": null,
-            "end": null
           },
           {
             "title": "chief administrative officer",
@@ -114,6 +108,12 @@
           },
           {
             "title": "executive vice president",
+            "company": null,
+            "start": "2009-01-01",
+            "end": "2010-01-01"
+          },
+          {
+            "title": "general counsel",
             "company": null,
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -218,15 +218,15 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "politician",
           "economist",
-          "businessperson",
-          "lawyer"
+          "politician",
+          "lawyer",
+          "businessperson"
         ],
         "education": [
+          "University of Kansas School of Law",
           "University of Kansas",
-          "University of Massachusetts Amherst",
-          "University of Kansas School of Law"
+          "University of Massachusetts Amherst"
         ],
         "employers": [
           {
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "Stanford Graduate School of Business"
         ],
         "employers": [],
         "positions": []
@@ -284,8 +284,8 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "businessperson",
-          "adjunct professor"
+          "adjunct professor",
+          "businessperson"
         ],
         "education": [
           "College of Europe",
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Boston University",
-          "Fisk University"
+          "Fisk University",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -421,8 +421,8 @@
           "businessperson"
         ],
         "education": [
-          "Princeton University",
-          "Stanford University"
+          "Stanford University",
+          "Princeton University"
         ],
         "employers": [
           {
@@ -476,9 +476,9 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "law professor",
           "university teacher",
-          "jurist"
+          "jurist",
+          "law professor"
         ],
         "education": [],
         "employers": [],

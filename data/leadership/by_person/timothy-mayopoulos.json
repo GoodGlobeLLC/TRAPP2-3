@@ -5,12 +5,12 @@
   "birthPlace": null,
   "image": null,
   "occupations": [
-    "entrepreneur",
-    "lawyer"
+    "lawyer",
+    "entrepreneur"
   ],
   "education": [
-    "Cornell University",
-    "New York University School of Law"
+    "New York University School of Law",
+    "Cornell University"
   ],
   "employers": [
     {
@@ -80,22 +80,16 @@
       "end": null
     },
     {
-      "title": "general counsel",
+      "title": "member of the board of trustees",
       "company": null,
-      "start": "2009-01-01",
-      "end": "2010-01-01"
+      "start": null,
+      "end": null
     },
     {
       "title": "chief executive officer",
       "company": null,
       "start": "2012-01-01",
       "end": "2018-01-01"
-    },
-    {
-      "title": "member of the board of trustees",
-      "company": null,
-      "start": null,
-      "end": null
     },
     {
       "title": "chief administrative officer",
@@ -105,6 +99,12 @@
     },
     {
       "title": "executive vice president",
+      "company": null,
+      "start": "2009-01-01",
+      "end": "2010-01-01"
+    },
+    {
+      "title": "general counsel",
       "company": null,
       "start": "2009-01-01",
       "end": "2010-01-01"

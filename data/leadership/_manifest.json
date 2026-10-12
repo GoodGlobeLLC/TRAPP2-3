@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T14:04:00.209194Z",
+  "generatedAt": "2026-10-12T11:40:33.021261Z",
   "totalPeople": 174,
   "totalTickers": 47,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 51,
-  "thisRunTickers": 109,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 59,
+  "thisRunTickers": 85,
   "index": [
     {
       "qid": "Q370191",
@@ -23,8 +23,8 @@
       "tickers": [
         "EXPE"
       ],
-      "positionsCount": 0,
-      "employersCount": 0
+      "positionsCount": 1,
+      "employersCount": 1
     },
     {
       "qid": "Q587455",
