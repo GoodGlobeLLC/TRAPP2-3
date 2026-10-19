@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-10-12T11:40:32.997300Z",
+  "fetchedAt": "2026-10-19T09:35:46.565121Z",
   "people": [
     {
       "qid": "Q5621289",
@@ -170,10 +170,10 @@
         "birthPlace": "Hinchinbrooke",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Hales%20Hingston%201867.jpg",
         "occupations": [
-          "surgeon",
           "banker",
-          "politician",
+          "surgeon",
           "physician",
+          "politician",
           "writer"
         ],
         "education": [
@@ -356,8 +356,8 @@
         "birthPlace": "Upper Canada",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wm%20Canniff.jpg",
         "occupations": [
-          "historian",
-          "surgeon"
+          "surgeon",
+          "historian"
         ],
         "education": [
           "New York University"
@@ -447,9 +447,9 @@
         "occupations": [
           "surgeon",
           "university teacher",
-          "physician",
+          "dean",
           "politician",
-          "dean"
+          "physician"
         ],
         "education": [
           "Nova Scotia Teachers College",
@@ -496,10 +496,10 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
-          "naval officer",
-          "prince consort",
           "polo player",
-          "military officer"
+          "military officer",
+          "naval officer",
+          "prince consort"
         ],
         "education": [
           "Cheam School",
@@ -582,8 +582,8 @@
         "birthPlace": "Winnipeg",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/F%20Gigi%20Osler%2C%20Canadian%20Medical%20Association.jpg",
         "occupations": [
-          "university teacher",
           "surgeon",
+          "university teacher",
           "physician"
         ],
         "education": [

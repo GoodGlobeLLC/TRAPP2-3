@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-12T11:40:33.002656Z",
+  "fetchedAt": "2026-10-19T09:35:46.570499Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -49,9 +49,9 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "entrepreneur",
           "film producer",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -59,17 +59,17 @@
         ],
         "employers": [
           {
-            "company": "William Morris Agency",
-            "start": null,
-            "end": null
-          },
-          {
             "company": "Paramount Pictures",
             "start": null,
             "end": null
           },
           {
             "company": "American Broadcasting Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "William Morris Agency",
             "start": null,
             "end": null
           }
@@ -91,23 +91,28 @@
         "occupations": [
           "children's writer",
           "university teacher",
-          "journalist",
           "film producer",
-          "businessperson",
-          "entrepreneur",
+          "journalist",
           "political scientist",
+          "entrepreneur",
+          "writer",
           "historian",
-          "writer"
+          "businessperson"
         ],
         "education": [
-          "Stanford University",
           "Sidwell Friends School",
           "Robert F. Wagner Graduate School of Public Service",
           "University College, Oxford",
           "Mann Arts and Science Magnet Middle School",
-          "Columbia University Mailman School of Public Health"
+          "Columbia University Mailman School of Public Health",
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -119,8 +124,8 @@
             "end": "2006-01-01"
           },
           {
-            "company": "New York University",
-            "start": "2010-01-01",
+            "company": "Avenue Capital Group",
+            "start": "2006-01-01",
             "end": null
           },
           {
@@ -134,14 +139,9 @@
             "end": null
           },
           {
-            "company": "Avenue Capital Group",
-            "start": "2006-01-01",
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
-          },
-          {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
           }
         ],
         "positions": []
