@@ -1,6 +1,6 @@
 {
   "ticker": "HTZ",
-  "fetchedAt": "2026-10-12T12:46:45.005767Z",
+  "fetchedAt": "2026-10-19T10:31:42.611096Z",
   "people": [
     {
       "qid": "Q6377142",
@@ -17,9 +17,9 @@
           "businessperson"
         ],
         "education": [
-          "State University of New York at Albany",
           "Hofstra University",
-          "Lund University"
+          "Lund University",
+          "State University of New York at Albany"
         ],
         "employers": [],
         "positions": []
@@ -37,12 +37,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "judge",
-          "business executive"
+          "business executive",
+          "judge"
         ],
         "education": [
-          "Columbia University",
           "University of Chicago",
+          "Columbia University",
           "Booth School of Business"
         ],
         "employers": [],
@@ -64,9 +64,9 @@
           "businessperson"
         ],
         "education": [
-          "State University of New York at Albany",
           "Hofstra University",
-          "Lund University"
+          "Lund University",
+          "State University of New York at Albany"
         ],
         "employers": [],
         "positions": []

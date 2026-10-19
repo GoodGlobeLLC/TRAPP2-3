@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-10-12T12:46:45.004977Z",
+  "fetchedAt": "2026-10-19T10:31:42.610277Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -38,8 +38,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Harvard Business School",
-          "Princeton University"
+          "Princeton University",
+          "Harvard Business School"
         ],
         "employers": [],
         "positions": []
@@ -105,9 +105,9 @@
           "businessperson"
         ],
         "education": [
-          "University of Iowa",
           "John F. Kennedy School of Government",
-          "Harvard Law School"
+          "Harvard Law School",
+          "University of Iowa"
         ],
         "employers": [],
         "positions": []
@@ -151,11 +151,16 @@
           "university teacher"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "Iowa State University",
-          "Indian Institute of Technology Madras",
-          "Massachusetts Institute of Technology"
+          "Indian Institute of Technology Madras"
         ],
         "employers": [
+          {
+            "company": "Carnegie Mellon University",
+            "start": null,
+            "end": null
+          },
           {
             "company": "Nanyang Technological University",
             "start": null,
@@ -164,11 +169,6 @@
           {
             "company": "Singapore Management University",
             "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "company": "Carnegie Mellon University",
-            "start": null,
             "end": null
           },
           {
@@ -195,8 +195,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -217,9 +217,9 @@
           "chemist"
         ],
         "education": [
-          "Iowa State University",
           "Florida International University",
-          "University of Montpellier"
+          "University of Montpellier",
+          "Iowa State University"
         ],
         "employers": [],
         "positions": []
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
+          "computer scientist",
           "engineer",
-          "entrepreneur",
-          "computer scientist"
+          "entrepreneur"
         ],
         "education": [
           "Stanford University",

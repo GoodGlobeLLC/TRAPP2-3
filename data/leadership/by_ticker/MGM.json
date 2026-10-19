@@ -1,6 +1,6 @@
 {
   "ticker": "MGM",
-  "fetchedAt": "2026-10-12T12:46:45.014101Z",
+  "fetchedAt": "2026-10-19T10:31:42.619650Z",
   "people": [
     {
       "qid": "Q1373662",
@@ -14,8 +14,8 @@
         "birthPlace": "New York City",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Loew.jpg",
         "occupations": [
-          "film producer",
           "impresario",
+          "film producer",
           "entrepreneur"
         ],
         "education": [],
