@@ -1,24 +1,29 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-10-12T14:55:47.802760Z",
+  "fetchedAt": "2026-10-19T12:37:26.085903Z",
   "people": [
     {
-      "qid": "Q24795213",
+      "qid": "Q137910641",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q24795213",
+        "qid": "Q137910641",
         "name": "Eddie Wilson",
-        "dateOfBirth": "1936-06-05",
-        "birthPlace": "Ludwigsburg",
+        "dateOfBirth": null,
+        "birthPlace": null,
         "image": null,
         "occupations": [
-          "singer",
-          "musician"
+          "chief executive officer"
         ],
         "education": [],
-        "employers": [],
+        "employers": [
+          {
+            "company": "Ryanair",
+            "start": null,
+            "end": null
+          }
+        ],
         "positions": []
       }
     },
@@ -69,13 +74,13 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "CBS Thurles",
           "Northwestern University",
-          "Trinity College, Dublin"
+          "Trinity College, Dublin",
+          "CBS Thurles"
         ],
         "employers": [],
         "positions": [
@@ -100,13 +105,13 @@
         "birthPlace": "Thurles",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "CBS Thurles",
           "Northwestern University",
-          "Trinity College, Dublin"
+          "Trinity College, Dublin",
+          "CBS Thurles"
         ],
         "employers": [],
         "positions": [

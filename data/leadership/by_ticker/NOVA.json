@@ -1,6 +1,6 @@
 {
   "ticker": "NOVA",
-  "fetchedAt": "2026-10-12T14:55:47.791662Z",
+  "fetchedAt": "2026-10-19T12:37:26.073465Z",
   "people": [
     {
       "qid": "Q38589106",
@@ -19,9 +19,9 @@
           "physician"
         ],
         "education": [
-          "University of Chicago",
           "John F. Kennedy School of Government",
-          "Harvard Medical School"
+          "Harvard Medical School",
+          "University of Chicago"
         ],
         "employers": [
           {
