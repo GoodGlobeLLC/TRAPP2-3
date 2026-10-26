@@ -1,6 +1,6 @@
 {
   "ticker": "NEU",
-  "fetchedAt": "2026-10-19T12:37:26.072206Z",
+  "fetchedAt": "2026-10-26T12:40:53.105806Z",
   "people": [
     {
       "qid": "Q6281101",
@@ -19,9 +19,9 @@
           "university president"
         ],
         "education": [
+          "Massachusetts Institute of Technology",
           "University of Paris",
-          "Saint Joseph University of Beirut",
-          "Massachusetts Institute of Technology"
+          "Saint Joseph University of Beirut"
         ],
         "employers": [
           {

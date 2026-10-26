@@ -1,6 +1,6 @@
 {
   "ticker": "PENN",
-  "fetchedAt": "2026-10-19T12:37:26.080688Z",
+  "fetchedAt": "2026-10-26T12:40:53.111597Z",
   "people": [
     {
       "qid": "Q8018403",
@@ -15,12 +15,12 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/William%20Shippen%20-%20by%20Charles%20Willson%20Peale%20after%20a%20portrait%20by%20Gilbert%20Stuart.jpg",
         "occupations": [
           "university teacher",
-          "military physician",
-          "physician"
+          "physician",
+          "military physician"
         ],
         "education": [
-          "University of Edinburgh",
           "Princeton University",
+          "University of Edinburgh",
           "West Nottingham Academy"
         ],
         "employers": [
@@ -52,9 +52,9 @@
         "birthPlace": "Boston",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg",
         "occupations": [
+          "diplomat",
           "polymath",
           "politician",
-          "diplomat",
           "writer"
         ],
         "education": [
