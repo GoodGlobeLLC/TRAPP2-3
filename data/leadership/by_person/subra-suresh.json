@@ -8,16 +8,11 @@
     "university teacher"
   ],
   "education": [
-    "Massachusetts Institute of Technology",
     "Iowa State University",
-    "Indian Institute of Technology Madras"
+    "Indian Institute of Technology Madras",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [
-    {
-      "company": "Carnegie Mellon University",
-      "start": null,
-      "end": null
-    },
     {
       "company": "Nanyang Technological University",
       "start": null,
@@ -26,6 +21,11 @@
     {
       "company": "Singapore Management University",
       "start": "2018-01-01",
+      "end": null
+    },
+    {
+      "company": "Carnegie Mellon University",
+      "start": null,
       "end": null
     },
     {
