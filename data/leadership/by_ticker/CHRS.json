@@ -1,6 +1,6 @@
 {
   "ticker": "CHRS",
-  "fetchedAt": "2026-10-19T09:35:46.564068Z",
+  "fetchedAt": "2026-10-26T09:41:18.841265Z",
   "people": [
     {
       "qid": "Q141592937",
@@ -14,12 +14,12 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "archaeologist",
-          "researcher"
+          "researcher",
+          "archaeologist"
         ],
         "education": [
-          "Temple University",
-          "University of Pennsylvania"
+          "University of Pennsylvania",
+          "Temple University"
         ],
         "employers": [
           {

@@ -1,6 +1,6 @@
 {
   "ticker": "ADDYY",
-  "fetchedAt": "2026-10-19T09:35:46.556195Z",
+  "fetchedAt": "2026-10-26T09:41:18.830745Z",
   "people": [
     {
       "qid": "Q370191",
@@ -21,6 +21,11 @@
         "education": [],
         "employers": [
           {
+            "company": "Adidas AG",
+            "start": "2023-01-01",
+            "end": null
+          },
+          {
             "company": "Salling Group",
             "start": null,
             "end": null
@@ -29,11 +34,6 @@
             "company": "Puma",
             "start": "2013-01-01",
             "end": "2022-01-01"
-          },
-          {
-            "company": "Adidas AG",
-            "start": "2023-01-01",
-            "end": null
           }
         ],
         "positions": []

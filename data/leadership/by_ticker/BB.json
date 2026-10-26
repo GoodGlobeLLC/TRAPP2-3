@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-10-19T09:35:46.560565Z",
+  "fetchedAt": "2026-10-26T09:41:18.837781Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -19,9 +19,9 @@
         ],
         "education": [
           "California Institute of Technology",
+          "Brown University",
           "Northfield Mount Hermon School",
-          "La Salle College",
-          "Brown University"
+          "La Salle College"
         ],
         "employers": [
           {
