@@ -1,7 +1,7 @@
 {
   "ticker": "CHRS",
   "qid": "Q141592967",
-  "fetchedAt": "2026-10-01T08:14:54.507591Z",
+  "fetchedAt": "2026-11-01T08:53:11.238901Z",
   "source": "wikidata",
   "name": "Cultural Heritage Research Services",
   "description": "archaeological research and historic preservation firm",
@@ -9,7 +9,7 @@
   "isin": null,
   "inception": "1981-01-01",
   "employees": null,
-  "industry": "cultural resources management",
+  "industry": "archaeology",
   "headquarters": null,
   "executives": [],
   "board": [],

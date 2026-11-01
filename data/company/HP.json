@@ -1,7 +1,7 @@
 {
   "ticker": "HP",
   "qid": "Q80978",
-  "fetchedAt": "2026-10-01T08:23:11.802786Z",
+  "fetchedAt": "2026-11-01T09:18:06.194935Z",
   "source": "wikidata",
   "name": "Hewlett-Packard",
   "description": "American information technology company",
@@ -18,30 +18,6 @@
     }
   ],
   "board": [
-    {
-      "name": "Mary Anne Citrino",
-      "role": "Board Member"
-    },
-    {
-      "name": "Chip Bergh",
-      "role": "Board Member"
-    },
-    {
-      "name": "Shumeet Banerji",
-      "role": "Board Member"
-    },
-    {
-      "name": "Kim Rucker",
-      "role": "Board Member"
-    },
-    {
-      "name": "Enrique Lores",
-      "role": "Board Member"
-    },
-    {
-      "name": "Subra Suresh",
-      "role": "Board Member"
-    },
     {
       "name": "Stacy Brown-Philpot",
       "role": "Board Member"
@@ -69,6 +45,30 @@
     {
       "name": "A\u00edda \u00c1lvarez",
       "role": "Board Member"
+    },
+    {
+      "name": "Mary Anne Citrino",
+      "role": "Board Member"
+    },
+    {
+      "name": "Chip Bergh",
+      "role": "Board Member"
+    },
+    {
+      "name": "Shumeet Banerji",
+      "role": "Board Member"
+    },
+    {
+      "name": "Kim Rucker",
+      "role": "Board Member"
+    },
+    {
+      "name": "Enrique Lores",
+      "role": "Board Member"
+    },
+    {
+      "name": "Subra Suresh",
+      "role": "Board Member"
     }
   ],
   "founders": [
@@ -76,12 +76,18 @@
       "name": "David Packard"
     },
     {
-      "name": "William Redington Hewlett"
+      "name": "Bill Hewlett"
     }
   ],
   "products": [
     {
       "name": "tablet computer"
+    },
+    {
+      "name": "image scanner"
+    },
+    {
+      "name": "computer storage media"
     },
     {
       "name": "networking hardware"
@@ -93,22 +99,13 @@
       "name": "pocket computer"
     },
     {
-      "name": "image scanner"
+      "name": "server"
     },
     {
       "name": "digital camera"
     },
     {
-      "name": "computer storage media"
-    },
-    {
-      "name": "server"
-    },
-    {
       "name": "smartphone"
-    },
-    {
-      "name": "software"
     },
     {
       "name": "mobile phone"
@@ -117,13 +114,16 @@
       "name": "personal computer"
     },
     {
+      "name": "software"
+    },
+    {
       "name": "computer hardware"
     },
     {
-      "name": "printer"
+      "name": "laptop"
     },
     {
-      "name": "laptop"
+      "name": "printer"
     },
     {
       "name": "computer"

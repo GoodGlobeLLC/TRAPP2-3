@@ -1,7 +1,7 @@
 {
   "ticker": "DB",
   "qid": "Q9322",
-  "fetchedAt": "2026-10-01T08:16:43.707345Z",
+  "fetchedAt": "2026-11-01T08:58:12.924804Z",
   "source": "wikidata",
   "name": "Deutsche Bahn",
   "description": "German logistics company",
@@ -12,7 +12,24 @@
   "industry": "rail transport",
   "headquarters": "BahnTower",
   "executives": [],
-  "board": [],
+  "board": [
+    {
+      "name": "Bernhard Osburg",
+      "role": "Board Member"
+    },
+    {
+      "name": "Daniela Gerd tom Markotten",
+      "role": "Board Member"
+    },
+    {
+      "name": "Michael Peterson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Martin Seiler",
+      "role": "Board Member"
+    }
+  ],
   "founders": [],
   "products": [
     {

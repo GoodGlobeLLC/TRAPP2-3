@@ -1,7 +1,7 @@
 {
   "ticker": "CMA",
   "qid": "Q2867874",
-  "fetchedAt": "2026-10-01T08:15:27.957899Z",
+  "fetchedAt": "2026-11-01T08:54:56.793856Z",
   "source": "wikidata",
   "name": "Canadian Medical Association",
   "description": "association of doctors in Canada",
@@ -13,27 +13,11 @@
   "headquarters": "Ottawa",
   "executives": [
     {
-      "name": "Gustave Gingras",
+      "name": "Charles Tupper",
       "role": "Chairperson"
     },
     {
-      "name": "Duncan Archibald Graham",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Daniel McNeill Parker",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Brian Day",
-      "role": "Chairperson"
-    },
-    {
-      "name": "Bette Stephenson",
-      "role": "Chairperson"
-    },
-    {
-      "name": "William Hales Hingston",
+      "name": "Thomas George Roddick",
       "role": "Chairperson"
     },
     {
@@ -69,11 +53,27 @@
       "role": "Chairperson"
     },
     {
-      "name": "Thomas George Roddick",
+      "name": "Gustave Gingras",
       "role": "Chairperson"
     },
     {
-      "name": "Prince Philip, Duke of Edinburgh",
+      "name": "Duncan Archibald Graham",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Daniel McNeill Parker",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Brian Day",
+      "role": "Chairperson"
+    },
+    {
+      "name": "Bette Stephenson",
+      "role": "Chairperson"
+    },
+    {
+      "name": "William Hales Hingston",
       "role": "Chairperson"
     },
     {
@@ -85,7 +85,7 @@
       "role": "Chairperson"
     },
     {
-      "name": "Charles Tupper",
+      "name": "Prince Philip, Duke of Edinburgh",
       "role": "Chairperson"
     }
   ],

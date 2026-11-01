@@ -1,15 +1,15 @@
 {
   "ticker": "EXPE",
   "qid": "Q8085893",
-  "fetchedAt": "2026-10-01T08:18:28.622426Z",
+  "fetchedAt": "2026-11-01T09:04:15.660544Z",
   "source": "wikidata",
   "name": "Expedia Group",
   "description": "American-based parent company to several global online travel brands",
   "website": "https://www.expediagroup.com/",
   "isin": "US30212P3038",
   "inception": "1996-10-22",
-  "employees": null,
-  "industry": "tourism industry",
+  "employees": 16000,
+  "industry": "Travel technology",
   "headquarters": "Seattle",
   "executives": [
     {
@@ -22,6 +22,38 @@
     }
   ],
   "board": [
+    {
+      "name": "Henrique Dubugras",
+      "role": "Board Member"
+    },
+    {
+      "name": "Ariane Gorin",
+      "role": "Board Member"
+    },
+    {
+      "name": "Patricia Menendez-Cambo",
+      "role": "Board Member"
+    },
+    {
+      "name": "Craig Jacobson",
+      "role": "Board Member"
+    },
+    {
+      "name": "Alexandr Wang",
+      "role": "Board Member"
+    },
+    {
+      "name": "Dara Khosrowshahi",
+      "role": "Board Member"
+    },
+    {
+      "name": "Prince Alexander von F\u00fcrstenberg",
+      "role": "Board Member"
+    },
+    {
+      "name": "Barry Diller",
+      "role": "Board Member"
+    },
     {
       "name": "Chelsea Clinton",
       "role": "Board Member"

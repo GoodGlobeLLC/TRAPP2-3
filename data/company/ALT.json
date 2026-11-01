@@ -1,19 +1,23 @@
 {
   "ticker": "ALT",
-  "qid": "Q12720501",
-  "fetchedAt": "2026-10-01T08:10:49.646558Z",
+  "qid": "Q141732730",
+  "fetchedAt": "2026-11-01T08:39:58.456102Z",
   "source": "wikidata",
-  "name": "Q12720501",
-  "description": null,
-  "website": "https://altursa.ro/",
+  "name": "Altitude Group Plc",
+  "description": "British parent company of AIM Smarter and the AimIQ platform",
+  "website": "https://www.altitudeplc.com/",
   "isin": null,
-  "inception": "1979-01-01",
+  "inception": "2005-01-01",
   "employees": null,
   "industry": null,
-  "headquarters": "Slatina",
+  "headquarters": null,
   "executives": [],
   "board": [],
-  "founders": [],
+  "founders": [
+    {
+      "name": "Martin Varley"
+    }
+  ],
   "products": [],
   "countries": []
 }
