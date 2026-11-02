@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-10-26T12:40:53.115925Z",
+  "fetchedAt": "2026-11-02T15:12:22.266918Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -71,8 +71,8 @@
         "birthPlace": "Cape Town",
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "manager"
+          "manager",
+          "entrepreneur"
         ],
         "education": [
           "Stellenbosch University"
@@ -116,8 +116,8 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
         "occupations": [
-          "anatomist",
           "diplomat",
+          "anatomist",
           "politician",
           "military officer",
           "physician"
@@ -128,12 +128,12 @@
         ],
         "employers": [
           {
-            "company": "McGill University",
+            "company": "Foreign Office",
             "start": null,
             "end": null
           },
           {
-            "company": "Foreign Office",
+            "company": "McGill University",
             "start": null,
             "end": null
           },

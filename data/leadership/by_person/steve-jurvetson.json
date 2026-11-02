@@ -6,8 +6,8 @@
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Steve%20Jurvetson%202025.jpg",
   "occupations": [
     "philanthropist",
-    "businessperson",
-    "business executive"
+    "business executive",
+    "businessperson"
   ],
   "education": [
     "Stanford University",
@@ -16,22 +16,22 @@
   ],
   "employers": [
     {
-      "company": "NeXT",
-      "start": null,
-      "end": null
-    },
-    {
-      "company": "Hewlett-Packard",
-      "start": null,
-      "end": null
-    },
-    {
       "company": "Draper Fisher Jurvetson",
       "start": null,
       "end": null
     },
     {
       "company": "Bain & Company",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "NeXT",
+      "start": null,
+      "end": null
+    },
+    {
+      "company": "Hewlett-Packard",
       "start": null,
       "end": null
     }
