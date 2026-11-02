@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-10-26T10:46:19.023703Z",
+  "fetchedAt": "2026-11-02T13:04:45.660957Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -26,6 +26,172 @@
       }
     },
     {
+      "qid": "Q24572527",
+      "name": "Stacy Brown-Philpot",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q24572527",
+        "name": "Stacy Brown-Philpot",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Stanford University",
+          "The Wharton School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q22003518",
+      "name": "Stephanie A. Burns",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q22003518",
+        "name": "Stephanie A. Burns",
+        "dateOfBirth": "1955-01-24",
+        "birthPlace": "Torrington",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephanie%20Burns%20CHF-Innovation-Day-2011-Sept-20-075%20crop.jpg",
+        "occupations": [
+          "chemist"
+        ],
+        "education": [
+          "Iowa State University",
+          "Florida International University",
+          "University of Montpellier"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q21552573",
+      "name": "Rick Clemmer",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q21552573",
+        "name": "Rick Clemmer",
+        "dateOfBirth": "1955-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Southern Methodist University",
+          "Texas Tech University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q18379146",
+      "name": "Bruce Broussard",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q18379146",
+        "name": "Bruce Broussard",
+        "dateOfBirth": "1963-01-01",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Trump%20Delivers%20Remarks%20on%20Protecting%20Seniors%20with%20Diabetes%20%2849942093502%29%20%28cropped%29.jpg",
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q7349086",
+      "name": "Robert Bennett",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q7349086",
+        "name": "Robert Bennett",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "businessperson"
+        ],
+        "education": [
+          "Columbia Business School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q6146371",
+      "name": "Jami Miscik",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q6146371",
+        "name": "Jami Miscik",
+        "dateOfBirth": "1958-01-01",
+        "birthPlace": "Chicago",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jami%20Miscik.jpg",
+        "occupations": [
+          "intelligence analyst"
+        ],
+        "education": [
+          "Josef Korbel School of International Studies",
+          "University of Denver",
+          "Pepperdine University"
+        ],
+        "employers": [
+          {
+            "company": "Kissinger Associates",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4833246",
+      "name": "A\u00edda \u00c1lvarez",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4833246",
+        "name": "A\u00edda \u00c1lvarez",
+        "dateOfBirth": "1950-01-01",
+        "birthPlace": "Aguadilla",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aida%20Alvarez%20in%201999%20%2811B%29.jpg",
+        "occupations": [
+          "journalist",
+          "banker"
+        ],
+        "education": [
+          "Harvard University",
+          "Radcliffe College"
+        ],
+        "employers": [],
+        "positions": [
+          {
+            "title": "Administrator of the Small Business Administration",
+            "company": null,
+            "start": null,
+            "end": "2001-01-20"
+          }
+        ]
+      }
+    },
+    {
       "qid": "Q114601101",
       "name": "Mary Anne Citrino",
       "role_at_company": "Board Member",
@@ -38,8 +204,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Princeton University",
-          "Harvard Business School"
+          "Harvard Business School",
+          "Princeton University"
         ],
         "employers": [],
         "positions": []
@@ -181,172 +347,6 @@
       }
     },
     {
-      "qid": "Q24572527",
-      "name": "Stacy Brown-Philpot",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q24572527",
-        "name": "Stacy Brown-Philpot",
-        "dateOfBirth": null,
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Stanford University",
-          "The Wharton School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q22003518",
-      "name": "Stephanie A. Burns",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q22003518",
-        "name": "Stephanie A. Burns",
-        "dateOfBirth": "1955-01-24",
-        "birthPlace": "Torrington",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephanie%20Burns%20CHF-Innovation-Day-2011-Sept-20-075%20crop.jpg",
-        "occupations": [
-          "chemist"
-        ],
-        "education": [
-          "Florida International University",
-          "University of Montpellier",
-          "Iowa State University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q21552573",
-      "name": "Rick Clemmer",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q21552573",
-        "name": "Rick Clemmer",
-        "dateOfBirth": "1955-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "business executive"
-        ],
-        "education": [
-          "Southern Methodist University",
-          "Texas Tech University"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q18379146",
-      "name": "Bruce Broussard",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q18379146",
-        "name": "Bruce Broussard",
-        "dateOfBirth": "1963-01-01",
-        "birthPlace": null,
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/President%20Trump%20Delivers%20Remarks%20on%20Protecting%20Seniors%20with%20Diabetes%20%2849942093502%29%20%28cropped%29.jpg",
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q7349086",
-      "name": "Robert Bennett",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q7349086",
-        "name": "Robert Bennett",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": null,
-        "image": null,
-        "occupations": [
-          "businessperson"
-        ],
-        "education": [
-          "Columbia Business School"
-        ],
-        "employers": [],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q6146371",
-      "name": "Jami Miscik",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q6146371",
-        "name": "Jami Miscik",
-        "dateOfBirth": "1958-01-01",
-        "birthPlace": "Chicago",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jami%20Miscik.jpg",
-        "occupations": [
-          "intelligence analyst"
-        ],
-        "education": [
-          "Josef Korbel School of International Studies",
-          "University of Denver",
-          "Pepperdine University"
-        ],
-        "employers": [
-          {
-            "company": "Kissinger Associates",
-            "start": null,
-            "end": null
-          }
-        ],
-        "positions": []
-      }
-    },
-    {
-      "qid": "Q4833246",
-      "name": "A\u00edda \u00c1lvarez",
-      "role_at_company": "Board Member",
-      "source_field": "board",
-      "career": {
-        "qid": "Q4833246",
-        "name": "A\u00edda \u00c1lvarez",
-        "dateOfBirth": "1950-01-01",
-        "birthPlace": "Aguadilla",
-        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Aida%20Alvarez%20in%201999%20%2811B%29.jpg",
-        "occupations": [
-          "journalist",
-          "banker"
-        ],
-        "education": [
-          "Radcliffe College",
-          "Harvard University"
-        ],
-        "employers": [],
-        "positions": [
-          {
-            "title": "Administrator of the Small Business Administration",
-            "company": null,
-            "start": null,
-            "end": "2001-01-20"
-          }
-        ]
-      }
-    },
-    {
       "qid": "Q380484",
       "name": "David Packard",
       "role_at_company": "Founder",
@@ -358,8 +358,8 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
-          "entrepreneur",
           "engineer",
+          "entrepreneur",
           "computer scientist"
         ],
         "education": [
