@@ -1,6 +1,6 @@
 {
   "ticker": "DEO",
-  "fetchedAt": "2026-10-26T09:41:18.845068Z",
+  "fetchedAt": "2026-11-02T12:05:25.087277Z",
   "people": [
     {
       "qid": "Q16732482",
@@ -45,9 +45,9 @@
         ],
         "employers": [
           {
-            "company": "Bacardi",
+            "company": "Lion Capital LLP",
             "start": null,
-            "end": null
+            "end": "2019-01-01"
           },
           {
             "company": "Desigual",
@@ -65,9 +65,9 @@
             "end": null
           },
           {
-            "company": "Lion Capital LLP",
+            "company": "Bacardi",
             "start": null,
-            "end": "2019-01-01"
+            "end": null
           }
         ],
         "positions": []

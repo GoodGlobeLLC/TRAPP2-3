@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-10-26T09:41:18.847769Z",
+  "fetchedAt": "2026-11-02T12:05:25.090221Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "University of California, Berkeley",
-          "Kellogg School of Management"
+          "Kellogg School of Management",
+          "University of California, Berkeley"
         ],
         "employers": [
           {
@@ -50,12 +50,231 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "business executive",
-          "film producer",
-          "entrepreneur"
+          "entrepreneur",
+          "film producer"
         ],
         "education": [
-          "University of California, Los Angeles",
-          "Beverly Hills High School"
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
+        ],
+        "employers": [
+          {
+            "company": "Paramount Pictures",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "American Broadcasting Company",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "William Morris Agency",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q115735456",
+      "name": "Henrique Dubugras",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q115735456",
+        "name": "Henrique Dubugras",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q115614624",
+      "name": "Ariane Gorin",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q115614624",
+        "name": "Ariane Gorin",
+        "dateOfBirth": "1975-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "business executive"
+        ],
+        "education": [
+          "Kellogg School of Management",
+          "University of California, Berkeley"
+        ],
+        "employers": [
+          {
+            "company": "Expedia Group",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "chief executive officer",
+            "company": null,
+            "start": "2024-05-01",
+            "end": null
+          }
+        ]
+      }
+    },
+    {
+      "qid": "Q114837491",
+      "name": "Patricia Menendez-Cambo",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114837491",
+        "name": "Patricia Menendez-Cambo",
+        "dateOfBirth": "1966-01-01",
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q114692639",
+      "name": "Craig Jacobson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q114692639",
+        "name": "Craig Jacobson",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [],
+        "education": [
+          "Brown University",
+          "George Washington University Law School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q112629173",
+      "name": "Alexandr Wang",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q112629173",
+        "name": "Alexandr Wang",
+        "dateOfBirth": "1997-01-01",
+        "birthPlace": "Los Alamos",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Pousaz%20%26%20Alexandr%20Wang%20-%20The%20Grove%202022%20%28Wang%20crop%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "computer scientist",
+          "businessperson"
+        ],
+        "education": [
+          "Massachusetts Institute of Technology",
+          "Los Alamos High School"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q5221979",
+        "name": "Dara Khosrowshahi",
+        "dateOfBirth": "1969-05-28",
+        "birthPlace": "Tehran",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [
+          "Brown University",
+          "Hackley School"
+        ],
+        "employers": [
+          {
+            "company": "Uber",
+            "start": "2017-01-01",
+            "end": null
+          },
+          {
+            "company": "Expedia Group",
+            "start": "2004-01-01",
+            "end": "2017-01-01"
+          },
+          {
+            "company": "People Incorporated",
+            "start": null,
+            "end": null
+          },
+          {
+            "company": "Allen & Company",
+            "start": "1991-01-01",
+            "end": "1998-01-01"
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q4720526",
+      "name": "Prince Alexander von F\u00fcrstenberg",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q4720526",
+        "name": "Prince Alexander von F\u00fcrstenberg",
+        "dateOfBirth": "1970-01-25",
+        "birthPlace": "Malibu",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Von%20Furstenberg%20-profile.jpg",
+        "occupations": [
+          "businessperson",
+          "socialite"
+        ],
+        "education": [
+          "Brown University"
+        ],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q587455",
+      "name": "Barry Diller",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q587455",
+        "name": "Barry Diller",
+        "dateOfBirth": "1942-02-02",
+        "birthPlace": "San Francisco",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
+        "occupations": [
+          "business executive",
+          "entrepreneur",
+          "film producer"
+        ],
+        "education": [
+          "Beverly Hills High School",
+          "University of California, Los Angeles"
         ],
         "employers": [
           {
@@ -89,30 +308,25 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "university teacher",
           "political scientist",
+          "businessperson",
           "children's writer",
           "film producer",
           "journalist",
           "historian",
-          "businessperson",
+          "writer",
           "entrepreneur",
-          "writer"
+          "university teacher"
         ],
         "education": [
+          "Columbia University Mailman School of Public Health",
           "Sidwell Friends School",
           "Robert F. Wagner Graduate School of Public Service",
           "University College, Oxford",
           "Stanford University",
-          "Mann Arts and Science Magnet Middle School",
-          "Columbia University Mailman School of Public Health"
+          "Mann Arts and Science Magnet Middle School"
         ],
         "employers": [
-          {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -129,6 +343,16 @@
             "end": null
           },
           {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
+          {
+            "company": "New York University",
+            "start": "2010-01-01",
+            "end": null
+          },
+          {
             "company": "Expedia Group",
             "start": "2017-03-01",
             "end": null
@@ -136,11 +360,6 @@
           {
             "company": "Columbia University Mailman School of Public Health",
             "start": "2012-01-01",
-            "end": null
-          },
-          {
-            "company": "New York University",
-            "start": "2010-01-01",
             "end": null
           }
         ],

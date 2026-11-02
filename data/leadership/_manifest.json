@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T12:40:53.143352Z",
-  "totalPeople": 174,
-  "totalTickers": 47,
-  "lastRangeFilter": "N-Z",
-  "thisRunPeople": 50,
-  "thisRunTickers": 109,
+  "generatedAt": "2026-11-02T12:05:25.116410Z",
+  "totalPeople": 185,
+  "totalTickers": 49,
+  "lastRangeFilter": "A-G",
+  "thisRunPeople": 70,
+  "thisRunTickers": 85,
   "index": [
     {
       "qid": "Q370191",
@@ -21,6 +21,7 @@
       "name": "Ariane Gorin",
       "slug": "ariane-gorin",
       "tickers": [
+        "EXPE",
         "EXPE"
       ],
       "positionsCount": 1,
@@ -31,6 +32,7 @@
       "name": "Barry Diller",
       "slug": "barry-diller",
       "tickers": [
+        "EXPE",
         "EXPE"
       ],
       "positionsCount": 0,
@@ -849,7 +851,7 @@
       "tickers": [
         "CMA"
       ],
-      "positionsCount": 5,
+      "positionsCount": 6,
       "employersCount": 1
     },
     {
@@ -1763,6 +1765,116 @@
       ],
       "positionsCount": 3,
       "employersCount": 2
+    },
+    {
+      "qid": "Q141732725",
+      "name": "Martin Varley",
+      "slug": "martin-varley",
+      "tickers": [
+        "ALT"
+      ],
+      "positionsCount": 0,
+      "employersCount": 3
+    },
+    {
+      "qid": "Q136823654",
+      "name": "Bernhard Osburg",
+      "slug": "bernhard-osburg",
+      "tickers": [
+        "DB"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q112960765",
+      "name": "Daniela Gerd tom Markotten",
+      "slug": "daniela-gerd-tom-markotten",
+      "tickers": [
+        "DB"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q65770093",
+      "name": "Michael Peterson",
+      "slug": "michael-peterson",
+      "tickers": [
+        "DB"
+      ],
+      "positionsCount": 0,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q42939881",
+      "name": "Martin Seiler",
+      "slug": "martin-seiler",
+      "tickers": [
+        "DB"
+      ],
+      "positionsCount": 1,
+      "employersCount": 1
+    },
+    {
+      "qid": "Q115735456",
+      "name": "Henrique Dubugras",
+      "slug": "henrique-dubugras",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114837491",
+      "name": "Patricia Menendez-Cambo",
+      "slug": "patricia-menendez-cambo",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q114692639",
+      "name": "Craig Jacobson",
+      "slug": "craig-jacobson",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q112629173",
+      "name": "Alexandr Wang",
+      "slug": "alexandr-wang",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
+    },
+    {
+      "qid": "Q5221979",
+      "name": "Dara Khosrowshahi",
+      "slug": "dara-khosrowshahi",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 4
+    },
+    {
+      "qid": "Q4720526",
+      "name": "Prince Alexander von F\u00fcrstenberg",
+      "slug": "prince-alexander-von-f-rstenberg",
+      "tickers": [
+        "EXPE"
+      ],
+      "positionsCount": 0,
+      "employersCount": 0
     }
   ]
 }

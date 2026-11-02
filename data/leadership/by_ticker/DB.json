@@ -1,5 +1,102 @@
 {
   "ticker": "DB",
-  "fetchedAt": "2026-10-26T09:41:18.844849Z",
-  "people": []
+  "fetchedAt": "2026-11-02T12:05:25.086956Z",
+  "people": [
+    {
+      "qid": "Q136823654",
+      "name": "Bernhard Osburg",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q136823654",
+        "name": "Bernhard Osburg",
+        "dateOfBirth": "1968-09-22",
+        "birthPlace": "Duisburg",
+        "image": null,
+        "occupations": [
+          "manager",
+          "executive"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q112960765",
+      "name": "Daniela Gerd tom Markotten",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q112960765",
+        "name": "Daniela Gerd tom Markotten",
+        "dateOfBirth": "1974-01-01",
+        "birthPlace": "Bielefeld",
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniela%20Gerd%20tom%20Markotten%202021.jpg",
+        "occupations": [
+          "management engineer"
+        ],
+        "education": [],
+        "employers": [],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q65770093",
+      "name": "Michael Peterson",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q65770093",
+        "name": "Michael Peterson",
+        "dateOfBirth": "1970-10-11",
+        "birthPlace": null,
+        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Peterson%20%282022%29.jpg",
+        "occupations": [
+          "manager"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Deutsche Bahn",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    },
+    {
+      "qid": "Q42939881",
+      "name": "Martin Seiler",
+      "role_at_company": "Board Member",
+      "source_field": "board",
+      "career": {
+        "qid": "Q42939881",
+        "name": "Martin Seiler",
+        "dateOfBirth": "1964-01-01",
+        "birthPlace": "Baden-Baden",
+        "image": null,
+        "occupations": [
+          "manager"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Deutsche Bahn",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
+      }
+    }
+  ]
 }

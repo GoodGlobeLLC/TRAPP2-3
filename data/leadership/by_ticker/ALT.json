@@ -1,5 +1,42 @@
 {
   "ticker": "ALT",
-  "fetchedAt": "2026-10-26T09:41:18.835413Z",
-  "people": []
+  "fetchedAt": "2026-11-02T12:05:25.077115Z",
+  "people": [
+    {
+      "qid": "Q141732725",
+      "name": "Martin Varley",
+      "role_at_company": "Founder",
+      "source_field": "founders",
+      "career": {
+        "qid": "Q141732725",
+        "name": "Martin Varley",
+        "dateOfBirth": null,
+        "birthPlace": null,
+        "image": null,
+        "occupations": [
+          "entrepreneur",
+          "businessperson"
+        ],
+        "education": [],
+        "employers": [
+          {
+            "company": "Altitude Group Plc",
+            "start": "2005-01-01",
+            "end": "2018-01-01"
+          },
+          {
+            "company": "Altitude Group Plc",
+            "start": "2025-10-01",
+            "end": null
+          },
+          {
+            "company": "4imprint plc",
+            "start": null,
+            "end": null
+          }
+        ],
+        "positions": []
+      }
+    }
+  ]
 }
