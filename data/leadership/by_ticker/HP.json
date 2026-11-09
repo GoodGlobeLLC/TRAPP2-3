@@ -1,6 +1,6 @@
 {
   "ticker": "HP",
-  "fetchedAt": "2026-11-02T13:04:45.660957Z",
+  "fetchedAt": "2026-11-09T13:37:03.575687Z",
   "people": [
     {
       "qid": "Q73185799",
@@ -40,8 +40,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "The Wharton School"
+          "The Wharton School",
+          "Stanford University"
         ],
         "employers": [],
         "positions": []
@@ -62,9 +62,9 @@
           "chemist"
         ],
         "education": [
-          "Iowa State University",
           "Florida International University",
-          "University of Montpellier"
+          "University of Montpellier",
+          "Iowa State University"
         ],
         "employers": [],
         "positions": []
@@ -177,8 +177,8 @@
           "banker"
         ],
         "education": [
-          "Harvard University",
-          "Radcliffe College"
+          "Radcliffe College",
+          "Harvard University"
         ],
         "employers": [],
         "positions": [
@@ -323,6 +323,11 @@
         ],
         "employers": [
           {
+            "company": "Carnegie Mellon University",
+            "start": null,
+            "end": null
+          },
+          {
             "company": "Nanyang Technological University",
             "start": null,
             "end": null
@@ -330,11 +335,6 @@
           {
             "company": "Singapore Management University",
             "start": "2018-01-01",
-            "end": null
-          },
-          {
-            "company": "Carnegie Mellon University",
-            "start": null,
             "end": null
           },
           {
@@ -358,9 +358,9 @@
         "birthPlace": "Pueblo",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David-Packard-DepSecDef.jpg",
         "occupations": [
-          "engineer",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "engineer"
         ],
         "education": [
           "Stanford University",

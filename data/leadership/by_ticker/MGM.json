@@ -1,6 +1,6 @@
 {
   "ticker": "MGM",
-  "fetchedAt": "2026-11-02T13:04:45.671880Z",
+  "fetchedAt": "2026-11-09T13:37:03.585053Z",
   "people": [
     {
       "qid": "Q1373662",
@@ -15,8 +15,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcus%20Loew.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "impresario"
+          "impresario",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [
