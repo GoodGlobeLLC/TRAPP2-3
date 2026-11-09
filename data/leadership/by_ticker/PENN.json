@@ -1,6 +1,6 @@
 {
   "ticker": "PENN",
-  "fetchedAt": "2026-11-02T15:12:22.262591Z",
+  "fetchedAt": "2026-11-09T15:40:12.707521Z",
   "people": [
     {
       "qid": "Q8018403",
@@ -53,8 +53,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg",
         "occupations": [
           "polymath",
-          "writer",
           "politician",
+          "writer",
           "diplomat"
         ],
         "education": [

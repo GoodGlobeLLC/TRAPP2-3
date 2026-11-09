@@ -1,29 +1,24 @@
 {
   "ticker": "RYAAY",
-  "fetchedAt": "2026-11-02T15:12:22.267811Z",
+  "fetchedAt": "2026-11-09T15:40:12.710879Z",
   "people": [
     {
-      "qid": "Q137910641",
+      "qid": "Q24795213",
       "name": "Eddie Wilson",
       "role_at_company": "Chief Executive Officer",
       "source_field": "executives",
       "career": {
-        "qid": "Q137910641",
+        "qid": "Q24795213",
         "name": "Eddie Wilson",
-        "dateOfBirth": null,
-        "birthPlace": null,
+        "dateOfBirth": "1936-06-05",
+        "birthPlace": "Ludwigsburg",
         "image": null,
         "occupations": [
-          "chief executive officer"
+          "musician",
+          "singer"
         ],
         "education": [],
-        "employers": [
-          {
-            "company": "Ryanair",
-            "start": null,
-            "end": null
-          }
-        ],
+        "employers": [],
         "positions": []
       }
     },
@@ -39,13 +34,13 @@
         "birthPlace": "Los Angeles",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/David%20Bonderman.jpg",
         "occupations": [
-          "financier",
-          "lawyer"
+          "lawyer",
+          "financier"
         ],
         "education": [
+          "Harvard Law School",
           "University High School",
-          "University of Washington Michael G. Foster School of Business",
-          "Harvard Law School"
+          "University of Washington Michael G. Foster School of Business"
         ],
         "employers": [
           {

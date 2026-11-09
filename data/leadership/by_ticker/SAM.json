@@ -1,6 +1,6 @@
 {
   "ticker": "SAM",
-  "fetchedAt": "2026-11-02T15:12:22.268118Z",
+  "fetchedAt": "2026-11-09T15:40:12.711045Z",
   "people": [
     {
       "qid": "Q6196179",
@@ -14,8 +14,8 @@
         "birthPlace": "Cincinnati",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Jim%20Koch%202013.jpg",
         "occupations": [
-          "chief executive officer",
-          "chairperson of the executive board"
+          "chairperson of the executive board",
+          "chief executive officer"
         ],
         "education": [
           "Harvard Business School",
