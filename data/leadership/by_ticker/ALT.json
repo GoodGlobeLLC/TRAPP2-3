@@ -1,6 +1,6 @@
 {
   "ticker": "ALT",
-  "fetchedAt": "2026-11-02T12:05:25.077115Z",
+  "fetchedAt": "2026-11-09T12:38:16.077677Z",
   "people": [
     {
       "qid": "Q141732725",
@@ -14,8 +14,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [],
         "employers": [

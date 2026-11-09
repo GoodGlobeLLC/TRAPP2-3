@@ -1,6 +1,6 @@
 {
   "ticker": "BB",
-  "fetchedAt": "2026-11-02T12:05:25.079698Z",
+  "fetchedAt": "2026-11-09T12:38:16.079931Z",
   "people": [
     {
       "qid": "Q6256206",
@@ -14,8 +14,8 @@
         "birthPlace": "British Hong Kong",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/John%20Chen%20at%20Techonomy%202010.jpg",
         "occupations": [
-          "chief executive officer",
-          "businessperson"
+          "businessperson",
+          "chief executive officer"
         ],
         "education": [
           "California Institute of Technology",

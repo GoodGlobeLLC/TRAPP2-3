@@ -1,6 +1,6 @@
 {
   "ticker": "CHWY",
-  "fetchedAt": "2026-11-02T12:05:25.083710Z",
+  "fetchedAt": "2026-11-09T12:38:16.083434Z",
   "people": [
     {
       "qid": "Q99691919",
@@ -17,9 +17,9 @@
           "chief executive officer"
         ],
         "education": [
-          "I. K. Gujral Punjab Technical University",
           "Booth School of Business",
-          "University of Texas at Austin"
+          "University of Texas at Austin",
+          "I. K. Gujral Punjab Technical University"
         ],
         "employers": [
           {
@@ -43,8 +43,8 @@
         "birthPlace": "Montreal",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ryan%20Cohen%202019.jpg",
         "occupations": [
-          "business executive",
-          "entrepreneur"
+          "entrepreneur",
+          "business executive"
         ],
         "education": [],
         "employers": [

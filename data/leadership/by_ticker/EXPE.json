@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-11-02T12:05:25.090221Z",
+  "fetchedAt": "2026-11-09T12:38:16.089092Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -17,8 +17,8 @@
           "business executive"
         ],
         "education": [
-          "Kellogg School of Management",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -49,13 +49,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
+          "film producer",
           "entrepreneur",
-          "film producer"
+          "business executive"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -109,8 +109,8 @@
           "business executive"
         ],
         "education": [
-          "Kellogg School of Management",
-          "University of California, Berkeley"
+          "University of California, Berkeley",
+          "Kellogg School of Management"
         ],
         "employers": [
           {
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "Brown University",
-          "George Washington University Law School"
+          "George Washington University Law School",
+          "Brown University"
         ],
         "employers": [],
         "positions": []
@@ -178,9 +178,9 @@
         "birthPlace": "Los Alamos",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Pousaz%20%26%20Alexandr%20Wang%20-%20The%20Grove%202022%20%28Wang%20crop%29.jpg",
         "occupations": [
+          "businessperson",
           "entrepreneur",
-          "computer scientist",
-          "businessperson"
+          "computer scientist"
         ],
         "education": [
           "Massachusetts Institute of Technology",
@@ -246,8 +246,8 @@
         "birthPlace": "Malibu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Alex%20Von%20Furstenberg%20-profile.jpg",
         "occupations": [
-          "businessperson",
-          "socialite"
+          "socialite",
+          "businessperson"
         ],
         "education": [
           "Brown University"
@@ -268,13 +268,13 @@
         "birthPlace": "San Francisco",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
-          "business executive",
+          "film producer",
           "entrepreneur",
-          "film producer"
+          "business executive"
         ],
         "education": [
-          "Beverly Hills High School",
-          "University of California, Los Angeles"
+          "University of California, Los Angeles",
+          "Beverly Hills High School"
         ],
         "employers": [
           {
@@ -308,25 +308,30 @@
         "birthPlace": "Little Rock",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
-          "political scientist",
-          "businessperson",
           "children's writer",
-          "film producer",
+          "university teacher",
+          "political scientist",
           "journalist",
+          "film producer",
           "historian",
           "writer",
-          "entrepreneur",
-          "university teacher"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
-          "Columbia University Mailman School of Public Health",
           "Sidwell Friends School",
           "Robert F. Wagner Graduate School of Public Service",
           "University College, Oxford",
-          "Stanford University",
-          "Mann Arts and Science Magnet Middle School"
+          "Mann Arts and Science Magnet Middle School",
+          "Columbia University Mailman School of Public Health",
+          "Stanford University"
         ],
         "employers": [
+          {
+            "company": "New York University",
+            "start": "2010-01-01",
+            "end": null
+          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -346,11 +351,6 @@
             "company": "NBC",
             "start": "2011-11-01",
             "end": "2014-08-01"
-          },
-          {
-            "company": "New York University",
-            "start": "2010-01-01",
-            "end": null
           },
           {
             "company": "Expedia Group",

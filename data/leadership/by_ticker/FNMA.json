@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-11-02T12:05:25.091515Z",
+  "fetchedAt": "2026-11-09T12:38:16.090243Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -28,6 +28,16 @@
             "end": "2009-01-01"
           },
           {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
+          },
+          {
             "company": "Fannie Mae",
             "start": "2009-01-01",
             "end": "2010-01-01"
@@ -41,16 +51,6 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
-          },
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -174,9 +174,9 @@
           "university teacher"
         ],
         "education": [
-          "University of Manchester",
           "Massachusetts Institute of Technology",
-          "University of Oxford"
+          "University of Oxford",
+          "University of Manchester"
         ],
         "employers": [
           {
@@ -218,10 +218,10 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "lawyer",
-          "politician",
           "economist",
-          "businessperson"
+          "businessperson",
+          "politician",
+          "lawyer"
         ],
         "education": [
           "University of Kansas",
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School",
-          "Stanford Graduate School of Business"
+          "Harvard Medical School"
         ],
         "employers": [],
         "positions": []
@@ -288,9 +288,9 @@
           "adjunct professor"
         ],
         "education": [
-          "Yale University",
           "College of Europe",
-          "London School of Economics and Political Science"
+          "London School of Economics and Political Science",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -376,9 +376,9 @@
           "businessperson"
         ],
         "education": [
-          "Yale University",
           "Boston University",
-          "Fisk University"
+          "Fisk University",
+          "Yale University"
         ],
         "employers": [],
         "positions": []
@@ -426,6 +426,11 @@
         ],
         "employers": [
           {
+            "company": "Leidos",
+            "start": "2007-01-01",
+            "end": "2013-01-01"
+          },
+          {
             "company": "Defense Advanced Research Projects Agency",
             "start": null,
             "end": null
@@ -434,11 +439,6 @@
             "company": "University of Minnesota",
             "start": null,
             "end": null
-          },
-          {
-            "company": "Leidos",
-            "start": "2007-01-01",
-            "end": "2013-01-01"
           }
         ],
         "positions": []
@@ -476,8 +476,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "law professor",
           "university teacher",
+          "law professor",
           "jurist"
         ],
         "education": [],
