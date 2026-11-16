@@ -1,6 +1,6 @@
 {
   "ticker": "ADV",
-  "fetchedAt": "2026-11-09T12:38:16.076374Z",
+  "fetchedAt": "2026-11-16T12:27:23.713166Z",
   "people": [
     {
       "qid": "Q18207172",
@@ -14,8 +14,8 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "electrical engineer"
         ],
         "education": [
@@ -161,8 +161,8 @@
         "birthPlace": null,
         "image": null,
         "occupations": [
-          "business executive",
-          "lawyer"
+          "lawyer",
+          "business executive"
         ],
         "education": [],
         "employers": [
@@ -271,8 +271,8 @@
         "birthPlace": "Tainan County",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/SXSW-2024-alih-OB7A0861-Lisa%20Su.jpg",
         "occupations": [
-          "chief executive officer",
           "entrepreneur",
+          "chief executive officer",
           "electrical engineer"
         ],
         "education": [

@@ -7,9 +7,9 @@
   "occupations": [
     "banker",
     "surgeon",
-    "politician",
     "physician",
-    "writer"
+    "writer",
+    "politician"
   ],
   "education": [
     "McGill University"

@@ -5,13 +5,13 @@
   "birthPlace": "Los Alamos",
   "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Pousaz%20%26%20Alexandr%20Wang%20-%20The%20Grove%202022%20%28Wang%20crop%29.jpg",
   "occupations": [
-    "businessperson",
     "entrepreneur",
-    "computer scientist"
+    "computer scientist",
+    "businessperson"
   ],
   "education": [
-    "Massachusetts Institute of Technology",
-    "Los Alamos High School"
+    "Los Alamos High School",
+    "Massachusetts Institute of Technology"
   ],
   "employers": [],
   "positions": [],

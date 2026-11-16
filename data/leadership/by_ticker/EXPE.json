@@ -1,6 +1,6 @@
 {
   "ticker": "EXPE",
-  "fetchedAt": "2026-11-09T12:38:16.089092Z",
+  "fetchedAt": "2026-11-16T12:27:23.723631Z",
   "people": [
     {
       "qid": "Q115614624",
@@ -50,8 +50,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -159,8 +159,8 @@
         "image": null,
         "occupations": [],
         "education": [
-          "George Washington University Law School",
-          "Brown University"
+          "Brown University",
+          "George Washington University Law School"
         ],
         "employers": [],
         "positions": []
@@ -178,13 +178,13 @@
         "birthPlace": "Los Alamos",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Guillaume%20Pousaz%20%26%20Alexandr%20Wang%20-%20The%20Grove%202022%20%28Wang%20crop%29.jpg",
         "occupations": [
-          "businessperson",
           "entrepreneur",
-          "computer scientist"
+          "computer scientist",
+          "businessperson"
         ],
         "education": [
-          "Massachusetts Institute of Technology",
-          "Los Alamos High School"
+          "Los Alamos High School",
+          "Massachusetts Institute of Technology"
         ],
         "employers": [],
         "positions": []
@@ -202,8 +202,8 @@
         "birthPlace": "Tehran",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/CEO%20of%20Uber%20Technologies%20Dara%20Khosrowshahi%20in%20New%20York%20-%202019%20%28cropped%29.jpg",
         "occupations": [
-          "entrepreneur",
-          "businessperson"
+          "businessperson",
+          "entrepreneur"
         ],
         "education": [
           "Brown University",
@@ -269,8 +269,8 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Barry%20Diller%20Shankbone%20Metropolitan%20Opera%202009.jpg",
         "occupations": [
           "film producer",
-          "entrepreneur",
-          "business executive"
+          "business executive",
+          "entrepreneur"
         ],
         "education": [
           "University of California, Los Angeles",
@@ -309,14 +309,14 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Chelsea%20Clinton%20at%20the%20British%20Embassy%20in%20Washington%2C%20D.C.%20on%20January%208%2C%202024%20%28cropped%29.jpg",
         "occupations": [
           "children's writer",
-          "university teacher",
+          "film producer",
           "political scientist",
           "journalist",
-          "film producer",
+          "university teacher",
+          "entrepreneur",
           "historian",
-          "writer",
           "businessperson",
-          "entrepreneur"
+          "writer"
         ],
         "education": [
           "Sidwell Friends School",
@@ -327,11 +327,6 @@
           "Stanford University"
         ],
         "employers": [
-          {
-            "company": "New York University",
-            "start": "2010-01-01",
-            "end": null
-          },
           {
             "company": "Clinton Foundation",
             "start": "2011-01-01",
@@ -348,11 +343,6 @@
             "end": null
           },
           {
-            "company": "NBC",
-            "start": "2011-11-01",
-            "end": "2014-08-01"
-          },
-          {
             "company": "Expedia Group",
             "start": "2017-03-01",
             "end": null
@@ -360,6 +350,16 @@
           {
             "company": "Columbia University Mailman School of Public Health",
             "start": "2012-01-01",
+            "end": null
+          },
+          {
+            "company": "NBC",
+            "start": "2011-11-01",
+            "end": "2014-08-01"
+          },
+          {
+            "company": "New York University",
+            "start": "2010-01-01",
             "end": null
           }
         ],
