@@ -1,6 +1,6 @@
 {
   "ticker": "FNMA",
-  "fetchedAt": "2026-11-16T12:27:23.724444Z",
+  "fetchedAt": "2026-11-23T14:02:03.967144Z",
   "people": [
     {
       "qid": "Q18085292",
@@ -18,24 +18,14 @@
           "entrepreneur"
         ],
         "education": [
-          "New York University School of Law",
-          "Cornell University"
+          "Cornell University",
+          "New York University School of Law"
         ],
         "employers": [
           {
             "company": "Bank of America",
             "start": "2004-01-01",
             "end": "2009-01-01"
-          },
-          {
-            "company": "Credit Suisse",
-            "start": "2000-01-01",
-            "end": "2001-01-01"
-          },
-          {
-            "company": "Deutsche Bank",
-            "start": "2002-01-01",
-            "end": "2004-01-01"
           },
           {
             "company": "Fannie Mae",
@@ -51,6 +41,16 @@
             "company": "Fannie Mae",
             "start": "2012-01-01",
             "end": "2018-01-01"
+          },
+          {
+            "company": "Credit Suisse",
+            "start": "2000-01-01",
+            "end": "2001-01-01"
+          },
+          {
+            "company": "Deutsche Bank",
+            "start": "2002-01-01",
+            "end": "2004-01-01"
           },
           {
             "company": "Silicon Valley Bridge Bank",
@@ -218,9 +218,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Sheila%20Bair%20-%20PopTech%202012%20%28cropped%29.jpg",
         "occupations": [
           "university teacher",
-          "economist",
-          "businessperson",
           "politician",
+          "businessperson",
+          "economist",
           "lawyer"
         ],
         "education": [
@@ -264,9 +264,9 @@
         "image": null,
         "occupations": [],
         "education": [
+          "Stanford Graduate School of Business",
           "University of California, Los Angeles",
-          "Harvard Medical School",
-          "Stanford Graduate School of Business"
+          "Harvard Medical School"
         ],
         "employers": [],
         "positions": []
@@ -284,12 +284,12 @@
         "birthPlace": "Murcia",
         "image": null,
         "occupations": [
-          "adjunct professor",
-          "businessperson"
+          "businessperson",
+          "adjunct professor"
         ],
         "education": [
-          "London School of Economics and Political Science",
           "College of Europe",
+          "London School of Economics and Political Science",
           "Yale University"
         ],
         "employers": [],
@@ -334,8 +334,8 @@
           "economist"
         ],
         "education": [
-          "Stanford University",
           "John F. Kennedy School of Government",
+          "Stanford University",
           "University of Oxford"
         ],
         "employers": [],
@@ -421,8 +421,8 @@
           "businessperson"
         ],
         "education": [
-          "Stanford University",
-          "Princeton University"
+          "Princeton University",
+          "Stanford University"
         ],
         "employers": [
           {
@@ -477,8 +477,8 @@
         "image": null,
         "occupations": [
           "university teacher",
-          "law professor",
-          "jurist"
+          "jurist",
+          "law professor"
         ],
         "education": [],
         "employers": [],

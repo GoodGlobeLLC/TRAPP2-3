@@ -6,11 +6,26 @@
   "image": null,
   "occupations": [
     "manager",
-    "executive"
+    "mechanical engineer",
+    "executive",
+    "joiner"
   ],
   "education": [],
   "employers": [],
-  "positions": [],
+  "positions": [
+    {
+      "title": "board member",
+      "company": null,
+      "start": null,
+      "end": null
+    },
+    {
+      "title": "chairperson of the executive board",
+      "company": null,
+      "start": null,
+      "end": null
+    }
+  ],
   "currentTickers": [
     "DB"
   ]

@@ -1,6 +1,6 @@
 {
   "ticker": "DB",
-  "fetchedAt": "2026-11-16T12:27:23.721322Z",
+  "fetchedAt": "2026-11-23T14:02:03.961275Z",
   "people": [
     {
       "qid": "Q136823654",
@@ -15,11 +15,26 @@
         "image": null,
         "occupations": [
           "manager",
-          "executive"
+          "mechanical engineer",
+          "executive",
+          "joiner"
         ],
         "education": [],
         "employers": [],
-        "positions": []
+        "positions": [
+          {
+            "title": "board member",
+            "company": null,
+            "start": null,
+            "end": null
+          },
+          {
+            "title": "chairperson of the executive board",
+            "company": null,
+            "start": null,
+            "end": null
+          }
+        ]
       }
     },
     {
@@ -34,7 +49,8 @@
         "birthPlace": "Bielefeld",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniela%20Gerd%20tom%20Markotten%202021.jpg",
         "occupations": [
-          "management engineer"
+          "management engineer",
+          "executive"
         ],
         "education": [],
         "employers": [],
@@ -53,6 +69,7 @@
         "birthPlace": null,
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Michael%20Peterson%20%282022%29.jpg",
         "occupations": [
+          "business consultant",
           "manager"
         ],
         "education": [],

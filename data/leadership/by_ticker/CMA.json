@@ -1,6 +1,6 @@
 {
   "ticker": "CMA",
-  "fetchedAt": "2026-11-16T12:27:23.719660Z",
+  "fetchedAt": "2026-11-23T14:02:03.958206Z",
   "people": [
     {
       "qid": "Q128672",
@@ -16,8 +16,8 @@
         "occupations": [
           "diplomat",
           "politician",
-          "physician",
-          "lawyer"
+          "lawyer",
+          "physician"
         ],
         "education": [
           "University of Edinburgh Medical School"
@@ -142,9 +142,9 @@
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20George%20Roddick.png",
         "occupations": [
           "university teacher",
-          "dean",
-          "politician",
           "surgeon",
+          "politician",
+          "dean",
           "physician"
         ],
         "education": [
@@ -290,8 +290,8 @@
           "physician"
         ],
         "education": [
-          "University of Edinburgh",
-          "University of Sydney"
+          "University of Sydney",
+          "University of Edinburgh"
         ],
         "employers": [
           {
@@ -372,8 +372,8 @@
         "birthPlace": "Inverness",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/James%20Alexander%20Grant.jpg",
         "occupations": [
-          "physician",
-          "politician"
+          "politician",
+          "physician"
         ],
         "education": [],
         "employers": [],
@@ -569,9 +569,9 @@
         "occupations": [
           "banker",
           "surgeon",
+          "politician",
           "physician",
-          "writer",
-          "politician"
+          "writer"
         ],
         "education": [
           "McGill University"
@@ -681,9 +681,9 @@
         "birthPlace": "Corfu",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Duke%20of%20Edinburgh%2033%20Allan%20Warren.jpg",
         "occupations": [
+          "polo player",
           "naval officer",
           "prince consort",
-          "polo player",
           "military officer"
         ],
         "education": [
