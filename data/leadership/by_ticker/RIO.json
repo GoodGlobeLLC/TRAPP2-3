@@ -1,6 +1,6 @@
 {
   "ticker": "RIO",
-  "fetchedAt": "2026-11-16T15:14:58.545133Z",
+  "fetchedAt": "2026-11-23T17:45:51.904983Z",
   "people": [
     {
       "qid": "Q23416859",
@@ -116,17 +116,22 @@
         "birthPlace": "London",
         "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auckland%20Geddes.png",
         "occupations": [
+          "politician",
           "anatomist",
-          "diplomat",
-          "military officer",
           "physician",
-          "politician"
+          "diplomat",
+          "military officer"
         ],
         "education": [
           "University of Edinburgh",
           "George Watson's College"
         ],
         "employers": [
+          {
+            "company": "University of Edinburgh",
+            "start": null,
+            "end": null
+          },
           {
             "company": "McGill University",
             "start": null,
@@ -136,14 +141,21 @@
             "company": "Foreign Office",
             "start": null,
             "end": null
-          },
-          {
-            "company": "University of Edinburgh",
-            "start": null,
-            "end": null
           }
         ],
         "positions": [
+          {
+            "title": "Minister of Reconstruction",
+            "company": null,
+            "start": "1919-01-01",
+            "end": "1919-01-01"
+          },
+          {
+            "title": "member of the 31st Parliament of the United Kingdom",
+            "company": null,
+            "start": "1918-12-14",
+            "end": "1920-03-15"
+          },
           {
             "title": "ambassador of the United Kingdom to the United States",
             "company": null,
@@ -167,18 +179,6 @@
             "company": null,
             "start": "1920-01-01",
             "end": "1922-01-01"
-          },
-          {
-            "title": "Minister of Reconstruction",
-            "company": null,
-            "start": "1919-01-01",
-            "end": "1919-01-01"
-          },
-          {
-            "title": "member of the 31st Parliament of the United Kingdom",
-            "company": null,
-            "start": "1918-12-14",
-            "end": "1920-03-15"
           },
           {
             "title": "President of the Board of Trade",
